@@ -1,1 +1,48 @@
-{ "timezone": "Europe/Rome", "days": [ { "date": "2025-11-09", "title": "≈ 1400 kcal — Olio 10 g | Sale aggiungibile max ≈ 1.90 g", "lines": [ "Colazione — Macine Mulino Bianco 2 (≈24 g) + Yogurt Yomo Rinforzo fragola 125 g", "Pranzo — Pasta di grano duro 100 g (crudo) + Parmigiano Reggiano 6 g + Passata di pomodoro 150 g + Olio EVO 6 g + Mela 150 g", "Merenda pomeriggio — Crackers Mulino Bianco 1 pacco (25 g)", "Cena — Fusi di pollo senza pelle 200 g (peso a crudo con osso) + Patate 280 g (crude, forno) + Olio EVO 4 g + Banana 120 g", "Dopo cena — Arachidi sgusciate 10 g", "Totali — ≈1400 kcal | Olio EVO 10 g | Sale aggiungibile max ≈1.90 g" ], "oil_evo_total_g": 10, "salt_total_max_g": 1.9 }, { "date": "2025-11-10", "title": "≈ 1400 kcal — Olio 9 g | Sale aggiungibile max ≈ 1.20 g", "lines": [ "Colazione — Macine Mulino Bianco 2 (≈24 g) + Yogurt Yomo Rinforzo fragola 125 g", "Merenda mattina — Crackers Mulino Bianco 2 pacchi (25 g × 2)", "Pranzo — Minestrone Tradizione Leggero Findus 350 g + Pane grano duro 50 g + Olio EVO 5 g + Banana 150 g", "Merenda pomeriggio — Crackers Mulino Bianco 1 pacco (25 g)", "Cena — Frittata al forno (2 uova) + Pane grano duro 40 g + Pomodori 150 g + Olio EVO 4 g (totale, inclusa cottura) + Mela 150 g", "Dopo cena — Arachidi sgusciate 7 g", "Totali — ≈1400 kcal | Olio EVO 9 g | Sale aggiungibile max ≈1.20 g" ], "oil_evo_total_g": 9, "salt_total_max_g": 1.2 } ] }
+{
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2025-11-11",
+"title": "≈ 1502 kcal | P ≈ 54.8 g • C ≈ 222.6 g • F ≈ 42.7 g — Olio 9 g | Sale aggiungibile max ≈ 2.15 g",
+"lines": [
+"Colazione — Macine Mulino Bianco 2 (≈24 g) + Yogurt Yomo Rinforzo fragola 125 g",
+"Merenda mattina — Crackers Mulino Bianco 2 pacchi (25 g × 2)",
+"Pranzo — Pasta di grano duro 105 g (crudo) + Parmigiano Reggiano 7 g + Olio EVO 5 g",
+"Merenda pomeriggio — Crackers Mulino Bianco 1 pacco (25 g)",
+"Cena — Frittata al forno (3 uova) + Pane grano duro 45 g + Pomodori 150 g + Olio EVO 3 g (totale cottura) + Mela 150 g",
+"Totali — ≈1500 kcal | P ≈55 g • C ≈216 g • F ≈48 g | Olio EVO 8 g | Sale aggiungibile max ≈1.30 g"
+],
+"oil_evo_total_g": 8,
+"salt_total_max_g": 1.3
+},
+{
+"date": "2025-11-12",
+"title": "≈ 1290 kcal | P ≈ 61.0 g • C ≈ 187.9 g • F ≈ 32.3 g — Olio 10 g | Sale aggiungibile max ≈ 3.67 g",
+"lines": [
+"Colazione — Macine Mulino Bianco 2 (≈24 g) + Yogurt Yomo Rinforzo fragola 125 g",
+"Merenda mattina — Crackers Mulino Bianco 1 pacco (25 g)",
+"Pranzo — Riso basmati 105 g (crudo) + Parmigiano Reggiano 6 g + Olio EVO 4 g + Mandarino 120 g",
+"Merenda pomeriggio — Crackers Mulino Bianco 1 pacco (25 g)",
+"Cena — Petto di pollo 140 g (piastra) + Pomodori 150 g + Olio EVO 6 g + Mela 150 g",
+"Dopo cena — Arachidi sgusciate 8 g",
+"Totali — ≈1290 kcal | P ≈61.0 g • C ≈187.9 g • F ≈32.3 g | Olio EVO 10 g | Sale aggiungibile max ≈3.67 g"
+],
+"oil_evo_total_g": 10,
+"salt_total_max_g": 3.67
+},
+{
+"date": "2025-11-13",
+"title": "≈ 1390 kcal | P ≈ 58.1 g • C ≈ 190.6 g • F ≈ 45.1 g — Olio 6 g | Sale aggiungibile max ≈ 2.32 g",
+"lines": [
+"Colazione — Macine Mulino Bianco 2 (≈24 g) + Yogurt Yomo Rinforzo fragola 125 g",
+"Merenda mattina — Crackers Mulino Bianco 1 pacco (25 g)",
+"Pranzo — Pasta di grano duro 70 g (crudo) + Fagioli 180 g (lessi) + Olio EVO 3 g + Mandarino 150 g",
+"Merenda pomeriggio — Crackers Mulino Bianco 1 pacco (25 g)",
+"Cena — Mozzarella 100 g + Prosciutto crudo 20 g + Pane grano duro 20 g + Insalata 80 g + Olio EVO 3 g + Mela 120 g",
+"Totali — ≈1390 kcal | P ≈58.1 g • C ≈190.6 g • F ≈45.1 g | Olio EVO 6 g | Sale aggiungibile max ≈2.32 g"
+],
+"oil_evo_total_g": 6,
+"salt_total_max_g": 2.32
+}
+]
+}
