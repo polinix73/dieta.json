@@ -1,1 +1,117 @@
-{"timezone":"Europe/Rome","days":[{"date":"2025-11-28","title":"Mario 1500 kcal","lines":["Colazione: 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g.","Spuntino metà mattina: 2 pacchetti di crackers da 25 g l’uno (totale 50 g).","Pranzo: pasta di semola di grano duro 70 g (peso a crudo) con olio extravergine di oliva 10 g e Grana Padano/Parmigiano 10 g; 1 mela 150 g.","Spuntino pomeriggio: 1 pacchetto di crackers da 25 g.","Cena: fesa di tacchino 100 g (alla piastra), pane di grano duro 60 g, insalata mista 100 g con olio extravergine di oliva 5 g; 1 mela 150 g."],"oil_evo_total_g":15,"salt_total_max_g":5},{"date":"2025-11-29","title":"Mario 1500 kcal","lines":["Colazione: 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g.","Spuntino metà mattina: 2 pacchetti di crackers da 25 g l’uno (totale 50 g).","Pranzo: pasta di semola di grano duro 70 g (peso a crudo) con olio extravergine di oliva 10 g e Grana Padano/Parmigiano 10 g; 1 mela 150 g.","Spuntino pomeriggio: 1 pacchetto di crackers da 25 g.","Cena: fesa di tacchino 100 g (alla piastra), pane di grano duro 60 g, insalata mista 100 g con olio extravergine di oliva 5 g; 1 mela 150 g."],"oil_evo_total_g":15,"salt_total_max_g":5}]}
+{
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2025-11-28",
+"title": "1500 kcal - Olio 15 g | Na cap <= 2.5 g | Sale aggiungibile max 5.0 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g",
+"Merenda mattina - 2 pacchetti di crackers (25 g l'uno, tot. 50 g)",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 10 g + Grana Padano/Parmigiano 10 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers da 25 g",
+"Cena - Fesa di tacchino 100 g (piastra) + Pane di grano duro 70 g + Insalata mista 100 g condita con Olio EVO 5 g + Mela 150 g",
+"Totali - 1500 kcal"
+],
+"oil_evo_total_g": 15,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2025-11-29",
+"title": "1500 kcal - Olio 15 g | Na cap <= 2.5 g | Sale aggiungibile max 5.0 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g",
+"Merenda mattina - 2 pacchetti di crackers (25 g l'uno, tot. 50 g)",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 10 g + Grana Padano/Parmigiano 10 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers da 25 g",
+"Cena - Fesa di tacchino 100 g (piastra) + Pane di grano duro 70 g + Insalata mista 100 g condita con Olio EVO 5 g + Mela 150 g",
+"Totali - 1500 kcal"
+],
+"oil_evo_total_g": 15,
+"salt_total_max_g": 5.0
+},
+{
+"date": "2025-11-30",
+"title": "1500 kcal - Olio 15 g | Na cap <= 1.7 g | Sale aggiungibile max 2.5 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g",
+"Merenda mattina - 2 pacchetti di crackers (25 g l'uno, tot. 50 g)",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 10 g + Grana Padano/Parmigiano 10 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers da 25 g",
+"Cena - Fesa di tacchino 100 g (piastra) + Pane di grano duro senza sale 70 g + Insalata mista 100 g condita con Olio EVO 5 g (poca fibra totale nella giornata) + Mela 150 g",
+"Totali - 1500 kcal"
+],
+"oil_evo_total_g": 15,
+"salt_total_max_g": 2.5
+},
+{
+"date": "2025-12-01",
+"title": "1500 kcal - Olio 15 g | Na cap <= 1.6 g | Sale aggiungibile max 2.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g",
+"Merenda mattina - 2 pacchetti di crackers (25 g l'uno, tot. 50 g)",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 10 g + Grana Padano/Parmigiano 10 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers da 25 g",
+"Cena - Petto di pollo 100 g (piastra, senza sale) + Pane di grano duro senza sale 60 g + Zucchine grigliate 100 g condite con Olio EVO 5 g + Mela 150 g",
+"Totali - 1500 kcal"
+],
+"oil_evo_total_g": 15,
+"salt_total_max_g": 2.2
+},
+{
+"date": "2025-12-02",
+"title": "1500 kcal - Olio 15 g | Na cap <= 1.4 g | Sale aggiungibile max 1.8 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g",
+"Merenda mattina - 2 pacchetti di crackers (25 g l'uno, tot. 50 g)",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 10 g + Grana Padano/Parmigiano 10 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers da 25 g",
+"Cena - Mozzarella fiordilatte 70 g + Pane di grano duro senza sale 55 g + Pomodori da insalata 100 g con Olio EVO 5 g + Mela 150 g (se possibile sbucciata)",
+"Totali - 1500 kcal"
+],
+"oil_evo_total_g": 15,
+"salt_total_max_g": 1.8
+},
+{
+"date": "2025-12-03",
+"title": "1500 kcal - Olio 13 g | Na cap <= 1.2 g | Sale aggiungibile max 1.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g",
+"Merenda mattina - 2 pacchetti di crackers (25 g l'uno, tot. 50 g)",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 8 g + Grana Padano/Parmigiano 10 g + Mela 130–150 g ben sbucciata",
+"Merenda pomeriggio - 1 pacchetto di crackers da 25 g",
+"Cena - Fesa di tacchino 100 g (piastra, senza sale) + Pane bianco di grano duro senza sale 75 g + Carote lesse 80 g condite con Olio EVO 5 g (solo verdura cotta) + Mela sbucciata 130–150 g",
+"Totali - 1500 kcal"
+],
+"oil_evo_total_g": 13,
+"salt_total_max_g": 1.2
+},
+{
+"date": "2025-12-04",
+"title": "1500 kcal - Olio 13 g | Na cap <= 1.0 g | Sale aggiungibile max 0.8 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g",
+"Merenda mattina - 2 pacchetti di crackers (25 g l'uno, tot. 50 g)",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) condita con Olio EVO 8 g + Grana Padano/Parmigiano 10 g + Banana piccola (~100 g)",
+"Merenda pomeriggio - 1 pacchetto di crackers da 25 g",
+"Cena - Petto di pollo 100 g (piastra, senza sale) + Pane bianco di grano duro senza sale 65 g + Zucchine lesse 75 g condite con Olio EVO 5 g + Mela sbucciata 130–150 g",
+"Totali - 1500 kcal"
+],
+"oil_evo_total_g": 13,
+"salt_total_max_g": 0.8
+},
+{
+"date": "2025-12-05",
+"title": "1500 kcal - Olio 12 g | Na cap <= 0.8 g | Sale aggiungibile max 0.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (~39 g) + 1 vasetto yogurt Esselunga alla fragola magro 125 g",
+"Merenda mattina - 2 pacchetti di crackers (25 g l'uno, tot. 50 g)",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 7 g + Pochissimo Grana Padano/Parmigiano (5 g) + Banana 100 g",
+"Merenda pomeriggio - 1 pacchetto di crackers da 25 g",
+"Cena - Philadelphia light 100 g + Pane senza sale 75 g (grano duro) + Olio EVO 5 g + Banana 100 g",
+"Totali - 1500 kcal"
+],
+"oil_evo_total_g": 12,
+"salt_total_max_g": 0.2
+}
+]
+}
