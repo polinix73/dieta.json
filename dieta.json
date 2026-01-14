@@ -1,83 +1,75 @@
 {
-"timezone":"Europe/Rome",
-"days":[
+"timezone": "Europe/Rome",
+"days": [
 {
-"date":"2026-01-13",
-"title":"1500 kcal stima - Olio EVO 12 g - Acqua 1.8 L",
-"lines":[
-"Colazione - 3 biscotti Macine Mulino Bianco 39 g + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi senza granelli di sale 2 pacchetti",
-"Pranzo - Pasta di semola 60 g a crudo + Parmigiano Reggiano 5 g + Olio EVO 6 g + Mela 150 g",
-"Merenda pomeriggio - Cracker Gran Pavesi senza granelli di sale 1 pacchetto",
-"Cena - Philadelphia Light 40 g + Pane di grano duro senza sale 90 g + Olio EVO 6 g + Mandarini 150 g"
+"date": "2026-01-14",
+"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.8 g | Sale aggiungibile max 0.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine Mulino Bianco (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+"Merenda mattina - 2 pacchetti di crackers Gran Pavesi senza granelli di sale in superficie",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Parmigiano Reggiano 3 g + Olio EVO 6 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi senza granelli di sale in superficie",
+"Cena - Philadelphia Light 40 g + Pane di grano duro senza sale 110 g + Olio EVO 6 g + Mandarini 150 g",
+"Totali (stima) - 1500 kcal circa; Na alimentare stimato entro 0.8 g; sale aggiuntivo consigliato massimo 0.2 g"
 ],
-"oil_evo_total_g":12,
-"salt_total_max_g":0
+"oil_evo_total_g": 12,
+"salt_total_max_g": 0.2
 },
 {
-"date":"2026-01-14",
-"title":"1500 kcal stima - Olio EVO 12 g - Acqua 1.8 L",
-"lines":[
-"Colazione - 3 biscotti Macine Mulino Bianco 39 g + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi senza granelli di sale 2 pacchetti",
-"Pranzo - Pasta di semola 60 g a crudo + Parmigiano Reggiano 5 g + Olio EVO 6 g + Mela 150 g",
-"Merenda pomeriggio - Cracker Gran Pavesi senza granelli di sale 1 pacchetto",
-"Cena - Philadelphia Light 40 g + Pane di grano duro senza sale 90 g + Olio EVO 6 g + Mandarini 150 g"
+"date": "2026-01-15",
+"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.8 g | Sale aggiungibile max 0.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine Mulino Bianco (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+"Merenda mattina - 2 pacchetti di crackers Gran Pavesi senza granelli di sale in superficie",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Parmigiano Reggiano 3 g + Olio EVO 6 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi senza granelli di sale in superficie",
+"Cena - Mozzarella fiordilatte 70 g + Pane di grano duro senza sale 60 g + Pomodori da insalata 100 g + Olio EVO 6 g + Mela 150 g",
+"Totali (stima) - 1500 kcal circa; Na alimentare stimato entro 0.8 g; sale aggiuntivo consigliato massimo 0.2 g"
 ],
-"oil_evo_total_g":12,
-"salt_total_max_g":0
+"oil_evo_total_g": 12,
+"salt_total_max_g": 0.2
 },
 {
-"date":"2026-01-15",
-"title":"1500 kcal stima - Olio EVO 12 g - Acqua 1.8 L",
-"lines":[
-"Colazione - 3 biscotti Macine Mulino Bianco 39 g + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi senza granelli di sale 2 pacchetti",
-"Pranzo - Pasta di semola 60 g a crudo + Parmigiano Reggiano 5 g + Olio EVO 6 g + Mela 150 g",
-"Merenda pomeriggio - Cracker Gran Pavesi senza granelli di sale 1 pacchetto",
-"Cena - Philadelphia Light 40 g + Pane di grano duro senza sale 90 g + Olio EVO 6 g + Mandarini 150 g"
+"date": "2026-01-16",
+"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.8 g | Sale aggiungibile max 0.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine Mulino Bianco (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+"Merenda mattina - 2 pacchetti di crackers Gran Pavesi senza granelli di sale in superficie",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Parmigiano Reggiano 3 g + Olio EVO 6 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi senza granelli di sale in superficie",
+"Cena - Fesa di tacchino 120 g (piastra, senza sale) + Pane di grano duro senza sale 80 g + Zucchine lesse 80 g + Olio EVO 6 g + Mela 150 g",
+"Totali (stima) - 1500 kcal circa; Na alimentare stimato entro 0.8 g; sale aggiuntivo consigliato massimo 0.2 g"
 ],
-"oil_evo_total_g":12,
-"salt_total_max_g":0
+"oil_evo_total_g": 12,
+"salt_total_max_g": 0.2
 },
 {
-"date":"2026-01-16",
-"title":"1500 kcal stima - Olio EVO 12 g - Sodio max 1800 mg - Acqua 1.8 L",
-"lines":[
-"Colazione - 3 biscotti Macine Mulino Bianco 39 g + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi senza granelli di sale 2 pacchetti",
-"Pranzo - Pasta di semola 60 g a crudo + Parmigiano Reggiano 5 g + Olio EVO 6 g + Mela 150 g",
-"Merenda pomeriggio - Cracker Gran Pavesi senza granelli di sale 1 pacchetto",
-"Cena - Philadelphia Light 40 g + Pane di grano duro senza sale 90 g + Olio EVO 6 g + Mandarini 150 g"
+"date": "2026-01-17",
+"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.8 g | Sale aggiungibile max 0.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine Mulino Bianco (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+"Merenda mattina - 2 pacchetti di crackers Gran Pavesi senza granelli di sale in superficie",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Parmigiano Reggiano 3 g + Olio EVO 6 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi senza granelli di sale in superficie",
+"Cena - Petto di pollo 120 g (piastra, senza sale) + Pane di grano duro senza sale 75 g + Carote lesse 80 g + Olio EVO 6 g + Mela 150 g",
+"Totali (stima) - 1500 kcal circa; Na alimentare stimato entro 0.8 g; sale aggiuntivo consigliato massimo 0.2 g"
 ],
-"oil_evo_total_g":12,
-"salt_total_max_g":4.5
+"oil_evo_total_g": 12,
+"salt_total_max_g": 0.2
 },
 {
-"date":"2026-01-17",
-"title":"1500 kcal stima - Olio EVO 12 g - Sodio max 1700 mg - Acqua 1.8 L",
-"lines":[
-"Colazione - 3 biscotti Macine Mulino Bianco 39 g + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi senza granelli di sale 2 pacchetti",
-"Pranzo - Pasta di semola 60 g a crudo + Parmigiano Reggiano 5 g + Olio EVO 6 g + Mela 150 g",
-"Merenda pomeriggio - Cracker Gran Pavesi senza granelli di sale 1 pacchetto",
-"Cena - Philadelphia Light 40 g + Pane di grano duro senza sale 90 g + Olio EVO 6 g + Mandarini 150 g"
+"date": "2026-01-18",
+"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.8 g | Sale aggiungibile max 0.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine Mulino Bianco (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+"Merenda mattina - 2 pacchetti di crackers Gran Pavesi senza granelli di sale in superficie",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Parmigiano Reggiano 3 g + Olio EVO 6 g + Mela 150 g",
+"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi senza granelli di sale in superficie",
+"Cena - Fesa di tacchino 100 g (piastra, senza sale) + Pane di grano duro senza sale 90 g + Olio EVO 6 g + Mandarini 150 g",
+"Totali (stima) - 1500 kcal circa; Na alimentare stimato entro 0.8 g; sale aggiuntivo consigliato massimo 0.2 g"
 ],
-"oil_evo_total_g":12,
-"salt_total_max_g":4.3
-},
-{
-"date":"2026-01-18",
-"title":"1500 kcal stima - Olio EVO 12 g - Sodio max 1600 mg - Acqua 1.8 L",
-"lines":[
-"Colazione - 3 biscotti Macine Mulino Bianco 39 g + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi senza granelli di sale 2 pacchetti",
-"Pranzo - Pasta di semola 60 g a crudo + Parmigiano Reggiano 5 g + Olio EVO 6 g + Mela 150 g",
-"Merenda pomeriggio - Cracker Gran Pavesi senza granelli di sale 1 pacchetto",
-"Cena - Philadelphia Light 40 g + Pane di grano duro senza sale 90 g + Olio EVO 6 g + Mandarini 150 g"
-],
-"oil_evo_total_g":12,
-"salt_total_max_g":4.0
+"oil_evo_total_g": 12,
+"salt_total_max_g": 0.2
 }
 ]
 }
