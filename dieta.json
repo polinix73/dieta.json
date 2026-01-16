@@ -98,3 +98,20 @@
 ],
 "oil_evo_total_g": 12,
 "salt_total_max_g": 1.4
+},
+{
+"date": "2026-01-23",
+"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.7 g | Sale aggiungibile max 1.2 g | Acqua 1.8 L",
+"lines": [
+"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+"Merenda mattina - Mela 150 g",
+"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (senza Parmigiano)",
+"Merenda pomeriggio - Mela 150 g + Mandorle non salate 10 g",
+"Cena - Fesa di tacchino 110 g (piastra, senza sale) + Pane di grano duro senza sale 60 g + Olio EVO 6 g + Mela 130 g",
+"Totali (stima) - circa 1250 kcal; sodio dai cibi circa 0.22 g; sale aggiuntivo massimo 1.2 g al giorno (resti entro Na cap 0.7 g fino alla pesa)"
+],
+"oil_evo_total_g": 12,
+"salt_total_max_g": 1.2
+}
+]
+}
