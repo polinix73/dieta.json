@@ -1,117 +1,117 @@
 {
-"timezone": "Europe/Rome",
-"days": [
-{
-"date": "2026-01-16",
-"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.8 g | Sale aggiungibile max 2.4 g | Acqua 1.8 L",
-"lines": [
-"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-"Merenda mattina - 2 pacchetti di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
-"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Parmigiano Reggiano 3 g + Mela 150 g",
-"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
-"Cena - Fesa di tacchino 110 g (piastra, senza sale) + Pane di grano duro senza sale 75 g + Carote lesse 80 g condite con Olio EVO 6 g + Mela 150 g",
-"Totali (stima) - circa 1515 kcal; sodio dai cibi circa 0.84 g; sale aggiuntivo massimo 2.2 g al giorno (resti entro Na cap 1.8 g)"
-],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 2.4
-},
-{
-"date": "2026-01-17",
-"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.7 g | Sale aggiungibile max 2.1 g | Acqua 1.8 L",
-"lines": [
-"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-"Merenda mattina - 2 pacchetti di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
-"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Parmigiano Reggiano 3 g + Mela 150 g",
-"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
-"Cena - Petto di pollo 110 g (piastra, senza sale) + Pane di grano duro senza sale 70 g + Zucchine lesse 80 g condite con Olio EVO 6 g + Mela 150 g",
-"Totali (stima) - circa 1520 kcal; sodio dai cibi circa 0.85 g; sale aggiuntivo massimo 2.1 g al giorno (resti entro Na cap 1.7 g)"
-],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 2.1
-},
-{
-"date": "2026-01-18",
-"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.6 g | Sale aggiungibile max 1.7 g | Acqua 1.8 L",
-"lines": [
-"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-"Merenda mattina - 2 pacchetti di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
-"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Parmigiano Reggiano 3 g + Mela 150 g",
-"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
-"Cena - Mozzarella fiordilatte 60 g + Pane di grano duro senza sale 60 g + Pomodori da insalata 100 g conditi con Olio EVO 6 g + Mela 150 g",
-"Totali (stima) - circa 1510 kcal; sodio dai cibi circa 0.90 g; sale aggiuntivo massimo 1.7 g al giorno (resti entro Na cap 1.6 g)"
-],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 1.7
-},
-{
-"date": "2026-01-19",
-"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.4 g | Sale aggiungibile max 1.4 g | Acqua 1.8 L",
-"lines": [
-"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-"Merenda mattina - 2 pacchetti di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
-"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Parmigiano Reggiano 3 g + Mela 150 g",
-"Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
-"Cena - Fesa di tacchino 100 g (piastra, senza sale) + Pane di grano duro senza sale 60 g + Carote lesse 70 g condite con Olio EVO 6 g + Mandarini 150 g",
-"Totali (stima) - circa 1470 kcal; sodio dai cibi circa 0.83 g; sale aggiuntivo massimo 1.2 g al giorno (resti entro Na cap 1.4 g)"
-],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 1.4
-},
-{
-"date": "2026-01-20",
-"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.2 g | Sale aggiungibile max 2.4 g | Acqua 1.8 L",
-"lines": [
-"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-"Merenda mattina - Mela 150 g",
-"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (niente Parmigiano nei giorni di taglio forte del sodio)",
-"Merenda pomeriggio - Mela 150 g + Mandorle non salate 20 g",
-"Cena - Petto di pollo 130 g (piastra, senza sale) + Pane di grano duro senza sale 80 g + Zucchine lesse 80 g condite con Olio EVO 6 g + Mandarini 150 g",
-"Totali (stima) - circa 1430 kcal; sodio dai cibi circa 0.25 g; sale aggiuntivo massimo 2.4 g al giorno (resti entro Na cap 1.2 g)"
-],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 2.4
-},
-{
-"date": "2026-01-21",
-"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.0 g | Sale aggiungibile max 1.9 g | Acqua 1.8 L",
-"lines": [
-"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-"Merenda mattina - Mela 150 g",
-"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (senza Parmigiano)",
-"Merenda pomeriggio - Mela 150 g + Mandorle non salate 20 g",
-"Cena - Fesa di tacchino 130 g (piastra, senza sale) + Pane di grano duro senza sale 70 g + Carote lesse 70 g condite con Olio EVO 6 g + Mandarini 150 g",
-"Totali (stima) - circa 1390 kcal; sodio dai cibi circa 0.23 g; sale aggiuntivo massimo 1.7 g al giorno (resti entro Na cap 1.0 g)"
-],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 1.9
-},
-{
-"date": "2026-01-22",
-"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.8 g | Sale aggiungibile max 1.4 g | Acqua 1.8 L",
-"lines": [
-"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-"Merenda mattina - Mela 150 g",
-"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (senza Parmigiano)",
-"Merenda pomeriggio - Mela 150 g + Mandorle non salate 15 g",
-"Cena - Petto di pollo 120 g (piastra, senza sale) + Pane di grano duro senza sale 70 g + Olio EVO 6 g (a crudo o in cottura) + Mela 150 g",
-"Totali (stima) - circa 1345 kcal; sodio dai cibi circa 0.24 g; sale aggiuntivo massimo 1.4 g al giorno (resti entro Na cap 0.8 g)"
-],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 1.4
-},
-{
-"date": "2026-01-23",
-"title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.7 g | Sale aggiungibile max 1.2 g | Acqua 1.8 L",
-"lines": [
-"Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-"Merenda mattina - Mela 150 g",
-"Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (senza Parmigiano)",
-"Merenda pomeriggio - Mela 150 g + Mandorle non salate 10 g",
-"Cena - Fesa di tacchino 110 g (piastra, senza sale) + Pane di grano duro senza sale 60 g + Olio EVO 6 g + Mela 130 g",
-"Totali (stima) - circa 1250 kcal; sodio dai cibi circa 0.22 g; sale aggiuntivo massimo 1.2 g al giorno (resti entro Na cap 0.7 g fino alla pesa)"
-],
-"oil_evo_total_g": 12,
-"salt_total_max_g": 1.2
-}
-]
+  "timezone": "Europe/Rome",
+  "days": [
+    {
+      "date": "2026-01-16",
+      "title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.8 g | Sale aggiungibile max 2.4 g | Acqua 1.8 L",
+      "lines": [
+        "Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - 2 pacchetti di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
+        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Parmigiano Reggiano 3 g + Mela 150 g",
+        "Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
+        "Cena - Fesa di tacchino 110 g (piastra, senza sale) + Pane di grano duro senza sale 75 g + Carote lesse 80 g condite con Olio EVO 6 g + Mela 150 g",
+        "Totali (stima) - circa 1515 kcal; sodio dai cibi circa 0.84 g; sale aggiuntivo massimo 2.2 g al giorno (resti entro Na cap 1.8 g)"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 2.4
+    },
+    {
+      "date": "2026-01-17",
+      "title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.7 g | Sale aggiungibile max 2.1 g | Acqua 1.8 L",
+      "lines": [
+        "Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - 2 pacchetti di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
+        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Parmigiano Reggiano 3 g + Mela 150 g",
+        "Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
+        "Cena - Petto di pollo 110 g (piastra, senza sale) + Pane di grano duro senza sale 70 g + Zucchine lesse 80 g condite con Olio EVO 6 g + Mela 150 g",
+        "Totali (stima) - circa 1520 kcal; sodio dai cibi circa 0.85 g; sale aggiuntivo massimo 2.1 g al giorno (resti entro Na cap 1.7 g)"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 2.1
+    },
+    {
+      "date": "2026-01-18",
+      "title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.6 g | Sale aggiungibile max 1.7 g | Acqua 1.8 L",
+      "lines": [
+        "Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - 2 pacchetti di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
+        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Parmigiano Reggiano 3 g + Mela 150 g",
+        "Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
+        "Cena - Mozzarella fiordilatte 60 g + Pane di grano duro senza sale 60 g + Pomodori da insalata 100 g conditi con Olio EVO 6 g + Mela 150 g",
+        "Totali (stima) - circa 1510 kcal; sodio dai cibi circa 0.90 g; sale aggiuntivo massimo 1.7 g al giorno (resti entro Na cap 1.6 g)"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 1.7
+    },
+    {
+      "date": "2026-01-19",
+      "title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.4 g | Sale aggiungibile max 1.4 g | Acqua 1.8 L",
+      "lines": [
+        "Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - 2 pacchetti di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
+        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Parmigiano Reggiano 3 g + Mela 150 g",
+        "Merenda pomeriggio - 1 pacchetto di crackers Gran Pavesi Il Cracker Salato senza granelli di sale in superficie",
+        "Cena - Fesa di tacchino 100 g (piastra, senza sale) + Pane di grano duro senza sale 60 g + Carote lesse 70 g condite con Olio EVO 6 g + Mandarini 150 g",
+        "Totali (stima) - circa 1470 kcal; sodio dai cibi circa 0.83 g; sale aggiuntivo massimo 1.2 g al giorno (resti entro Na cap 1.4 g)"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 1.4
+    },
+    {
+      "date": "2026-01-20",
+      "title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.2 g | Sale aggiungibile max 2.4 g | Acqua 1.8 L",
+      "lines": [
+        "Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - Mela 150 g",
+        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (niente Parmigiano nei giorni di taglio forte del sodio)",
+        "Merenda pomeriggio - Mela 150 g + Mandorle non salate 20 g",
+        "Cena - Petto di pollo 130 g (piastra, senza sale) + Pane di grano duro senza sale 80 g + Zucchine lesse 80 g condite con Olio EVO 6 g + Mandarini 150 g",
+        "Totali (stima) - circa 1430 kcal; sodio dai cibi circa 0.25 g; sale aggiuntivo massimo 2.4 g al giorno (resti entro Na cap 1.2 g)"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 2.4
+    },
+    {
+      "date": "2026-01-21",
+      "title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 1.0 g | Sale aggiungibile max 1.9 g | Acqua 1.8 L",
+      "lines": [
+        "Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - Mela 150 g",
+        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (senza Parmigiano)",
+        "Merenda pomeriggio - Mela 150 g + Mandorle non salate 20 g",
+        "Cena - Fesa di tacchino 130 g (piastra, senza sale) + Pane di grano duro senza sale 70 g + Carote lesse 70 g condite con Olio EVO 6 g + Mandarini 150 g",
+        "Totali (stima) - circa 1390 kcal; sodio dai cibi circa 0.23 g; sale aggiuntivo massimo 1.7 g al giorno (resti entro Na cap 1.0 g)"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 1.9
+    },
+    {
+      "date": "2026-01-22",
+      "title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.8 g | Sale aggiungibile max 1.4 g | Acqua 1.8 L",
+      "lines": [
+        "Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - Mela 150 g",
+        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (senza Parmigiano)",
+        "Merenda pomeriggio - Mela 150 g + Mandorle non salate 15 g",
+        "Cena - Petto di pollo 120 g (piastra, senza sale) + Pane di grano duro senza sale 70 g + Olio EVO 6 g (a crudo o in cottura) + Mela 150 g",
+        "Totali (stima) - circa 1345 kcal; sodio dai cibi circa 0.24 g; sale aggiuntivo massimo 1.4 g al giorno (resti entro Na cap 0.8 g)"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 1.4
+    },
+    {
+      "date": "2026-01-23",
+      "title": "1500 kcal (stima) - Olio EVO 12 g | Na cap <= 0.7 g | Sale aggiungibile max 1.2 g | Acqua 1.8 L",
+      "lines": [
+        "Colazione - 3 biscotti Macine (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - Mela 150 g",
+        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Olio EVO 6 g + Mela 150 g (senza Parmigiano)",
+        "Merenda pomeriggio - Mela 150 g + Mandorle non salate 10 g",
+        "Cena - Fesa di tacchino 110 g (piastra, senza sale) + Pane di grano duro senza sale 60 g + Olio EVO 6 g + Mela 130 g",
+        "Totali (stima) - circa 1250 kcal; sodio dai cibi circa 0.22 g; sale aggiuntivo massimo 1.2 g al giorno (resti entro Na cap 0.7 g fino alla pesa)"
+      ],
+      "oil_evo_total_g": 12,
+      "salt_total_max_g": 1.2
+    }
+  ]
 }
