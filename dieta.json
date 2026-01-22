@@ -2,46 +2,18 @@
   "timezone": "Europe/Rome",
   "days": [
     {
-      "date": "2026-01-20",
-      "title": "1800 kcal (Target) - Olio EVO 20 g | Na cap <= 1.2 g | Sale aggiungibile max 0.7 g | Acqua 1.8 L",
-      "lines": [
-        "Colazione - 3 biscotti Macine Mulino Bianco (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-        "Merenda mattina - Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 2 pacchetti (31.25 g ciascuno)",
-        "Pranzo - Pasta di semola di grano duro 70 g (peso a crudo) + Parmigiano Reggiano 5 g + Olio EVO 6 g + Mela 150 g",
-        "Merenda pomeriggio - Banana (circa 150 g) [Sostituzione effettuata]",
-        "Cena - Petto di pollo 180 g (piastra, senza sale) + Pane di grano duro senza sale 130 g + Olio EVO 14 g + Mela 150 g (se possibile sbucciata)",
-        "Totali - 1800 kcal (stima)"
-      ],
-      "oil_evo_total_g": 20,
-      "salt_total_max_g": 0.7
-    },
-    {
-      "date": "2026-01-21",
-      "title": "1800 kcal (Target) - Olio EVO 22 g | Na cap <= 1.0 g | Sale aggiungibile max 0.2 g | Acqua 1.8 L",
-      "lines": [
-        "Colazione - 3 biscotti Macine Mulino Bianco (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
-        "Merenda mattina - Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 2 pacchetti (31.25 g ciascuno)",
-        "Pranzo - Pasta di semola di grano duro 90 g (peso a crudo) + Parmigiano Reggiano 3 g + Olio EVO 10 g + Mela 150 g (se possibile sbucciata)",
-        "Merenda pomeriggio - Mela 150 g",
-        "Cena - Sovracoscia di pollo senza pelle 180 g (peso a crudo, forno o piastra, senza sale) + Pane di grano duro senza sale 110 g + Olio EVO 12 g + Mandarini 150 g",
-        "Totali - 1800 kcal (stima)"
-      ],
-      "oil_evo_total_g": 22,
-      "salt_total_max_g": 0.2
-    },
-    {
       "date": "2026-01-22",
-      "title": "1800 kcal (Target) - Olio EVO 22 g | Na cap <= 0.8 g | Sale aggiungibile max 0.1 g | Acqua 1.8 L",
+      "title": "1300 kcal (LOW RESIDUE) - Olio EVO 30 g | Na cap <= 0.8 g | NO FIBRE | Acqua 2.0 L",
       "lines": [
-        "Colazione - 1 biscotto Macine Mulino Bianco (circa 13 g) + Yogurt Yomo Rinforzo alla fragola 90 g + Pane di grano duro senza sale 60 g",
-        "Merenda mattina - Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 2 pacchetti (31.25 g ciascuno) [Attenzione: fonte principale di sodio oggi]",
-        "Pranzo - Pasta di semola di grano duro 90 g (peso a crudo) + Parmigiano Reggiano 3 g + Olio EVO 10 g + Mela 150 g (se possibile sbucciata)",
-        "Merenda pomeriggio - Mela 150 g",
-        "Cena - Petto di pollo 160 g (piastra, senza sale) + Pane di grano duro senza sale 140 g + Olio EVO 12 g + Mela 150 g (se possibile sbucciata)",
-        "Totali - 1800 kcal (stima)"
+        "Colazione - 3 biscotti Macine Mulino Bianco (circa 39 g) + Yogurt Yomo Rinforzo alla fragola 90 g",
+        "Merenda mattina - Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 2 pacchetti (31.25 g ciascuno) [NON AGGIUNGERE ALTRO]",
+        "Pranzo - Pasta di semola di grano duro 80 g (peso a crudo) + Olio EVO 15 g [Niente Mela, Niente Verdura, Niente Sale]",
+        "Merenda pomeriggio - (Saltata per evitare residui solidi - solo acqua/caffè amaro)",
+        "Cena [NO SCORIE] - Petto di pollo 170 g (piastra, senza sale) + Olio EVO 15 g [Niente Verdura, Niente Pane]",
+        "Totali - 1300 kcal (Low Residue per peso domani) - Sodio 790/800 mg (Critico)"
       ],
-      "oil_evo_total_g": 22,
-      "salt_total_max_g": 0.1
+      "oil_evo_total_g": 30,
+      "salt_total_max_g": 0.0
     }
   ]
 }
