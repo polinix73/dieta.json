@@ -2,20 +2,6 @@
 "timezone": "Europe/Rome",
 "days": [
 {
-"date": "2026-02-16",
-"title": "≈1800 kcal - Olio EVO 15 g | Na cap <= 1650 mg | Sale aggiungibile max 1.1 g | Acqua 1.8 L",
-"lines": [
-"Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi (porzione 31.25 g) 2 pacchetti",
-"Pranzo - Pasta di semola di grano duro 100 g (crudo) + Grana Padano 5 g + Olio EVO 10 g + Mela 150 g (sbucciata)",
-"Merenda pomeriggio - Cracker Gran Pavesi (porzione 31.25 g) 1 pacchetto",
-"Cena - Tonno Mareblu al naturale 80 g (sgocciolato) + Pane di grano duro senza sale 160 g + Olio EVO 5 g + Mandarini 150 g",
-"Totali (calcolati) - 1800 kcal | P 64 g | C 290 g | F 42 g | Na alimentare 1182 mg"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 1.1
-},
-{
 "date": "2026-02-17",
 "title": "≈1800 kcal - Olio EVO 15 g | Na cap <= 1550 mg | Sale aggiungibile max 1.4 g | Acqua 1.8 L",
 "lines": [
