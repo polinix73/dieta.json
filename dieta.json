@@ -2,75 +2,61 @@
 "timezone": "Europe/Rome",
 "days": [
 {
-"date": "2026-02-17",
-"title": "≈1800 kcal - Olio EVO 15 g | Na cap <= 1550 mg | Sale aggiungibile max 1.4 g | Acqua 1.8 L",
-"lines": [
-"Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi (porzione 31.25 g) 2 pacchetti",
-"Pranzo - Pasta di semola di grano duro 100 g (crudo) + Grana Padano 5 g + Olio EVO 10 g + Mela 150 g (sbucciata)",
-"Merenda pomeriggio - Cracker Gran Pavesi (porzione 31.25 g) 1 pacchetto",
-"Cena - Nodini Deliziosa 80 g + Pane di grano duro senza sale 130 g + Olio EVO 5 g + Mandarini 100 g",
-"Totali (calcolati) - 1797 kcal | P 55 g | C 267 g | F 56 g | Na alimentare 974 mg"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 1.4
-},
-{
 "date": "2026-02-18",
-"title": "≈1800 kcal - Olio EVO 15 g | Na cap <= 1450 mg | Sale aggiungibile max 0.6 g | Acqua 1.8 L",
+"title": "2000 kcal (calcolate) - Olio EVO 15 g | Na cap <= 1200 mg | Sale aggiungibile max 0.5 g | Acqua 1.8 L",
 "lines": [
 "Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi (porzione 31.25 g) 2 pacchetti",
-"Pranzo - Pasta di semola di grano duro 100 g (crudo) + Grana Padano 5 g + Olio EVO 10 g + Mela 150 g (sbucciata)",
-"Merenda pomeriggio - Cracker Gran Pavesi (porzione 31.25 g) 1 pacchetto",
-"Cena - Tonno Mareblu al naturale 80 g (sgocciolato) + Pane di grano duro senza sale 160 g + Olio EVO 5 g + Mandarini 150 g",
-"Totali (calcolati) - 1800 kcal | P 64 g | C 290 g | F 42 g | Na alimentare 1182 mg"
+"Merenda mattina - Banana 100 g (oppure Mela 150 g sbucciata)",
+"Pranzo - Pasta di semola di grano duro 170 g (crudo) + Olio EVO 10 g + Mela 150 g (sbucciata)",
+"Merenda pomeriggio - Banana 100 g (oppure Mela 150 g sbucciata)",
+"Cena - Tonno Mareblu al naturale 80 g + Pane grano duro senza sale 225 g + Olio EVO 5 g + Banana 100 g (oppure Mela 150 g sbucciata)",
+"Totali (calcolati) - ~1980 kcal (varia ±25 kcal in base a mela/banana) | Na alimentare ~650 mg | Na totale max (con sale 0.5 g) ~847 mg"
 ],
 "oil_evo_total_g": 15,
-"salt_total_max_g": 0.6
+"salt_total_max_g": 0.5
 },
 {
 "date": "2026-02-19",
-"title": "≈1800 kcal - Olio EVO 15 g | Na cap <= 1300 mg | Sale aggiungibile max 0.8 g | Acqua 1.8 L",
+"title": "2000 kcal (calcolate) - Olio EVO 15 g | Na cap <= 1000 mg | Sale aggiungibile max 0.4 g | Acqua 1.8 L",
 "lines": [
 "Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi (porzione 31.25 g) 2 pacchetti",
-"Pranzo - Pasta di semola di grano duro 100 g (crudo) + Grana Padano 5 g + Olio EVO 10 g + Mela 150 g (sbucciata)",
-"Merenda pomeriggio - Cracker Gran Pavesi (porzione 31.25 g) 1 pacchetto",
-"Cena - Nodini Deliziosa 80 g + Pane di grano duro senza sale 130 g + Olio EVO 5 g + Mandarini 100 g",
-"Totali (calcolati) - 1797 kcal | P 55 g | C 267 g | F 56 g | Na alimentare 974 mg"
+"Merenda mattina - Cracker Gran Pavesi senza granelli di sale in superficie 1 pacchetto (31.25 g)",
+"Pranzo - Pasta di semola di grano duro 170 g (crudo) + Olio EVO 10 g + Mela 150 g (sbucciata)",
+"Merenda pomeriggio - Banana 100 g (oppure Mela 150 g sbucciata)",
+"Cena - Petto di pollo alla piastra 140 g + Pane grano duro senza sale 175 g + Olio EVO 5 g + Banana 100 g (oppure Mela 150 g sbucciata)",
+"Totali (calcolati) - ~1980 kcal (varia ±25 kcal in base a mela/banana) | Na alimentare ~640 mg | Na totale max (con sale 0.4 g) ~797 mg"
 ],
 "oil_evo_total_g": 15,
-"salt_total_max_g": 0.8
+"salt_total_max_g": 0.4
 },
 {
 "date": "2026-02-20",
-"title": "≈1800 kcal - Olio EVO 15 g | Na cap <= 1200 mg | Sale aggiungibile max 0.6 g | Acqua 1.8 L",
+"title": "1800 kcal (calcolate) - Olio EVO 15 g | Na cap <= 800 mg | Sale aggiungibile max 0.1 g | Acqua 1.8 L | Cena presto + pochi carbo",
 "lines": [
 "Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi (porzione 31.25 g) 1 pacchetto + Vitaldin Power Gummies BCAA 1 porzione (3 gummies, 30 g)",
-"Pranzo - Pasta di semola di grano duro 100 g (crudo) + Grana Padano 5 g + Olio EVO 10 g + Mela 150 g (sbucciata)",
-"Merenda pomeriggio - Gelatina di frutta energetica Ecosize fragola/mirtillo rosso/acerola 25 g",
-"Cena - Petto di pollo alla piastra 120 g (cotto, senza sale) + Pane di grano duro senza sale 170 g + Olio EVO 5 g + Mandarini 150 g",
-"Totali (calcolati) - 1805 kcal | P 77 g | C 296 g | F 35 g | Na alimentare 550 mg"
-],
-"oil_evo_total_g": 15,
-"salt_total_max_g": 0.6
-},
-{
-"date": "2026-02-21",
-"title": "≈1800 kcal - Olio EVO 15 g | Na cap <= 1000 mg | Sale aggiungibile max 0.1 g | Acqua 1.8 L",
-"lines": [
-"Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
-"Merenda mattina - Cracker Gran Pavesi (porzione 31.25 g) 2 pacchetti",
-"Pranzo - Pasta di semola di grano duro 100 g (crudo) + Grana Padano 5 g + Olio EVO 10 g + Mela 150 g (sbucciata)",
-"Merenda pomeriggio - Vitaldin Power Gummies BCAA 1 porzione (3 gummies, 30 g)",
-"Cena - Petto di pollo alla piastra 100 g (cotto, senza sale) + Pane di grano duro senza sale 160 g + Olio EVO 5 g + Mandarini 150 g",
-"Nota - Pesata mattina: fino alla pesata non aggiungere sale (anche se il max teorico è 0.1 g). Dopo la pesata reintegra gradualmente.",
-"Totali (calcolati) - 1808 kcal | P 73 g | C 291 g | F 39 g | Na alimentare 688 mg"
+"Merenda mattina - Cracker Gran Pavesi senza granelli di sale in superficie 1 pacchetto (31.25 g)",
+"Pranzo - Pasta di semola di grano duro 200 g (crudo) + Olio EVO 10 g + Mela 150 g (sbucciata)",
+"Merenda pomeriggio - Gelatina di frutta energetica Ecosize 25 g",
+"Cena (entro 18:30) - Petto di pollo alla piastra 200 g + Pane grano duro senza sale 50 g + Olio EVO 5 g + Banana 100 g (oppure Mela 150 g sbucciata)",
+"Totali (calcolati) - ~1790 kcal (varia ±25 kcal in base a mela/banana) | Na alimentare ~640 mg | Na totale max (con sale 0.1 g) ~679 mg"
 ],
 "oil_evo_total_g": 15,
 "salt_total_max_g": 0.1
+},
+{
+"date": "2026-02-21",
+"title": "1800 kcal (calcolate) - Olio EVO 15 g | Na cap <= 700 mg (fino a pesata) | Sale aggiungibile max 0 g | Acqua 1.8 L",
+"lines": [
+"Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
+"Merenda mattina - Gelatina di frutta energetica Ecosize 25 g",
+"Pranzo - Pasta di semola di grano duro 200 g (crudo) + Olio EVO 10 g + Mela 150 g (sbucciata)",
+"Merenda pomeriggio - Gelatina di frutta energetica Ecosize 25 g",
+"Cena - Petto di pollo alla piastra 200 g + Pane grano duro senza sale 70 g + Olio EVO 5 g + Banana 100 g (oppure Mela 150 g sbucciata)",
+"Nota - Pesata: fino alla pesata NON aggiungere sale (max 0 g).",
+"Totali (calcolati) - ~1785 kcal (varia ±25 kcal in base a mela/banana) | Na alimentare ~350 mg | Na totale max (sale 0 g) ~350 mg"
+],
+"oil_evo_total_g": 15,
+"salt_total_max_g": 0.0
 }
 ]
 }
