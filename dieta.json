@@ -5,15 +5,15 @@
       "date": "2026-02-18",
       "title": "2000 kcal (calcolate) - Olio EVO 15 g | Na cap <= 1200 mg | Sale aggiungibile max 0.5 g | Acqua 1.8 L",
       "lines": [
-        "Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
-        "Merenda mattina - Cracker Gran Pavesi senza granelli di sale in superficie 1 pacchetto (31.25 g) + VITALDIN SPORT Power Gummies BCAA 30 g (3 gummies)",
-        "Pranzo - Pasta di semola di grano duro 235 g (crudo) + Olio EVO 10 g + Mela 150 g (sbucciata)",
-        "Merenda pomeriggio - Gelatina di frutta energetica Ecosize 25 g x2 (totale 50 g)",
-        "Cena - Tonno Mareblu al naturale 80 g + Pane grano duro senza sale 80 g + Olio EVO 5 g + Frutta: Mela 150 g (sbucciata) oppure Banana 100 g",
-        "Totali (calcolati) - 2006 kcal (con mela a cena) / 2016 kcal (con banana a cena) | Na alimentare ~978 mg"
-      ],
-      "oil_evo_total_g": 15,
-      "salt_total_max_g": 0.5
+      "Colazione - Macine Mulino Bianco 3 biscotti (13 g ciascuno) + Yogurt Yomo Rinforzo fragola 90 g",
+     "Merenda mattina - Cracker Gran Pavesi senza granelli di sale in superficie 1 pacchetto (31.25 g) + VITALDIN SPORT Power Gummies BCAA 30 g (3 gummies)",
+     "Pranzo - Pasta di semola di grano duro 215 g (crudo) + Grana (grattugiato) 20 g + Olio EVO 10 g + Mela 150 g (sbucciata)",
+     "Merenda pomeriggio - Gelatina di frutta energetica Ecosize 25 g x2 (totale 50 g)",
+     "Cena - Tonno Mareblu al naturale 80 g + Pane grano duro senza sale 80 g + Olio EVO 5 g + Frutta: Mela 150 g (sbucciata) oppure Banana 100 g",
+     "Totali (calcolati) - ~2016 kcal (con mela a cena) / ~2026 kcal (con banana a cena) | Na alimentare ~1118 mg"
+     ],
+     "oil_evo_total_g": 15,
+     "salt_total_max_g": 0.5
     },
     {
       "date": "2026-02-19",
