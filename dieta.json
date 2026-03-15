@@ -1,137 +1,280 @@
 {
-"timezone": "Europe/Rome",
-"days": [
-{
-"date": "2026-03-16",
-"title": "Circa 1900 kcal - Fase pulita prudenziale",
-"lines": [
-"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
-"Pranzo: Pasta secca 115 g + legumi secchi 35 g + sugo semplice senza sale aggiunto 100 g + olio EVO 10 g + banana sbucciata 120 g.",
-"Cena: Petto di pollo fresco 130 g (peso a crudo) + pane fresco senza sale 120 g + olio EVO 20 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
-],
-"oil_evo_total_g": 30,
-"salt_total_max_g": 2.4
-},
-{
-"date": "2026-03-17",
-"title": "Circa 1850 kcal - Fase pulita prudenziale",
-"lines": [
-"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
-"Pranzo: Pasta secca 115 g + sugo semplice senza sale aggiunto 120 g + grana 10 g + olio EVO 10 g + mela sbucciata 150 g.",
-"Cena: Ricotta Vallelata 200 g + pane fresco senza sale 110 g + olio EVO 10 g + verdura 200 g (peso a crudo) + banana sbucciata 120 g."
-],
-"oil_evo_total_g": 20,
-"salt_total_max_g": 1.8
-},
-{
-"date": "2026-03-18",
-"title": "Circa 1780 kcal - Fase pulita prudenziale",
-"lines": [
-"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina: Fonzies 2 buste da 23,5 g.",
-"Pranzo: Pasta secca 105 g + legumi secchi 40 g + sugo semplice senza sale aggiunto 80 g + olio EVO 5 g + banana sbucciata 120 g.",
-"Cena: Stick Rigamonti con Bresaola 50 g + pane fresco senza sale 110 g + olio EVO 20 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
-],
-"oil_evo_total_g": 25,
-"salt_total_max_g": 0.7
-},
-{
-"date": "2026-03-19",
-"title": "Circa 1840 kcal - Fase pulita prudenziale",
-"lines": [
-"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
-"Pranzo: Pasta secca 120 g + sugo semplice senza sale aggiunto 150 g + grana 10 g + olio EVO 10 g + banana sbucciata 120 g.",
-"Cena: Mozzarella Santa Lucia 120 g + pane fresco senza sale 130 g + olio EVO 10 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
-],
-"oil_evo_total_g": 20,
-"salt_total_max_g": 1.6
-},
-{
-"date": "2026-03-20",
-"title": "Circa 1800 kcal - Sodio totale max 1800 mg",
-"lines": [
-"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina: Banana sbucciata 120 g + mela sbucciata 150 g.",
-"Pranzo: Pasta secca 110 g + sugo semplice senza sale aggiunto 150 g + grana 10 g + olio EVO 10 g + banana sbucciata 120 g.",
-"Cena: Petto di tacchino fresco 140 g (peso a crudo) + pane fresco senza sale 130 g + olio EVO 25 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
-],
-"oil_evo_total_g": 35,
-"salt_total_max_g": 3.0
-},
-{
-"date": "2026-03-21",
-"title": "Circa 1790 kcal - Sodio totale max 1700 mg",
-"lines": [
-"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina: Banana sbucciata 120 g + mela cotta/applesauce 150 g.",
-"Pranzo: Pasta secca 115 g + sugo semplice senza sale aggiunto 150 g + olio EVO 10 g + mela sbucciata 150 g.",
-"Cena: Uova intere 4 (circa 200 g sgusciate) + pane fresco senza sale 120 g + olio EVO 20 g + verdura 200 g (peso a crudo) + banana sbucciata 120 g."
-],
-"oil_evo_total_g": 30,
-"salt_total_max_g": 2.4
-},
-{
-"date": "2026-03-22",
-"title": "Circa 1780 kcal - Sodio totale max 1600 mg",
-"lines": [
-"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina: Banana sbucciata 120 g + mela sbucciata 150 g.",
-"Pranzo: Pasta secca 110 g + sugo semplice senza sale aggiunto 120 g + grana 10 g + olio EVO 10 g + banana sbucciata 120 g.",
-"Cena: Petto di pollo fresco 140 g (peso a crudo) + pane fresco senza sale 130 g + olio EVO 20 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
-],
-"oil_evo_total_g": 30,
-"salt_total_max_g": 2.7
-},
-{
-"date": "2026-03-23",
-"title": "Circa 1720 kcal - Sodio totale max 1400 mg",
-"lines": [
-"Colazione: Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
-"Pranzo: Pasta secca 120 g + sugo semplice senza sale aggiunto 120 g + grana 10 g + olio EVO 10 g + banana sbucciata 120 g.",
-"Cena: Petto di tacchino fresco 140 g (peso a crudo) + pane fresco senza sale 140 g + olio EVO 25 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
-],
-"oil_evo_total_g": 35,
-"salt_total_max_g": 1.6
-},
-{
-"date": "2026-03-24",
-"title": "Circa 1680 kcal - Sodio totale max 1200 mg",
-"lines": [
-"Colazione: Banana sbucciata 120 g.",
-"Merenda mattina: Mela cotta/applesauce 150 g.",
-"Pranzo: Pasta secca 130 g + sugo semplice senza sale aggiunto 100 g + olio EVO 10 g + banana sbucciata 120 g.",
-"Cena: Petto di pollo fresco 150 g (peso a crudo) + pane fresco senza sale 110 g + olio EVO 25 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
-],
-"oil_evo_total_g": 35,
-"salt_total_max_g": 2.0
-},
-{
-"date": "2026-03-25",
-"title": "Circa 1710 kcal - Sodio totale max 1000 mg",
-"lines": [
-"Colazione: Banana sbucciata 120 g.",
-"Merenda mattina: Mela cotta/applesauce 150 g.",
-"Pranzo: Pasta secca 130 g + sugo semplice senza sale aggiunto 80 g + olio EVO 10 g + banana sbucciata 120 g.",
-"Cena: Petto di pollo fresco 160 g (peso a crudo) + pane fresco senza sale 120 g + olio EVO 30 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
-],
-"oil_evo_total_g": 40,
-"salt_total_max_g": 2.0
-},
-{
-"date": "2026-03-26",
-"title": "Circa 1710 kcal - Sodio totale max 800 mg",
-"lines": [
-"Colazione: Banana sbucciata 100 g.",
-"Merenda mattina: Mela cotta/applesauce 100 g.",
-"Pranzo: Pasta secca 140 g + sugo semplice senza sale aggiunto 80 g + olio EVO 10 g + banana sbucciata 100 g.",
-"Cena: Petto di pollo fresco 150 g (peso a crudo) + pane fresco senza sale 70 g + olio EVO 30 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 100 g."
-],
-"oil_evo_total_g": 40,
-"salt_total_max_g": 1.6
-}
-]
+  "timezone": "Europe/Rome",
+  "days": [
+    {
+      "date": "2026-03-16",
+      "title": "Circa 1880 kcal - Fase pulita prudenziale",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 35 g + Fonzies 1 busta da 23,5 g.",
+        "Pranzo: Pasta secca 115 g (peso secco) + legumi secchi 35 g (peso secco) + sugo semplice senza sale aggiunto 100 g + olio EVO 10 g + banana sbucciata 120 g.",
+        "Cena: Petto di pollo fresco 130 g (peso a crudo) + pane fresco senza sale 120 g + olio EVO 20 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
+      ],
+      "oil_evo_total_g": 30,
+      "sodium_limit_mg_used": 2300,
+      "sodium_intrinsic_est_mg": 693,
+      "salt_total_max_g": 4.09,
+      "macro_est_g": {
+        "protein_g": 79.3,
+        "carbs_g": 270.8,
+        "fat_g": 55.9
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 17,
+        "carbs_pct_kcal": 58,
+        "fat_pct_kcal": 27
+      },
+      "kcal_est": 1880
+    },
+    {
+      "date": "2026-03-17",
+      "title": "Circa 1865 kcal - Fase pulita prudenziale",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 35 g + Fonzies 1 busta da 23,5 g.",
+        "Pranzo: Pasta secca 110 g (peso secco) + sugo semplice senza sale aggiunto 120 g + grana 10 g + olio EVO 10 g + mela sbucciata 150 g.",
+        "Cena: Ricotta Vallelata 250 g + pane fresco senza sale 90 g + olio EVO 5 g + verdura 200 g (peso a crudo) + banana sbucciata 120 g."
+      ],
+      "oil_evo_total_g": 15,
+      "sodium_limit_mg_used": 2300,
+      "sodium_intrinsic_est_mg": 1100,
+      "salt_total_max_g": 3.05,
+      "macro_est_g": {
+        "protein_g": 62.2,
+        "carbs_g": 252.3,
+        "fat_g": 70.0
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 13,
+        "carbs_pct_kcal": 54,
+        "fat_pct_kcal": 34
+      },
+      "kcal_est": 1864
+    },
+    {
+      "date": "2026-03-18",
+      "title": "Circa 1740 kcal - Fase pulita prudenziale",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina: Fonzies 1 busta da 23,5 g.",
+        "Pranzo: Pasta secca 115 g (peso secco) + legumi secchi 40 g (peso secco) + sugo semplice senza sale aggiunto 80 g + olio EVO 15 g + banana sbucciata 120 g.",
+        "Cena: Stick Rigamonti con Bresaola 50 g + pane fresco senza sale 100 g + olio EVO 20 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
+      ],
+      "oil_evo_total_g": 35,
+      "sodium_limit_mg_used": 2300,
+      "sodium_intrinsic_est_mg": 1370,
+      "salt_total_max_g": 2.36,
+      "macro_est_g": {
+        "protein_g": 62.2,
+        "carbs_g": 239.7,
+        "fat_g": 60.5
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 14,
+        "carbs_pct_kcal": 55,
+        "fat_pct_kcal": 31
+      },
+      "kcal_est": 1740
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Circa 1860 kcal - Fase pulita prudenziale",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 35 g + Fonzies 1 busta da 23,5 g.",
+        "Pranzo: Pasta secca 115 g (peso secco) + sugo semplice senza sale aggiunto 150 g + grana 10 g + olio EVO 10 g + banana sbucciata 120 g.",
+        "Cena: Mozzarella Santa Lucia 100 g + pane fresco senza sale 120 g + olio EVO 15 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
+      ],
+      "oil_evo_total_g": 25,
+      "sodium_limit_mg_used": 2300,
+      "sodium_intrinsic_est_mg": 982,
+      "salt_total_max_g": 3.35,
+      "macro_est_g": {
+        "protein_g": 62.5,
+        "carbs_g": 259.2,
+        "fat_g": 66.6
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 13,
+        "carbs_pct_kcal": 56,
+        "fat_pct_kcal": 32
+      },
+      "kcal_est": 1861
+    },
+    {
+      "date": "2026-03-20",
+      "title": "Circa 1810 kcal - Sodio totale max 1800 mg",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina: Banana sbucciata 120 g + mela sbucciata 150 g.",
+        "Pranzo: Pasta secca 110 g (peso secco) + sugo semplice senza sale aggiunto 150 g + grana 10 g + olio EVO 10 g + banana sbucciata 120 g.",
+        "Cena: Petto di tacchino fresco 140 g (peso a crudo) + pane fresco senza sale 130 g + olio EVO 25 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
+      ],
+      "oil_evo_total_g": 35,
+      "sodium_limit_mg_used": 1800,
+      "sodium_intrinsic_est_mg": 272,
+      "salt_total_max_g": 3.88,
+      "macro_est_g": {
+        "protein_g": 74.1,
+        "carbs_g": 271.3,
+        "fat_g": 50.9
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 16,
+        "carbs_pct_kcal": 60,
+        "fat_pct_kcal": 25
+      },
+      "kcal_est": 1812
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Circa 1800 kcal - Sodio totale max 1700 mg",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina: Banana sbucciata 120 g + mela cotta/applesauce 150 g.",
+        "Pranzo: Pasta secca 115 g (peso secco) + sugo semplice senza sale aggiunto 150 g + olio EVO 10 g + mela sbucciata 150 g.",
+        "Cena: Uova intere 5 (circa 250 g sgusciate) + pane fresco senza sale 90 g + olio EVO 20 g + verdura 200 g (peso a crudo) + banana sbucciata 120 g."
+      ],
+      "oil_evo_total_g": 30,
+      "sodium_limit_mg_used": 1700,
+      "sodium_intrinsic_est_mg": 482,
+      "salt_total_max_g": 3.10,
+      "macro_est_g": {
+        "protein_g": 65.7,
+        "carbs_g": 251.8,
+        "fat_g": 62.4
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 15,
+        "carbs_pct_kcal": 56,
+        "fat_pct_kcal": 31
+      },
+      "kcal_est": 1798
+    },
+    {
+      "date": "2026-03-22",
+      "title": "Circa 1780 kcal - Sodio totale max 1600 mg",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina: Banana sbucciata 120 g + mela sbucciata 150 g.",
+        "Pranzo: Pasta secca 110 g (peso secco) + sugo semplice senza sale aggiunto 120 g + grana 10 g + olio EVO 10 g + banana sbucciata 120 g.",
+        "Cena: Petto di pollo fresco 170 g (peso a crudo) + pane fresco senza sale 130 g + olio EVO 20 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
+      ],
+      "oil_evo_total_g": 30,
+      "sodium_limit_mg_used": 1600,
+      "sodium_intrinsic_est_mg": 256,
+      "salt_total_max_g": 3.42,
+      "macro_est_g": {
+        "protein_g": 79.9,
+        "carbs_g": 269.6,
+        "fat_g": 45.5
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 18,
+        "carbs_pct_kcal": 61,
+        "fat_pct_kcal": 23
+      },
+      "kcal_est": 1778
+    },
+    {
+      "date": "2026-03-23",
+      "title": "Circa 1710 kcal - Sodio totale max 1400 mg",
+      "lines": [
+        "Colazione: Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 20 g.",
+        "Pranzo: Pasta secca 130 g (peso secco) + sugo semplice senza sale aggiunto 120 g + grana 10 g + olio EVO 10 g + banana sbucciata 120 g.",
+        "Cena: Petto di tacchino fresco 170 g (peso a crudo) + pane fresco senza sale 120 g + olio EVO 35 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
+      ],
+      "oil_evo_total_g": 45,
+      "sodium_limit_mg_used": 1400,
+      "sodium_intrinsic_est_mg": 403,
+      "salt_total_max_g": 2.53,
+      "macro_est_g": {
+        "protein_g": 82.1,
+        "carbs_g": 223.7,
+        "fat_g": 58.2
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 19,
+        "carbs_pct_kcal": 52,
+        "fat_pct_kcal": 31
+      },
+      "kcal_est": 1712
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Circa 1675 kcal - Sodio totale max 1200 mg",
+      "lines": [
+        "Colazione: Banana sbucciata 120 g.",
+        "Merenda mattina: Mela cotta/applesauce 150 g.",
+        "Pranzo: Pasta secca 150 g (peso secco) + sugo semplice senza sale aggiunto 100 g + olio EVO 10 g + banana sbucciata 120 g.",
+        "Cena: Petto di pollo fresco 190 g (peso a crudo) + pane fresco senza sale 70 g + olio EVO 35 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
+      ],
+      "oil_evo_total_g": 45,
+      "sodium_limit_mg_used": 1200,
+      "sodium_intrinsic_est_mg": 76,
+      "salt_total_max_g": 2.86,
+      "macro_est_g": {
+        "protein_g": 77.0,
+        "carbs_g": 240.8,
+        "fat_g": 50.8
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 18,
+        "carbs_pct_kcal": 58,
+        "fat_pct_kcal": 27
+      },
+      "kcal_est": 1674
+    },
+    {
+      "date": "2026-03-25",
+      "title": "Circa 1680 kcal - Sodio totale max 1000 mg",
+      "lines": [
+        "Colazione: Banana sbucciata 120 g.",
+        "Merenda mattina: Mela cotta/applesauce 150 g.",
+        "Pranzo: Pasta secca 155 g (peso secco) + sugo semplice senza sale aggiunto 80 g + olio EVO 10 g + banana sbucciata 120 g.",
+        "Cena: Petto di pollo fresco 190 g (peso a crudo) + pane fresco senza sale 50 g + olio EVO 40 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
+      ],
+      "oil_evo_total_g": 50,
+      "sodium_limit_mg_used": 1000,
+      "sodium_intrinsic_est_mg": 76,
+      "salt_total_max_g": 2.35,
+      "macro_est_g": {
+        "protein_g": 75.9,
+        "carbs_g": 233.6,
+        "fat_g": 55.5
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 18,
+        "carbs_pct_kcal": 56,
+        "fat_pct_kcal": 30
+      },
+      "kcal_est": 1681
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Circa 1715 kcal - Sodio totale max 800 mg",
+      "lines": [
+        "Colazione: Banana sbucciata 100 g.",
+        "Merenda mattina: Mela cotta/applesauce 100 g.",
+        "Pranzo: Pasta secca 170 g (peso secco) + sugo semplice senza sale aggiunto 80 g + olio EVO 10 g + banana sbucciata 100 g.",
+        "Cena: Petto di pollo fresco 210 g (peso a crudo) + pane fresco senza sale 30 g + olio EVO 50 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 100 g."
+      ],
+      "oil_evo_total_g": 60,
+      "sodium_limit_mg_used": 800,
+      "sodium_intrinsic_est_mg": 82,
+      "salt_total_max_g": 1.82,
+      "macro_est_g": {
+        "protein_g": 80.5,
+        "carbs_g": 214.3,
+        "fat_g": 65.3
+      },
+      "macro_split_est_pct": {
+        "protein_pct_kcal": 19,
+        "carbs_pct_kcal": 50,
+        "fat_pct_kcal": 34
+      },
+      "kcal_est": 1714
+    }
+  ]
 }
