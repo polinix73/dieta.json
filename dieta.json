@@ -1,137 +1,137 @@
 {
-  "timezone": "Europe/Rome",
-  "days": [
-    {
-      "date": "2026-03-16",
-      "title": "Circa 1800 kcal - Fase pulita prudenziale",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
-        "Pranzo: Pasta secca 100 g + legumi cotti ben scolati 100 g + sugo semplice 100 g + grana 10 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di pollo fresco 120 g + pane fresco senza sale 110 g + olio EVO 15 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 25,
-      "salt_total_max_g": 2.3
-    },
-    {
-      "date": "2026-03-17",
-      "title": "Circa 1800 kcal - Fase pulita prudenziale",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
-        "Pranzo: Pasta secca 100 g + sugo semplice 150 g + grana 10 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di tacchino fresco 130 g + Philadelphia Light 30 g + pane fresco senza sale 130 g + olio EVO 15 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 25,
-      "salt_total_max_g": 2.0
-    },
-    {
-      "date": "2026-03-18",
-      "title": "Circa 1800 kcal - Fase pulita prudenziale",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: Fonzies 2 buste da 23,5 g.",
-        "Pranzo: Pasta secca 100 g + legumi cotti ben scolati 120 g + sugo semplice 80 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di pollo fresco 120 g + 1 uovo + pane fresco senza sale 100 g + olio EVO 15 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 25,
-      "salt_total_max_g": 2.8
-    },
-    {
-      "date": "2026-03-19",
-      "title": "Circa 1800 kcal - Fase pulita prudenziale",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
-        "Pranzo: Pasta secca 100 g + sugo semplice 150 g + grana 10 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di pollo fresco 120 g + Philadelphia Light 40 g + pane fresco senza sale 130 g + olio EVO 15 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 25,
-      "salt_total_max_g": 2.0
-    },
-    {
-      "date": "2026-03-20",
-      "title": "Circa 1800 kcal - Sodio totale max 1800 mg",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: banana 100 g + applesauce/mela cotta senza buccia 100 g.",
-        "Pranzo: Pasta secca 110 g + sugo semplice 150 g + grana 10 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di pollo fresco 130 g + pane fresco senza sale 140 g + olio EVO 25 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 35,
-      "salt_total_max_g": 3.5
-    },
-    {
-      "date": "2026-03-21",
-      "title": "Circa 1800 kcal - Sodio totale max 1700 mg",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: banana 100 g + applesauce/mela cotta senza buccia 100 g.",
-        "Pranzo: Pasta secca 110 g + sugo semplice 150 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di tacchino fresco 120 g + 1 uovo + pane fresco senza sale 130 g + olio EVO 20 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 30,
-      "salt_total_max_g": 3.3
-    },
-    {
-      "date": "2026-03-22",
-      "title": "Circa 1800 kcal - Sodio totale max 1600 mg",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: banana 100 g + applesauce/mela cotta senza buccia 100 g.",
-        "Pranzo: Pasta secca 110 g + sugo semplice 120 g + grana 10 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di pollo fresco 100 g + tonno naturale MareBlu 60 g + pane fresco senza sale 130 g + olio EVO 20 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 30,
-      "salt_total_max_g": 2.4
-    },
-    {
-      "date": "2026-03-23",
-      "title": "Circa 1750-1800 kcal - Con crackers richiesti",
-      "lines": [
-        "Colazione: Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
-        "Pranzo: Pasta secca 120 g + sugo semplice 120 g + grana 10 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di tacchino fresco 140 g + pane fresco senza sale 140 g + olio EVO 25 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 35,
-      "salt_total_max_g": 1.7
-    },
-    {
-      "date": "2026-03-24",
-      "title": "Circa 1750 kcal - Con crackers richiesti ma non pedissequo al file",
-      "lines": [
-        "Colazione: Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
-        "Pranzo: Pasta secca 120 g + sugo semplice 100 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di pollo fresco 140 g + 1 uovo + pane fresco senza sale 110 g + olio EVO 25 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 35,
-      "salt_total_max_g": 1.1
-    },
-    {
-      "date": "2026-03-25",
-      "title": "Circa 1750-1800 kcal - Con crackers richiesti",
-      "lines": [
-        "Colazione: banana 100 g.",
-        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
-        "Pranzo: Pasta secca 130 g + sugo semplice 80 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di pollo fresco 160 g + pane fresco senza sale 120 g + olio EVO 30 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 40,
-      "salt_total_max_g": 1.0
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Circa 1750 kcal - Con crackers richiesti ma non pedissequo al file",
-      "lines": [
-        "Colazione: banana 100 g.",
-        "Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
-        "Pranzo: Pasta secca 130 g + sugo semplice 80 g + olio EVO 10 g + frutta.",
-        "Cena: Petto di pollo fresco 150 g + pane fresco senza sale 100 g + olio EVO 35 g + verdura + frutta."
-      ],
-      "oil_evo_total_g": 45,
-      "salt_total_max_g": 0.6
-    }
-  ]
+"timezone": "Europe/Rome",
+"days": [
+{
+"date": "2026-03-16",
+"title": "Circa 1800 kcal - Fase pulita prudenziale",
+"lines": [
+"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
+"Pranzo: Pasta secca 100 g + legumi cotti ben scolati 100 g + sugo semplice 100 g + grana 10 g + olio EVO 10 g + frutta.",
+"Cena: Petto di pollo fresco 120 g + pane fresco senza sale 110 g + olio EVO 15 g + verdura + frutta."
+],
+"oil_evo_total_g": 25,
+"salt_total_max_g": 2.3
+},
+{
+"date": "2026-03-17",
+"title": "Circa 1800 kcal - Fase pulita prudenziale",
+"lines": [
+"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
+"Pranzo: Pasta secca 100 g + sugo semplice 150 g + grana 10 g + olio EVO 10 g + frutta.",
+"Cena: Petto di tacchino fresco 130 g + Philadelphia Light 30 g + pane fresco senza sale 130 g + olio EVO 15 g + verdura + frutta."
+],
+"oil_evo_total_g": 25,
+"salt_total_max_g": 2.0
+},
+{
+"date": "2026-03-18",
+"title": "Circa 1800 kcal - Fase pulita prudenziale",
+"lines": [
+"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: Fonzies 2 buste da 23,5 g.",
+"Pranzo: Pasta secca 100 g + legumi cotti ben scolati 120 g + sugo semplice 80 g + olio EVO 10 g + frutta.",
+"Cena: Petto di pollo fresco 120 g + 1 uovo + pane fresco senza sale 100 g + olio EVO 15 g + verdura + frutta."
+],
+"oil_evo_total_g": 25,
+"salt_total_max_g": 2.8
+},
+{
+"date": "2026-03-19",
+"title": "Circa 1800 kcal - Fase pulita prudenziale",
+"lines": [
+"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g + Fonzies 1 busta da 23,5 g.",
+"Pranzo: Pasta secca 100 g + sugo semplice 150 g + grana 10 g + olio EVO 10 g + frutta.",
+"Cena: Petto di pollo fresco 120 g + Philadelphia Light 40 g + pane fresco senza sale 130 g + olio EVO 15 g + verdura + frutta."
+],
+"oil_evo_total_g": 25,
+"salt_total_max_g": 2.0
+},
+{
+"date": "2026-03-20",
+"title": "Circa 1800 kcal - Sodio totale max 1800 mg",
+"lines": [
+"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: banana 100 g + applesauce/mela cotta senza buccia 100 g.",
+"Pranzo: Pasta secca 110 g + sugo semplice 150 g + grana 10 g + olio EVO 10 g + frutta.",
+"Cena: Petto di pollo fresco 130 g + pane fresco senza sale 140 g + olio EVO 25 g + verdura + frutta."
+],
+"oil_evo_total_g": 35,
+"salt_total_max_g": 3.5
+},
+{
+"date": "2026-03-21",
+"title": "Circa 1800 kcal - Sodio totale max 1700 mg",
+"lines": [
+"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: banana 100 g + applesauce/mela cotta senza buccia 100 g.",
+"Pranzo: Pasta secca 110 g + sugo semplice 150 g + olio EVO 10 g + frutta.",
+"Cena: Petto di tacchino fresco 120 g + 1 uovo + pane fresco senza sale 130 g + olio EVO 20 g + verdura + frutta."
+],
+"oil_evo_total_g": 30,
+"salt_total_max_g": 3.3
+},
+{
+"date": "2026-03-22",
+"title": "Circa 1800 kcal - Sodio totale max 1600 mg",
+"lines": [
+"Colazione: Frollini alla panna Esselunga 2 biscotti + Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: banana 100 g + applesauce/mela cotta senza buccia 100 g.",
+"Pranzo: Pasta secca 110 g + sugo semplice 120 g + grana 10 g + olio EVO 10 g + frutta.",
+"Cena: Petto di pollo fresco 100 g + tonno naturale MareBlu 60 g + pane fresco senza sale 130 g + olio EVO 20 g + verdura + frutta."
+],
+"oil_evo_total_g": 30,
+"salt_total_max_g": 2.4
+},
+{
+"date": "2026-03-23",
+"title": "Circa 1750-1800 kcal - Con crackers richiesti",
+"lines": [
+"Colazione: Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
+"Pranzo: Pasta secca 120 g + sugo semplice 120 g + grana 10 g + olio EVO 10 g + frutta.",
+"Cena: Petto di tacchino fresco 140 g + pane fresco senza sale 140 g + olio EVO 25 g + verdura + frutta."
+],
+"oil_evo_total_g": 35,
+"salt_total_max_g": 1.7
+},
+{
+"date": "2026-03-24",
+"title": "Circa 1750 kcal - Con crackers richiesti ma non pedissequo al file",
+"lines": [
+"Colazione: Yomo Rinforzo 1 bottiglietta da 90 g.",
+"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
+"Pranzo: Pasta secca 120 g + sugo semplice 100 g + olio EVO 10 g + frutta.",
+"Cena: Petto di pollo fresco 140 g + 1 uovo + pane fresco senza sale 110 g + olio EVO 25 g + verdura + frutta."
+],
+"oil_evo_total_g": 35,
+"salt_total_max_g": 1.1
+},
+{
+"date": "2026-03-25",
+"title": "Circa 1750-1800 kcal - Con crackers richiesti",
+"lines": [
+"Colazione: banana 100 g.",
+"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
+"Pranzo: Pasta secca 130 g + sugo semplice 80 g + olio EVO 10 g + frutta.",
+"Cena: Petto di pollo fresco 160 g + pane fresco senza sale 120 g + olio EVO 30 g + verdura + frutta."
+],
+"oil_evo_total_g": 40,
+"salt_total_max_g": 1.0
+},
+{
+"date": "2026-03-26",
+"title": "Circa 1750 kcal - Con crackers richiesti ma non pedissequo al file",
+"lines": [
+"Colazione: banana 100 g.",
+"Merenda mattina: Gran Pavesi senza granelli di sale in superficie 1 pacco da 35 g.",
+"Pranzo: Pasta secca 130 g + sugo semplice 80 g + olio EVO 10 g + frutta.",
+"Cena: Petto di pollo fresco 150 g + pane fresco senza sale 100 g + olio EVO 35 g + verdura + frutta."
+],
+"oil_evo_total_g": 45,
+"salt_total_max_g": 0.6
+}
+]
 }
