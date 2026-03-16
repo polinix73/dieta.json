@@ -12,20 +12,7 @@
         "Cena: Ricotta Vallelata 250 g + pane fresco senza sale 60 g + olio EVO 5 g + verdura 200 g (peso a crudo) + banana sbucciata 120 g."
       ],
       "oil_evo_total_g": 15,
-      "sodium_limit_mg_used": 2300,
-      "sodium_intrinsic_est_mg": 1328,
-      "salt_total_max_g": 2.47,
-      "macro_est_g": {
-        "protein_g": 63.7,
-        "carbs_g": 251.7,
-        "fat_g": 69.8
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 14,
-        "carbs_pct_kcal": 54,
-        "fat_pct_kcal": 33
-      },
-      "kcal_est": 1879
+      "salt_total_max_g": 2.47
     },
     {
       "date": "2026-03-18",
@@ -38,20 +25,7 @@
         "Cena: Stick Rigamonti con Bresaola 50 g + pane fresco senza sale 70 g + olio EVO 20 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
       ],
       "oil_evo_total_g": 35,
-      "sodium_limit_mg_used": 2300,
-      "sodium_intrinsic_est_mg": 1593,
-      "salt_total_max_g": 1.80,
-      "macro_est_g": {
-        "protein_g": 62.5,
-        "carbs_g": 260.9,
-        "fat_g": 61.0
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 14,
-        "carbs_pct_kcal": 57,
-        "fat_pct_kcal": 30
-      },
-      "kcal_est": 1845
+      "salt_total_max_g": 1.80
     },
     {
       "date": "2026-03-19",
@@ -64,20 +38,7 @@
         "Cena: Mozzarella Santa Lucia 100 g + pane fresco senza sale 90 g + olio EVO 5 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
       ],
       "oil_evo_total_g": 15,
-      "sodium_limit_mg_used": 2300,
-      "sodium_intrinsic_est_mg": 1136,
-      "salt_total_max_g": 2.96,
-      "macro_est_g": {
-        "protein_g": 63.2,
-        "carbs_g": 266.2,
-        "fat_g": 62.6
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 13,
-        "carbs_pct_kcal": 57,
-        "fat_pct_kcal": 30
-      },
-      "kcal_est": 1881
+      "salt_total_max_g": 2.96
     },
     {
       "date": "2026-03-20",
@@ -90,20 +51,7 @@
         "Cena: Petto di tacchino fresco 140 g (peso a crudo) + pane fresco senza sale 100 g + olio EVO 25 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
       ],
       "oil_evo_total_g": 35,
-      "sodium_limit_mg_used": 1800,
-      "sodium_intrinsic_est_mg": 482,
-      "salt_total_max_g": 3.35,
-      "macro_est_g": {
-        "protein_g": 74.0,
-        "carbs_g": 280.6,
-        "fat_g": 52.7
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 16,
-        "carbs_pct_kcal": 60,
-        "fat_pct_kcal": 25
-      },
-      "kcal_est": 1870
+      "salt_total_max_g": 3.35
     },
     {
       "date": "2026-03-21",
@@ -116,20 +64,7 @@
         "Cena: Uova intere 5 (circa 250 g sgusciate) + pane fresco senza sale 60 g + olio EVO 20 g + verdura 200 g (peso a crudo) + banana sbucciata 120 g."
       ],
       "oil_evo_total_g": 30,
-      "sodium_limit_mg_used": 1700,
-      "sodium_intrinsic_est_mg": 707,
-      "salt_total_max_g": 2.53,
-      "macro_est_g": {
-        "protein_g": 65.7,
-        "carbs_g": 264.1,
-        "fat_g": 66.5
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 14,
-        "carbs_pct_kcal": 56,
-        "fat_pct_kcal": 32
-      },
-      "kcal_est": 1895
+      "salt_total_max_g": 2.53
     },
     {
       "date": "2026-03-22",
@@ -142,20 +77,7 @@
         "Cena: Petto di pollo fresco 170 g (peso a crudo) + pane fresco senza sale 100 g + olio EVO 20 g + verdura 200 g (peso a crudo) + mela sbucciata 150 g."
       ],
       "oil_evo_total_g": 30,
-      "sodium_limit_mg_used": 1600,
-      "sodium_intrinsic_est_mg": 490,
-      "salt_total_max_g": 2.83,
-      "macro_est_g": {
-        "protein_g": 79.2,
-        "carbs_g": 279.1,
-        "fat_g": 48.2
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 17,
-        "carbs_pct_kcal": 60,
-        "fat_pct_kcal": 23
-      },
-      "kcal_est": 1853
+      "salt_total_max_g": 2.83
     },
     {
       "date": "2026-03-23",
@@ -168,20 +90,7 @@
         "Cena: Petto di tacchino fresco 170 g (peso a crudo) + pane fresco senza sale 105 g + olio EVO 35 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
       ],
       "oil_evo_total_g": 45,
-      "sodium_limit_mg_used": 1400,
-      "sodium_intrinsic_est_mg": 538,
-      "salt_total_max_g": 2.19,
-      "macro_est_g": {
-        "protein_g": 81.5,
-        "carbs_g": 237.6,
-        "fat_g": 59.7
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 18,
-        "carbs_pct_kcal": 52,
-        "fat_pct_kcal": 30
-      },
-      "kcal_est": 1815
+      "salt_total_max_g": 2.19
     },
     {
       "date": "2026-03-24",
@@ -194,20 +103,7 @@
         "Cena: Petto di pollo fresco 190 g (peso a crudo) + pane fresco senza sale 55 g + olio EVO 35 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
       ],
       "oil_evo_total_g": 45,
-      "sodium_limit_mg_used": 1200,
-      "sodium_intrinsic_est_mg": 230,
-      "salt_total_max_g": 2.47,
-      "macro_est_g": {
-        "protein_g": 75.2,
-        "carbs_g": 254.6,
-        "fat_g": 53.4
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 17,
-        "carbs_pct_kcal": 57,
-        "fat_pct_kcal": 27
-      },
-      "kcal_est": 1780
+      "salt_total_max_g": 2.47
     },
     {
       "date": "2026-03-25",
@@ -220,20 +116,7 @@
         "Cena: Petto di pollo fresco 190 g (peso a crudo) + pane fresco senza sale 38 g + olio EVO 40 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 150 g."
       ],
       "oil_evo_total_g": 50,
-      "sodium_limit_mg_used": 1000,
-      "sodium_intrinsic_est_mg": 204,
-      "salt_total_max_g": 2.03,
-      "macro_est_g": {
-        "protein_g": 73.9,
-        "carbs_g": 246.2,
-        "fat_g": 57.9
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 17,
-        "carbs_pct_kcal": 55,
-        "fat_pct_kcal": 29
-      },
-      "kcal_est": 1779
+      "salt_total_max_g": 2.03
     },
     {
       "date": "2026-03-26",
@@ -246,20 +129,7 @@
         "Cena: Petto di pollo fresco 210 g (peso a crudo) + pane fresco senza sale 21 g + olio EVO 50 g + verdura 200 g (peso a crudo) + mela cotta/applesauce 100 g."
       ],
       "oil_evo_total_g": 60,
-      "sodium_limit_mg_used": 800,
-      "sodium_intrinsic_est_mg": 191,
-      "salt_total_max_g": 1.55,
-      "macro_est_g": {
-        "protein_g": 78.0,
-        "carbs_g": 223.0,
-        "fat_g": 67.7
-      },
-      "macro_split_est_pct": {
-        "protein_pct_kcal": 17,
-        "carbs_pct_kcal": 50,
-        "fat_pct_kcal": 34
-      },
-      "kcal_est": 1798
+      "salt_total_max_g": 1.55
     }
   ]
 }
