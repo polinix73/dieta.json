@@ -10,9 +10,8 @@
         "Pranzo: Pasta secca 110 g (peso secco) + sugo semplice senza sale aggiunto 120 g + grana 10 g + olio EVO 10 g + mela sbucciata 150 g.",
         "Merenda pomeriggio: Gran Pavesi senza granelli di sale in superficie 20 g.",
         "Cena: Ricotta Vallelata 250 g + pane fresco senza sale 60 g + olio EVO 5 g + verdura 200 g (peso a crudo) + banana sbucciata 120 g."
-      ],
-      "oil_evo_total_g": 15,
-      "salt_total_max_g": 2.47
+        "oil_evo_total_g": 15,
+        "salt_total_max_g": 2.47
     },
     {
       "date": "2026-03-18",
