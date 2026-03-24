@@ -1,5 +1,7 @@
-[
-  {
+{
+  "timezone": "Europe/Rome",
+  "days": [
+    {
     "date": "2026-03-24",
     "title": "Circa 1798 kcal - Sodio totale max 1200 mg - Olio EVO totale 25 g - Sale max aggiungibile 1.00 g",
     "sodium_total_max_mg": 1200,
