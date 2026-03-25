@@ -3,44 +3,44 @@
   "days": [
     {
       "date": "2026-03-25",
-      "title": "Circa 1797 kcal - Sodio totale max 1000 mg - Olio EVO totale 25 g - Sale max aggiungibile 0.50 g",
+      "title": "Circa 1500 kcal - Sodio totale max 1000 mg - Olio EVO totale 25 g - Sale max aggiungibile 0.50 g",
       "sodium_total_max_mg": 1000,
       "oil_evo_total_g": 25,
       "salt_total_max_g": 0.5,
       "lines": [
         "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
         "Merenda mattina: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g + pane azzimo classico 32 g (1 fetta).",
-        "Pranzo: Pasta secca 145 g (peso secco) + sugo semplice senza sale aggiunto 100 g + olio EVO 10 g + banana sbucciata 120 g.",
+        "Pranzo: Pasta secca 70 g (peso secco) + sugo semplice senza sale aggiunto 100 g + olio EVO 10 g + banana sbucciata 100 g.",
         "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-        "Cena: Petto di pollo fresco 210 g (peso a crudo) + pane fresco senza sale 35 g + olio EVO 15 g + banana sbucciata 200 g."
+        "Cena: Petto di pollo fresco 180 g (peso a crudo) + pane fresco senza sale 25 g + olio EVO 15 g + banana sbucciata 200 g."
       ]
     },
     {
       "date": "2026-03-26",
-      "title": "Circa 1795 kcal - Sodio totale max 800 mg - Olio EVO totale 35 g - Sale max aggiungibile 0.00 g",
+      "title": "Circa 1496 kcal - Sodio totale max 800 mg - Olio EVO totale 35 g - Sale max aggiungibile 0.00 g",
       "sodium_total_max_mg": 800,
       "oil_evo_total_g": 35,
       "salt_total_max_g": 0.0,
       "lines": [
         "Colazione: Frollini alla panna Esselunga 2 biscotti (25 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
         "Merenda mattina: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g + pane azzimo classico 32 g (1 fetta).",
-        "Pranzo: Pasta secca 120 g (peso secco) + sugo semplice senza sale aggiunto 80 g + olio EVO 10 g + banana sbucciata 130 g.",
+        "Pranzo: Pasta secca 60 g (peso secco) + sugo semplice senza sale aggiunto 80 g + olio EVO 10 g + banana sbucciata 100 g.",
         "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-        "Cena: Petto di pollo fresco 220 g (peso a crudo) + pane azzimo classico 32 g (1 fetta) + olio EVO 25 g + banana sbucciata 150 g."
+        "Cena: Petto di pollo fresco 210 g (peso a crudo) + olio EVO 25 g + banana sbucciata 180 g."
       ]
     },
     {
       "date": "2026-03-27",
-      "title": "Circa 969 kcal fino al peso - Sodio totale max 700 mg fino al peso - Olio EVO totale 0 g - Sale max aggiungibile 0.00 g",
+      "title": "Circa 1497 kcal - Sodio totale max 700 mg fino al peso - Olio EVO totale 0 g - Sale max aggiungibile 0.00 g",
       "sodium_total_max_mg": 700,
       "oil_evo_total_g": 0,
       "salt_total_max_g": 0.0,
       "lines": [
         "Colazione: Banana sbucciata 150 g.",
         "Merenda mattina: Mela cotta/applesauce 150 g.",
-        "Pranzo: Riso bianco 70 g (peso secco) + banana sbucciata 100 g.",
+        "Pranzo: Riso bianco 120 g (peso secco) + banana sbucciata 200 g.",
         "Merenda pomeriggio: Mela cotta/applesauce 150 g.",
-        "Cena: Patate sbucciate 300 g + banana sbucciata 120 g."
+        "Cena: Patate sbucciate 425 g + banana sbucciata 250 g."
       ]
     }
   ]
