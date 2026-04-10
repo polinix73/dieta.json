@@ -8,16 +8,16 @@
         "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
         "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
         "Merenda mattina 2: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
-        "Pranzo: pasta di semola 125 g peso a crudo + Grana Padano 10 g + olio EVO 15 g.",
+        "Pranzo: pasta di semola 125 g peso a crudo + Grana Padano 10 g + olio EVO 15 g + fragole 100 g.",
         "Merenda pomeriggio: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
-        "Cena: petto di pollo fresco 220 g peso a crudo + patate 320 g peso a crudo + zucchine 200 g + pane senza sale 40 g + olio EVO 10 g.",
+        "Cena: petto di pollo fresco 220 g peso a crudo + patate 320 g peso a crudo + zucchine 200 g + pane senza sale 40 g + olio EVO 10 g + fragole 100 g.",
         "Acqua: regolare; nessuna bevanda salata salvo reale necessita."
       ],
       "oil_evo_total_g": 25,
       "sale_da_cucina_aggiungibile_max_g": 0.9,
       "salt_total_max_g": 0.9,
       "sodium_total_max_mg": 1500,
-      "estimated_food_sodium_mg": 1122
+      "estimated_food_sodium_mg": 1126
     },
     {
       "date": "2026-04-11",
@@ -26,16 +26,16 @@
         "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
         "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
         "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-        "Pranzo: pasta di semola 122 g peso a crudo + Grana Padano 8 g + olio EVO 15 g.",
+        "Pranzo: pasta di semola 122 g peso a crudo + Grana Padano 8 g + olio EVO 15 g + fragole 100 g.",
         "Merenda pomeriggio: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
-        "Cena: uova intere 2 + albume AIA aeQuilibrium 250 g + patate 320 g peso a crudo + zucchine 200 g + pane senza sale 40 g + olio EVO 10 g.",
+        "Cena: uova intere 2 + albume AIA aeQuilibrium 250 g + patate 320 g peso a crudo + zucchine 200 g + pane senza sale 40 g + olio EVO 10 g + fragole 100 g.",
         "Acqua: monitorare peso mattutino e colore delle urine."
       ],
       "oil_evo_total_g": 25,
       "sale_da_cucina_aggiungibile_max_g": 0.4,
       "salt_total_max_g": 0.4,
       "sodium_total_max_mg": 1500,
-      "estimated_food_sodium_mg": 1330
+      "estimated_food_sodium_mg": 1334
     },
     {
       "date": "2026-04-12",
@@ -44,9 +44,9 @@
         "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
         "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
         "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-        "Pranzo: pasta di semola 118 g peso a crudo + Grana Padano 8 g + olio EVO 15 g.",
+        "Pranzo: pasta di semola 118 g peso a crudo + Grana Padano 8 g + olio EVO 15 g + fragole 100 g.",
         "Merenda pomeriggio: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
-        "Cena: ricotta Vallelata 200 g + patate 280 g peso a crudo + zucchine 150 g + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 10 g.",
+        "Cena: ricotta Vallelata 200 g + patate 280 g peso a crudo + zucchine 150 g + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 10 g + fragole 100 g.",
         "Acqua: regolare.",
         "Note: nessun altro trasformato."
       ],
@@ -54,7 +54,7 @@
       "sale_da_cucina_aggiungibile_max_g": 0.3,
       "salt_total_max_g": 0.3,
       "sodium_total_max_mg": 1200,
-      "estimated_food_sodium_mg": 1080
+      "estimated_food_sodium_mg": 1084
     },
     {
       "date": "2026-04-13",
@@ -63,9 +63,9 @@
         "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
         "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
         "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-        "Pranzo: pasta di semola 115 g peso a crudo + Grana Padano 7 g + olio EVO 15 g.",
+        "Pranzo: pasta di semola 115 g peso a crudo + Grana Padano 7 g + olio EVO 15 g + mela sbucciata, meglio cotta, 100 g.",
         "Merenda pomeriggio: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
-        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 320 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 64 g + olio EVO 10 g.",
+        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 320 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 64 g + olio EVO 10 g + mela sbucciata, meglio cotta, 100 g.",
         "Acqua: regolare.",
         "Note: da oggi solo cibi a basso residuo; niente verdure fibrose."
       ],
@@ -73,7 +73,7 @@
       "sale_da_cucina_aggiungibile_max_g": 0.5,
       "salt_total_max_g": 0.5,
       "sodium_total_max_mg": 1200,
-      "estimated_food_sodium_mg": 834
+      "estimated_food_sodium_mg": 838
     },
     {
       "date": "2026-04-14",
@@ -82,16 +82,16 @@
         "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
         "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
         "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-        "Pranzo: pasta di semola 115 g peso a crudo + Grana Padano 7 g + olio EVO 15 g.",
+        "Pranzo: pasta di semola 115 g peso a crudo + Grana Padano 7 g + olio EVO 15 g + mela sbucciata, meglio cotta, 100 g.",
         "Merenda pomeriggio: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-        "Cena: uova intere 2 + albume AIA aeQuilibrium 180 g + patate sbucciate 320 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 64 g + olio EVO 10 g.",
+        "Cena: uova intere 2 + albume AIA aeQuilibrium 180 g + patate sbucciate 320 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 64 g + olio EVO 10 g + mela sbucciata, meglio cotta, 100 g.",
         "Acqua: regolare ma senza eccessi."
       ],
       "oil_evo_total_g": 25,
       "sale_da_cucina_aggiungibile_max_g": 0.5,
       "salt_total_max_g": 0.5,
       "sodium_total_max_mg": 1200,
-      "estimated_food_sodium_mg": 940
+      "estimated_food_sodium_mg": 944
     },
     {
       "date": "2026-04-15",
@@ -104,7 +104,7 @@
         "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
         "Cena: petto di pollo fresco 230 g peso a crudo + patate sbucciate 320 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 64 g + olio EVO 10 g.",
         "Acqua: solo quanto serve.",
-        "Note: niente cracker da oggi per non sforare il budget sodio."
+        "Note: niente cracker da oggi per non sforare il budget sodio; non aggiungere frutta in questa fase finale."
       ],
       "oil_evo_total_g": 25,
       "sale_da_cucina_aggiungibile_max_g": 0.2,
@@ -122,7 +122,8 @@
         "Pranzo: pasta di semola 105 g peso a crudo + Grana Padano 5 g + olio EVO 15 g.",
         "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
         "Cena: albume AIA aeQuilibrium 180 g + uova intere 2 + patate sbucciate 320 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 64 g + olio EVO 10 g.",
-        "Acqua: solo quanto serve; evitare overdrinking."
+        "Acqua: solo quanto serve; evitare overdrinking.",
+        "Note: non aggiungere frutta in questa fase finale."
       ],
       "oil_evo_total_g": 25,
       "sale_da_cucina_aggiungibile_max_g": 0.2,
@@ -141,7 +142,7 @@
         "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
         "Cena: petto di pollo fresco 230 g peso a crudo + patate sbucciate 280 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 64 g + olio EVO 10 g.",
         "Acqua: solo il necessario, a piccoli sorsi.",
-        "Note: stop se compaiono vertigini o debolezza importante."
+        "Note: stop se compaiono vertigini o debolezza importante; non aggiungere frutta in questa fase finale."
       ],
       "oil_evo_total_g": 25,
       "sale_da_cucina_aggiungibile_max_g": 0.0,
@@ -158,7 +159,8 @@
           "Colazione solo se necessaria: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g, oppure niente se il peso è stretto.",
           "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g solo se serve.",
           "Merenda mattina 2: piccoli sorsi di acqua solo se necessari.",
-          "Prima del peso: evitare sale aggiunto."
+          "Prima del peso: evitare sale aggiunto.",
+          "Note: non aggiungere frutta prima del peso."
         ],
         "oil_evo_total_g": 0,
         "sale_da_cucina_aggiungibile_max_g": 0.0,
