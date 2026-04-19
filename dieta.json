@@ -2,99 +2,167 @@
   "timezone": "Europe/Rome",
   "days": [
     {
-      "date": "2026-04-13",
-      "title": "Circa 1500 kcal - Sodio totale max 1200 mg - Sale da cucina aggiungibile max 0.5 g - Olio EVO totale 15 g",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
-        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-        "Pranzo: pasta di semola 70 g peso a crudo + Grana Padano 5 g + olio EVO 10 g + mela sbucciata, meglio cotta, 100 g.",
-        "Merenda pomeriggio: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
-        "Cena: petto di pollo fresco 170 g peso a crudo + patate sbucciate 160 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 5 g + mela sbucciata, meglio cotta, 100 g.",
-        "Acqua: regolare.",
-        "Note: da oggi solo cibi a basso residuo; niente verdure fibrose."
-      ],
-      "oil_evo_total_g": 15,
-      "sale_da_cucina_aggiungibile_max_g": 0.5,
-      "salt_total_max_g": 0.5,
-      "sodium_total_max_mg": 1200
-    },
-    {
-      "date": "2026-04-14",
-      "title": "Circa 1500 kcal - Sodio totale max 1200 mg - Sale da cucina aggiungibile max 0.5 g - Olio EVO totale 13 g",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
-        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-        "Pranzo: pasta di semola 65 g peso a crudo + Grana Padano 5 g + olio EVO 8 g + mela sbucciata, meglio cotta, 100 g.",
-        "Merenda pomeriggio: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-        "Cena: uova intere 2 + albume AIA aeQuilibrium 100 g + patate sbucciate 150 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 5 g + mela sbucciata, meglio cotta, 100 g.",
-        "Acqua: regolare ma senza eccessi."
-      ],
-      "oil_evo_total_g": 13,
-      "sale_da_cucina_aggiungibile_max_g": 0.5,
-      "salt_total_max_g": 0.5,
-      "sodium_total_max_mg": 1200
-    },
-    {
-      "date": "2026-04-15",
-      "title": "Circa 1500 kcal - Sodio totale max 800 mg - Sale da cucina aggiungibile max 0.2 g - Olio EVO totale 15 g",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 64 g.",
-        "Pranzo: pasta di semola 65 g peso a crudo + Grana Padano 5 g + olio EVO 10 g.",
-        "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-        "Cena: petto di pollo fresco 170 g peso a crudo + patate sbucciate 200 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 5 g.",
-        "Acqua: solo quanto serve.",
-        "Note: niente cracker da oggi per non sforare il budget sodio; non aggiungere frutta in questa fase finale."
-      ],
-      "oil_evo_total_g": 15,
-      "sale_da_cucina_aggiungibile_max_g": 0.2,
-      "salt_total_max_g": 0.2,
-      "sodium_total_max_mg": 800
-    },
-    {
       "date": "2026-04-16",
-      "title": "Circa 1500 kcal - Sodio totale max 800 mg - Sale da cucina aggiungibile max 0.2 g - Olio EVO totale 15 g",
+      "title": "Circa 1500 kcal - Sodio totale max 1500 mg - Sale da cucina aggiungibile max 0.9 g - Olio EVO totale 20 g",
       "lines": [
         "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 64 g.",
-        "Pranzo: pasta di semola 65 g peso a crudo + Grana Padano 5 g + olio EVO 10 g.",
-        "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-        "Cena: albume AIA aeQuilibrium 100 g + uova intere 2 + patate sbucciate 180 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 5 g.",
-        "Acqua: solo quanto serve; evitare overdrinking.",
-        "Note: non aggiungere frutta in questa fase finale."
+        "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
+        "Merenda mattina 2: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
+        "Pranzo: pasta di semola 90 g peso a crudo + Grana Padano 8 g + olio EVO 12 g + fragole 100 g.",
+        "Merenda pomeriggio: nessuna.",
+        "Cena: petto di pollo fresco 200 g peso a crudo + patate 250 g peso a crudo + zucchine 200 g + pane senza sale 30 g + olio EVO 8 g + fragole 100 g.",
+        "Acqua: regolare; nessuna bevanda salata salvo reale necessita."
       ],
-      "oil_evo_total_g": 15,
-      "sale_da_cucina_aggiungibile_max_g": 0.2,
-      "salt_total_max_g": 0.2,
-      "sodium_total_max_mg": 800
+      "oil_evo_total_g": 20,
+      "sale_da_cucina_aggiungibile_max_g": 0.9,
+      "salt_total_max_g": 0.9,
+      "sodium_total_max_mg": 1500,
+      "estimated_food_sodium_mg": 901,
+      "estimated_kcal": 1582
     },
     {
       "date": "2026-04-17",
-      "title": "Circa 1500 kcal - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 15 g",
+      "title": "Circa 1500 kcal - Sodio totale max 1500 mg - Sale da cucina aggiungibile max 0.9 g - Olio EVO totale 20 g",
       "lines": [
         "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-        "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 64 g.",
-        "Pranzo: pasta di semola 65 g peso a crudo + Grana Padano 5 g + olio EVO 10 g.",
-        "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-        "Cena: petto di pollo fresco 170 g peso a crudo + patate sbucciate 180 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 5 g.",
-        "Acqua: solo il necessario, a piccoli sorsi.",
-        "Note: stop se compaiono vertigini o debolezza importante; non aggiungere frutta in questa fase finale."
+        "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 24 g.",
+        "Pranzo: pasta di semola 88 g peso a crudo + Grana Padano 7 g + olio EVO 12 g + fragole 100 g.",
+        "Merenda pomeriggio: nessuna.",
+        "Cena: uova intere 2 + albume AIA aeQuilibrium 200 g + patate 250 g peso a crudo + zucchine 200 g + pane senza sale 30 g + olio EVO 8 g + fragole 100 g.",
+        "Acqua: monitorare peso mattutino e colore delle urine."
       ],
-      "oil_evo_total_g": 15,
-      "sale_da_cucina_aggiungibile_max_g": 0.0,
-      "salt_total_max_g": 0.0,
-      "sodium_total_max_mg": 600
+      "oil_evo_total_g": 20,
+      "sale_da_cucina_aggiungibile_max_g": 0.9,
+      "salt_total_max_g": 0.9,
+      "sodium_total_max_mg": 1500,
+      "estimated_food_sodium_mg": 983,
+      "estimated_kcal": 1561
     },
     {
       "date": "2026-04-18",
-      "title": "Giorno peso - distinzione obbligatoria tra pre-peso e post-peso - circa 1500 kcal se il pre-peso viene usato",
+      "title": "Circa 1500 kcal - Sodio totale max 1200 mg - Sale da cucina aggiungibile max 0.5 g - Olio EVO totale 20 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 24 g.",
+        "Pranzo: pasta di semola 85 g peso a crudo + Grana Padano 7 g + olio EVO 12 g + fragole 100 g.",
+        "Merenda pomeriggio: nessuna.",
+        "Cena: ricotta Vallelata 150 g + patate 220 g peso a crudo + zucchine 150 g + Jerusalem Matzos Pane Azzimo Classico 24 g + olio EVO 8 g + fragole 100 g.",
+        "Acqua: regolare.",
+        "Note: nessun altro trasformato."
+      ],
+      "oil_evo_total_g": 20,
+      "sale_da_cucina_aggiungibile_max_g": 0.5,
+      "salt_total_max_g": 0.5,
+      "sodium_total_max_mg": 1200,
+      "estimated_food_sodium_mg": 742,
+      "estimated_kcal": 1522
+    },
+    {
+      "date": "2026-04-19",
+      "title": "Circa 1500 kcal - Sodio totale max 1200 mg - Sale da cucina aggiungibile max 0.5 g - Olio EVO totale 20 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 24 g.",
+        "Pranzo: pasta di semola 85 g peso a crudo + Grana Padano 7 g + olio EVO 12 g + mela sbucciata, meglio cotta, 100 g.",
+        "Merenda pomeriggio: nessuna.",
+        "Cena: petto di pollo fresco 200 g peso a crudo + patate sbucciate 220 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 24 g + olio EVO 8 g + mela sbucciata, meglio cotta, 100 g.",
+        "Acqua: regolare.",
+        "Note: da oggi solo cibi a basso residuo; niente verdure fibrose."
+      ],
+      "oil_evo_total_g": 20,
+      "sale_da_cucina_aggiungibile_max_g": 0.5,
+      "salt_total_max_g": 0.5,
+      "sodium_total_max_mg": 1200,
+      "estimated_food_sodium_mg": 614,
+      "estimated_kcal": 1537
+    },
+    {
+      "date": "2026-04-20",
+      "title": "Circa 1500 kcal - Sodio totale max 1200 mg - Sale da cucina aggiungibile max 0.5 g - Olio EVO totale 20 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Gran Pavesi Il Cracker Salato senza granelli di sale in superficie 1 pacchetto da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 24 g.",
+        "Pranzo: pasta di semola 85 g peso a crudo + Grana Padano 7 g + olio EVO 12 g + mela sbucciata, meglio cotta, 100 g.",
+        "Merenda pomeriggio: nessuna.",
+        "Cena: uova intere 2 + albume AIA aeQuilibrium 170 g + patate sbucciate 220 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 24 g + olio EVO 8 g + mela sbucciata, meglio cotta, 100 g.",
+        "Acqua: regolare ma senza eccessi."
+      ],
+      "oil_evo_total_g": 20,
+      "sale_da_cucina_aggiungibile_max_g": 0.5,
+      "salt_total_max_g": 0.5,
+      "sodium_total_max_mg": 1200,
+      "estimated_food_sodium_mg": 909,
+      "estimated_kcal": 1534
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Circa 1500 kcal - Sodio totale max 800 mg - Sale da cucina aggiungibile max 0.2 g - Olio EVO totale 20 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
+        "Pranzo: pasta di semola 80 g peso a crudo + Grana Padano 5 g + olio EVO 12 g.",
+        "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 250 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 8 g.",
+        "Acqua: solo quanto serve.",
+        "Note: niente cracker da oggi per non sforare il budget sodio; non aggiungere frutta in questa fase finale."
+      ],
+      "oil_evo_total_g": 20,
+      "sale_da_cucina_aggiungibile_max_g": 0.2,
+      "salt_total_max_g": 0.2,
+      "sodium_total_max_mg": 800,
+      "estimated_food_sodium_mg": 369,
+      "estimated_kcal": 1573
+    },
+    {
+      "date": "2026-04-22",
+      "title": "Circa 1500 kcal - Sodio totale max 800 mg - Sale da cucina aggiungibile max 0.2 g - Olio EVO totale 20 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
+        "Pranzo: pasta di semola 75 g peso a crudo + Grana Padano 5 g + olio EVO 12 g.",
+        "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+        "Cena: albume AIA aeQuilibrium 170 g + uova intere 2 + patate sbucciate 250 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 8 g.",
+        "Acqua: solo quanto serve; evitare overdrinking.",
+        "Note: non aggiungere frutta in questa fase finale."
+      ],
+      "oil_evo_total_g": 20,
+      "sale_da_cucina_aggiungibile_max_g": 0.2,
+      "salt_total_max_g": 0.2,
+      "sodium_total_max_mg": 800,
+      "estimated_food_sodium_mg": 651,
+      "estimated_kcal": 1530
+    },
+    {
+      "date": "2026-04-23",
+      "title": "Circa 1500 kcal - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 20 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
+        "Pranzo: pasta di semola 70 g peso a crudo + Grana Padano 5 g + olio EVO 12 g.",
+        "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 220 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 8 g.",
+        "Acqua: solo il necessario, a piccoli sorsi.",
+        "Note: stop se compaiono vertigini o debolezza importante; non aggiungere frutta in questa fase finale."
+      ],
+      "oil_evo_total_g": 20,
+      "sale_da_cucina_aggiungibile_max_g": 0.0,
+      "salt_total_max_g": 0.0,
+      "sodium_total_max_mg": 600,
+      "estimated_food_sodium_mg": 365,
+      "estimated_kcal": 1513
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Giorno peso - distinzione obbligatoria tra pre-peso e post-peso",
       "pre_weight": {
-        "title": "Prima del peso - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 0 g",
+        "title": "Prima del peso - tenere basso sodio, residuo e volume",
         "lines": [
           "Colazione solo se necessaria: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g, oppure niente se il peso è stretto.",
           "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g solo se serve.",
@@ -105,18 +173,25 @@
         "oil_evo_total_g": 0,
         "sale_da_cucina_aggiungibile_max_g": 0.0,
         "salt_total_max_g": 0.0,
-        "sodium_total_max_mg": 600
+        "sodium_total_max_mg": 600,
+        "estimated_food_sodium_mg_if_breakfast_and_gel_are_used": 169,
+        "estimated_kcal_if_breakfast_and_gel_are_used": 325
       },
       "post_weight": {
-        "title": "Dopo il peso - Reintroduzione controllata di sodio e calorie",
+        "title": "Dopo il peso - reintroduzione controllata di sodio e carboidrati",
         "lines": [
-          "Pasta di semola 130 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + 1 g di sale.",
-          "Petto di pollo fresco 220 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 64 g + banana sbucciata 100 g.",
+          "Pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + 1 g di sale.",
+          "Petto di pollo fresco 150 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 96 g.",
+          "Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g + banana sbucciata 100 g.",
           "Note: fino al peso restare bassi; dopo il peso reintrodurre sodio in modo controllato."
         ],
         "oil_evo_total_g": 10,
-        "sale_da_cucina_aggiungibile_g": 1.0
-      }
+        "sale_da_cucina_aggiungibile_g": 1.0,
+        "estimated_total_sodium_mg_post_weight": 564,
+        "estimated_kcal_post_weight": 1189
+      },
+      "estimated_total_kcal_if_pre_breakfast_and_gel_are_used": 1514,
+      "estimated_total_sodium_mg_if_pre_breakfast_and_gel_are_used": 733
     }
   ]
 }
