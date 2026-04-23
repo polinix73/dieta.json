@@ -39,21 +39,21 @@
 },
 {
 "date": "2026-04-23",
-"title": "Circa 1500 kcal - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 15 g",
-"lines": [
-"Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-"Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-"Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 64 g.",
-"Pranzo: pasta di semola 65 g peso a crudo + Grana Padano 5 g + olio EVO 10 g.",
-"Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
-"Cena: petto di pollo fresco 170 g peso a crudo + patate sbucciate 350 g peso a crudo + olio EVO 5 g.",
-"Acqua: solo il necessario, a piccoli sorsi.",
-"Note: stop se compaiono vertigini o debolezza importante; non aggiungere frutta in questa fase finale."
-],
-"oil_evo_total_g": 15,
-"sale_da_cucina_aggiungibile_max_g": 0.0,
-"salt_total_max_g": 0.0,
-"sodium_total_max_mg": 600
+"  "title": "Circa 1500 kcal - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 15 g",
+  "lines": [
+    "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+    "Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 2 confezioni da 25 g.",
+    "Merenda mattina 2: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+    "Pranzo: pasta di semola 65 g peso a crudo + Grana Padano 5 g + olio EVO 10 g.",
+    "Merenda pomeriggio: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g.",
+    "Cena: petto di pollo fresco 170 g peso a crudo + patate sbucciate 180 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 5 g.",
+    "Acqua: solo il necessario, a piccoli sorsi.",
+    "Note: stop se compaiono vertigini o debolezza importante; non aggiungere frutta in questa fase finale."
+  ],
+  "oil_evo_total_g": 15,
+  "sale_da_cucina_aggiungibile_max_g": 0.0,
+  "salt_total_max_g": 0.0,
+  "sodium_total_max_mg": 600
 },
 {
 "date": "2026-04-24",
