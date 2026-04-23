@@ -49,39 +49,28 @@
 "Cena: petto di pollo fresco 170 g peso a crudo + patate sbucciate 180 g peso a crudo + Jerusalem Matzos Pane Azzimo Classico 32 g + olio EVO 5 g.",
 "Acqua: solo il necessario, a piccoli sorsi.",
 "Note: stop se compaiono vertigini o debolezza importante; non aggiungere frutta in questa fase finale."
-  ],
-  "oil_evo_total_g": 15,
-  "sale_da_cucina_aggiungibile_max_g": 0.0,
-  "salt_total_max_g": 0.0,
-  "sodium_total_max_mg": 600
-},
-{
-"date": "2026-04-24",
-"title": "Giorno peso - distinzione obbligatoria tra pre-peso e post-peso - circa 1500 kcal se il pre-peso viene usato",
-"pre_weight": {
-"title": "Prima del peso - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 0 g",
-"lines": [
-"Colazione solo se necessaria: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g, oppure niente se il peso è stretto.",
-"Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g solo se serve.",
-"Merenda mattina 2: piccoli sorsi di acqua solo se necessari.",
-"Prima del peso: evitare sale aggiunto.",
-"Note: non aggiungere frutta prima del peso."
 ],
-"oil_evo_total_g": 0,
+"oil_evo_total_g": 15,
 "sale_da_cucina_aggiungibile_max_g": 0.0,
 "salt_total_max_g": 0.0,
 "sodium_total_max_mg": 600
 },
-"post_weight": {
-"title": "Dopo il peso - Reintroduzione controllata di sodio e calorie",
+{
+"date": "2026-04-24",
+"title": "Giorno peso - distinzione tra pre-peso e post-peso - circa 1500 kcal se viene usato anche il post-peso",
 "lines": [
-"Pasta di semola 130 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + 1 g di sale.",
-"Petto di pollo fresco 220 g peso a crudo + patate sbucciate 330 g peso a crudo + banana sbucciata 100 g.",
-"Note: fino al peso restare bassi; dopo il peso reintrodurre sodio in modo controllato."
+"PRE-PESO - Colazione solo se necessaria: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g, oppure niente se il peso e stretto.",
+"PRE-PESO - Merenda mattina 1: Gelatina di frutta energetica Decathlon Ecosize 1 confezione da 25 g solo se serve.",
+"PRE-PESO - Merenda mattina 2: piccoli sorsi di acqua solo se necessari.",
+"PRE-PESO - Prima del peso: evitare sale aggiunto.",
+"PRE-PESO - Note: non aggiungere frutta prima del peso.",
+"POST-PESO - Pasta di semola 130 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + 1 g di sale.",
+"POST-PESO - Petto di pollo fresco 220 g peso a crudo + patate sbucciate 330 g peso a crudo + banana sbucciata 100 g.",
+"POST-PESO - Note: fino al peso restare bassi; dopo il peso reintrodurre sodio in modo controllato."
 ],
 "oil_evo_total_g": 10,
-"sale_da_cucina_aggiungibile_g": 1.0
-}
+"sale_da_cucina_aggiungibile_max_g": 1.0,
+"salt_total_max_g": 1.0
 }
 ]
 }
