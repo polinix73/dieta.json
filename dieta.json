@@ -12,7 +12,7 @@
 "Merenda pomeriggio: Fruit Jelly Decathlon 1 confezione da 25 g.",
 "Cena: uova intere 2 + albume AIA aeQuilibrium 100 g + patate sbucciate 285 g peso a crudo + olio EVO 6 g.",
 "Acqua: solo quanto serve; evitare overdrinking.",
-"Note: cancellati i giorni fino al 26 maggio incluso. Pane azimo della merenda mattina dimezzato da 64 g a 32 g; patate cena aumentate da 130 g a 285 g. Cena senza pane e senza prodotti da forno. Non aggiungere frutta fresca in questa fase finale."
+"Note: pane azimo della merenda mattina 32 g; patate cena 285 g. Cena senza pane e senza prodotti da forno. Non aggiungere frutta fresca in questa fase finale."
 ],
 "oil_evo_total_g": 14,
 "sale_da_cucina_aggiungibile_max_g": 0.2,
@@ -41,36 +41,27 @@
 },
 {
 "date": "2026-05-29",
-"title": "Giorno peso - circa 1500 kcal totali se si usa anche il post-peso - distinzione obbligatoria tra pre-peso e post-peso",
-"pre_weight": {
-"title": "Prima del peso - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 0 g",
+"title": "Giorno peso - Pre-peso sodio max 600 mg - Sale pre-peso 0.0 g - Post-peso reintroduzione controllata di sodio - Circa 1500 kcal totali",
 "lines": [
-"Colazione solo se necessaria: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g, oppure niente se il peso e stretto.",
-"Merenda mattina 1: Fruit Jelly Decathlon 1 confezione da 25 g solo se serve.",
-"Merenda mattina 2: piccoli sorsi di acqua solo se necessari.",
-"Prima del peso: evitare sale aggiunto.",
-"Note: non aggiungere frutta fresca prima del peso."
+"Pre-peso - Colazione solo se necessaria: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g, oppure niente se il peso e stretto.",
+"Pre-peso - Merenda mattina 1: Fruit Jelly Decathlon 1 confezione da 25 g solo se serve.",
+"Pre-peso - Merenda mattina 2: piccoli sorsi di acqua solo se necessari.",
+"Pre-peso - Prima del peso: evitare sale aggiunto.",
+"Pre-peso - Note: non aggiungere frutta fresca prima del peso.",
+"Post-peso - Pasta di semola 150 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + 1 g di sale.",
+"Post-peso - Petto di pollo fresco 170 g peso a crudo + patate sbucciate 200 g peso a crudo + olio EVO 5 g.",
+"Post-peso - Fruit Jelly Decathlon 1 confezione da 25 g oppure banana sbucciata 100 g.",
+"Post-peso - Se prima del peso ha saltato colazione e Fruit Jelly, aggiungere dopo il peso: pasta di semola 100 g peso a crudo.",
+"Post-peso - Note: fino al peso restare bassi; dopo il peso reintrodurre sodio in modo controllato. Post-peso senza prodotti da forno."
 ],
-"oil_evo_total_g": 0,
+"oil_evo_total_g": 15,
 "sale_da_cucina_aggiungibile_max_g": 0.0,
 "salt_total_max_g": 0.0,
 "sodium_total_max_mg": 600,
-"estimated_food_sodium_mg_if_breakfast_and_fruit_jelly_are_used": 250
-},
-"post_weight": {
-"title": "Dopo il peso - Reintroduzione controllata di sodio - completare la giornata verso circa 1500 kcal",
-"lines": [
-"Pasta di semola 150 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + 1 g di sale.",
-"Petto di pollo fresco 170 g peso a crudo + patate sbucciate 200 g peso a crudo + olio EVO 5 g.",
-"Fruit Jelly Decathlon 1 confezione da 25 g oppure banana sbucciata 100 g.",
-"Se prima del peso ha saltato colazione e Fruit Jelly, aggiungere dopo il peso: pasta di semola 100 g peso a crudo.",
-"Note: fino al peso restare bassi; dopo il peso reintrodurre sodio in modo controllato. Post-peso senza prodotti da forno."
-],
-"oil_evo_total_g": 15,
-"sale_da_cucina_aggiungibile_g": 1.0,
-"estimated_total_sodium_mg_if_fruit_jelly_is_used": 910,
-"estimated_total_sodium_mg_if_banana_is_used": 890
-}
+"estimated_food_sodium_mg": 250,
+"post_weight_sale_da_cucina_g": 1.0,
+"post_weight_estimated_total_sodium_mg_if_fruit_jelly_is_used": 910,
+"post_weight_estimated_total_sodium_mg_if_banana_is_used": 890
 }
 ]
 }
