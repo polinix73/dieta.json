@@ -1,80 +1,85 @@
-[
-  {
-    "date": "2026-06-14",
-    "title": "Circa 1500 kcal - Sodio totale max 800 mg - Sale da cucina aggiungibile max 0.5 g - Olio EVO totale 14 g",
-    "lines": [
-      "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-      "Merenda mattina 1: Fruit Jelly Decathlon 1 confezione da 25 g.",
-      "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-      "Pranzo: pasta di semola 160 g peso a crudo + Grana Padano 5 g + olio EVO 8 g.",
-      "Merenda pomeriggio: Fruit Jelly Decathlon 1 confezione da 25 g.",
-      "Cena: petto di pollo fresco 150 g peso a crudo + patate sbucciate 150 g peso a crudo + olio EVO 6 g.",
-      "Acqua: solo quanto serve.",
-      "Note: pane azimo massimo 32 g per volta. Cena senza prodotti da forno. Niente cracker, tonno, mozzarella, pane normale, frutta fresca o verdure in questa fase finale."
-    ],
-    "oil_evo_total_g": 14,
-    "sale_da_cucina_aggiungibile_max_g": 0.5,
-    "salt_total_max_g": 0.5,
-    "sodium_total_max_mg": 800,
-    "estimated_food_sodium_mg": 565
-  },
-  {
-    "date": "2026-06-15",
-    "title": "Circa 1500 kcal - Sodio totale max 800 mg - Sale da cucina aggiungibile max 0.2 g - Olio EVO totale 14 g",
-    "lines": [
-      "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-      "Merenda mattina 1: Fruit Jelly Decathlon 1 confezione da 25 g.",
-      "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
-      "Pranzo: pasta di semola 150 g peso a crudo + Grana Padano 5 g + olio EVO 8 g.",
-      "Merenda pomeriggio: Fruit Jelly Decathlon 1 confezione da 25 g.",
-      "Cena: uova intere 2 + albume AIA aeQuilibrium 100 g + patate sbucciate 150 g peso a crudo + olio EVO 6 g.",
-      "Acqua: solo quanto serve; evitare overdrinking.",
-      "Note: pane azimo massimo 32 g per volta. Cena senza prodotti da forno. Non aggiungere frutta fresca o verdure in questa fase finale."
-    ],
-    "oil_evo_total_g": 14,
-    "sale_da_cucina_aggiungibile_max_g": 0.2,
-    "salt_total_max_g": 0.2,
-    "sodium_total_max_mg": 800,
-    "estimated_food_sodium_mg": 675
-  },
-  {
-    "date": "2026-06-16",
-    "title": "Circa 1500 kcal - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 17 g",
-    "lines": [
-      "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
-      "Merenda mattina 1: Fruit Jelly Decathlon 1 confezione da 25 g.",
-      "Merenda mattina 2: Fruit Jelly Decathlon 1 confezione da 25 g.",
-      "Pranzo: pasta di semola 150 g peso a crudo + Grana Padano 5 g + olio EVO 12 g.",
-      "Merenda pomeriggio: Fruit Jelly Decathlon 1 confezione da 25 g.",
-      "Cena: petto di pollo fresco 170 g peso a crudo + patate sbucciate 170 g peso a crudo + olio EVO 5 g.",
-      "Acqua: solo il necessario, a piccoli sorsi.",
-      "Note: ultimo giorno pieno prima del peso. Cena senza prodotti da forno. Stop se compaiono vertigini o debolezza importante; niente tonno, mozzarella, hamburger confezionati, cracker, frutta fresca o verdure."
-    ],
-    "oil_evo_total_g": 17,
-    "sale_da_cucina_aggiungibile_max_g": 0.0,
-    "salt_total_max_g": 0.0,
-    "sodium_total_max_mg": 600,
-    "estimated_food_sodium_mg": 540
-  },
-  {
-    "date": "2026-06-17",
-    "title": "Giorno peso - niente pranzo - colazione e merende prima del peso - pasto unico pomeridiano post-peso",
-    "lines": [
-      "Colazione pre-peso: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g, oppure niente se il peso e stretto.",
-      "Merenda mattina 1 pre-peso: Fruit Jelly Decathlon 1 confezione da 25 g solo se serve.",
-      "Merenda mattina 2 pre-peso: Fruit Jelly Decathlon 1 confezione da 25 g solo se serve.",
-      "Pranzo: saltato.",
-      "Prima del peso: evitare sale aggiunto; acqua solo a piccoli sorsi se necessaria.",
-      "Pasto unico pomeridiano post-peso: pasta di semola 150 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + 1 g di sale.",
-      "Pasto unico pomeridiano post-peso: petto di pollo fresco 170 g peso a crudo + patate sbucciate 200 g peso a crudo + olio EVO 5 g.",
-      "Merenda pomeriggio post-peso: Fruit Jelly Decathlon 1 confezione da 25 g oppure banana sbucciata 100 g.",
-      "Acqua post-peso: bere a piccoli sorsi; non fare abbuffata di acqua tutta insieme.",
-      "Note: fino al peso restare bassi; dopo il peso reintrodurre sodio in modo controllato. Post-peso senza prodotti da forno."
-    ],
-    "oil_evo_total_g": 15,
-    "sale_da_cucina_aggiungibile_max_g": 1.0,
-    "salt_total_max_g": 1.0,
-    "sodium_total_max_mg": 1000,
-    "estimated_food_sodium_mg": 900
-  }
-]
+{
+  "timezone": "Europe/Rome",
+  "days": [
+    {
+      "date": "2026-06-14",
+      "title": "Circa 1500 kcal - Sodio totale max 800 mg - Sale da cucina aggiungibile max 0.5 g - Olio EVO totale 14 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Fruit Jelly Decathlon 1 confezione da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
+        "Pranzo: pasta di semola 160 g peso a crudo + Grana Padano 5 g + olio EVO 8 g.",
+        "Merenda pomeriggio: Fruit Jelly Decathlon 1 confezione da 25 g.",
+        "Cena: petto di pollo fresco 150 g peso a crudo + patate sbucciate 150 g peso a crudo + olio EVO 6 g.",
+        "Acqua: solo quanto serve.",
+        "Note: pane azimo massimo 32 g per volta. Cena senza prodotti da forno. Niente cracker, tonno, mozzarella, pane normale, frutta fresca o verdure in questa fase finale."
+      ],
+      "oil_evo_total_g": 14,
+      "sale_da_cucina_aggiungibile_max_g": 0.5,
+      "salt_total_max_g": 0.5,
+      "sodium_total_max_mg": 800,
+      "estimated_food_sodium_mg": 565
+    },
+    {
+      "date": "2026-06-15",
+      "title": "Circa 1500 kcal - Sodio totale max 800 mg - Sale da cucina aggiungibile max 0.2 g - Olio EVO totale 14 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Fruit Jelly Decathlon 1 confezione da 25 g.",
+        "Merenda mattina 2: Jerusalem Matzos Pane Azzimo Classico 32 g.",
+        "Pranzo: pasta di semola 150 g peso a crudo + Grana Padano 5 g + olio EVO 8 g.",
+        "Merenda pomeriggio: Fruit Jelly Decathlon 1 confezione da 25 g.",
+        "Cena: uova intere 2 + albume AIA aeQuilibrium 100 g + patate sbucciate 150 g peso a crudo + olio EVO 6 g.",
+        "Acqua: solo quanto serve; evitare overdrinking.",
+        "Note: pane azimo massimo 32 g per volta. Cena senza prodotti da forno. Non aggiungere frutta fresca o verdure in questa fase finale."
+      ],
+      "oil_evo_total_g": 14,
+      "sale_da_cucina_aggiungibile_max_g": 0.2,
+      "salt_total_max_g": 0.2,
+      "sodium_total_max_mg": 800,
+      "estimated_food_sodium_mg": 675
+    },
+    {
+      "date": "2026-06-16",
+      "title": "Circa 1500 kcal - Giorno prima del peso - Sodio totale max 600 mg - Sale da cucina aggiungibile max 0.0 g - Olio EVO totale 17 g - Pranzo saltato",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g.",
+        "Merenda mattina 1: Fruit Jelly Decathlon 1 confezione da 25 g.",
+        "Merenda mattina 2: Fruit Jelly Decathlon 1 confezione da 25 g.",
+        "Pranzo: saltato.",
+        "Merenda pomeriggio: Fruit Jelly Decathlon 1 confezione da 25 g.",
+        "Pasto unico pomeridiano o serale con spesa Mercator Sarajevo: pasta di semola 150 g peso a crudo + Grana Padano o formaggio duro simile 5 g + olio EVO 12 g.",
+        "Pasto unico pomeridiano o serale: petto di pollo fresco 170 g peso a crudo + patate sbucciate 170 g peso a crudo + olio EVO 5 g.",
+        "Acqua: solo il necessario, a piccoli sorsi; evitare overdrinking.",
+        "Note spesa Mercator: comprare pasta di semola, petto di pollo fresco o tacchino fresco non condito, patate, olio EVO, acqua naturale, banane solo di scorta. Non comprare pollo gia cotto, piatti pronti, zuppe pronte, pane, tonno, mozzarella, salumi o formaggi salati.",
+        "Note: niente sale aggiunto. Ultimo giorno pieno prima del peso. Stop se compaiono vertigini, debolezza importante, confusione, crampi forti o malessere anomalo."
+      ],
+      "oil_evo_total_g": 17,
+      "sale_da_cucina_aggiungibile_max_g": 0.0,
+      "salt_total_max_g": 0.0,
+      "sodium_total_max_mg": 600,
+      "estimated_food_sodium_mg": 540
+    },
+    {
+      "date": "2026-06-17",
+      "title": "Giorno peso - niente pranzo - colazione e merende prima del peso - pasto unico pomeridiano post-peso",
+      "lines": [
+        "Colazione pre-peso: Frollini alla panna Esselunga 3 biscotti (37.5 g totali) + Yomo Rinforzo 1 bottiglietta da 90 g, oppure niente se il peso e stretto.",
+        "Merenda mattina 1 pre-peso: Fruit Jelly Decathlon 1 confezione da 25 g solo se serve.",
+        "Merenda mattina 2 pre-peso: Fruit Jelly Decathlon 1 confezione da 25 g solo se serve.",
+        "Pranzo: saltato.",
+        "Prima del peso: evitare sale aggiunto; acqua solo a piccoli sorsi se necessaria.",
+        "Pasto unico pomeridiano post-peso: pasta di semola 150 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + 1 g di sale.",
+        "Pasto unico pomeridiano post-peso: petto di pollo fresco 170 g peso a crudo + patate sbucciate 200 g peso a crudo + olio EVO 5 g.",
+        "Merenda pomeriggio post-peso: Fruit Jelly Decathlon 1 confezione da 25 g oppure banana sbucciata 100 g.",
+        "Acqua post-peso: bere a piccoli sorsi; non fare abbuffata di acqua tutta insieme.",
+        "Note: fino al peso restare bassi; dopo il peso reintrodurre sodio in modo controllato. Post-peso senza prodotti da forno."
+      ],
+      "oil_evo_total_g": 15,
+      "sale_da_cucina_aggiungibile_max_g": 1.0,
+      "salt_total_max_g": 1.0,
+      "sodium_total_max_mg": 1000,
+      "estimated_food_sodium_mg": 900
+    }
+  ]
+}
