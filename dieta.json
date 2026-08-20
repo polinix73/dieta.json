@@ -3,7 +3,7 @@
   "days": [
     {
       "date": "2026-08-20",
-      "title": "Circa 1800 kcal | nessuna restrizione sodio",
+      "title": "Circa 1800 kcal - Nessuna restrizione sodio",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: crackers Gran Pavesi 2 pacchetti, circa 62.5 g totali",
@@ -12,20 +12,12 @@
         "Cena: mozzarella della foto 90 g peso sgocciolato + pane normale 100 g + pomodori 200 g + olio EVO 5 g",
         "Olio EVO totale della giornata: 5 g",
         "Sodio: nessuna restrizione specifica",
-        "Sale da cucina: quanto basta"
-      ],
-      "oil_evo_total_g": 5,
-      "salt_total_max_g": null,
-      "calculated": {
-        "kcal_total": 1803,
-        "sodium_inherent_mg": 1844,
-        "sodium_target_mg": null,
-        "salt_addable_max_g": null
-      }
+        "Sale da cucina aggiungibile: quanto basta"
+      ]
     },
     {
       "date": "2026-08-21",
-      "title": "Circa 1800 kcal | nessuna restrizione sodio",
+      "title": "Circa 1800 kcal - Nessuna restrizione sodio",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: crackers Gran Pavesi 2 pacchetti, circa 62.5 g totali",
@@ -34,42 +26,26 @@
         "Cena: bresaola a fette 80 g + pane normale 125 g + olio EVO 10 g",
         "Olio EVO totale della giornata: 20 g",
         "Sodio: nessuna restrizione specifica",
-        "Sale da cucina: quanto basta"
-      ],
-      "oil_evo_total_g": 20,
-      "salt_total_max_g": null,
-      "calculated": {
-        "kcal_total": 1788,
-        "sodium_inherent_mg": 2541,
-        "sodium_target_mg": null,
-        "salt_addable_max_g": null
-      }
+        "Sale da cucina aggiungibile: quanto basta"
+      ]
     },
     {
       "date": "2026-08-22",
-      "title": "Circa 1800 kcal | nessuna restrizione sodio",
+      "title": "Circa 1800 kcal - Nessuna restrizione sodio",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: crackers Gran Pavesi 2 pacchetti, circa 62.5 g totali",
         "Pranzo: pasta 115 g + passata di pomodoro 100 g + Grana 10 g + olio EVO 10 g + mela 150 g",
         "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da 31.25 g",
-        "Cena: petto di tacchino 180 g + pane normale 80 g + pomodori 200 g + olio EVO 9 g",
+        "Cena: fesa di tacchino fresca 180 g + pane normale 80 g + pomodori 200 g + olio EVO 9 g",
         "Olio EVO totale della giornata: 19 g",
         "Sodio: nessuna restrizione specifica",
-        "Sale da cucina: quanto basta"
-      ],
-      "oil_evo_total_g": 19,
-      "salt_total_max_g": null,
-      "calculated": {
-        "kcal_total": 1784,
-        "sodium_inherent_mg": 1371,
-        "sodium_target_mg": null,
-        "salt_addable_max_g": null
-      }
+        "Sale da cucina aggiungibile: quanto basta"
+      ]
     },
     {
       "date": "2026-08-23",
-      "title": "Circa 1800 kcal | sodio massimo 2000 mg",
+      "title": "Circa 1800 kcal - Sodio massimo 2000 mg",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: crackers Gran Pavesi 2 pacchetti, circa 62.5 g totali",
@@ -77,300 +53,179 @@
         "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da 31.25 g",
         "Cena: Philadelphia Light 100 g + pane normale 100 g + pomodori 200 g + olio EVO 8 g",
         "Olio EVO totale della giornata: 18 g",
-        "Sodio intrinseco stimato degli alimenti: circa 1428 mg",
-        "Sodio massimo giornaliero: 2000 mg",
-        "Sale totale equivalente massimo giornaliero: 5.0 g",
-        "Sale da cucina aggiungibile: MASSIMO 1,1 g nell'intera giornata"
-      ],
-      "oil_evo_total_g": 18,
-      "salt_total_max_g": 5.0,
-      "calculated": {
-        "kcal_total": 1777,
-        "sodium_inherent_mg": 1428,
-        "sodium_target_mg": 2000,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 1.1
-      }
+        "Sodio intrinseco stimato degli alimenti: circa 1424 mg",
+        "Sodio massimo totale della giornata: 2000 mg",
+        "Sale da cucina aggiungibile: MASSIMO 1.1 g nell'intera giornata"
+      ]
     },
     {
       "date": "2026-08-24",
-      "title": "Circa 1770 kcal | sodio massimo 2000 mg",
+      "title": "Circa 1800 kcal - Sodio massimo 2000 mg",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: crackers Gran Pavesi 2 pacchetti, circa 62.5 g totali",
         "Pranzo: pasta 105 g + legumi secchi 35 g + passata di pomodoro 100 g + olio EVO 10 g + mela 150 g",
         "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da 31.25 g",
-        "Cena: petto di pollo 170 g + pane normale 75 g + pomodori 200 g + olio EVO 7 g",
+        "Cena: fesa di tacchino fresca 170 g + pane normale 75 g + pomodori 200 g + olio EVO 7 g",
         "Olio EVO totale della giornata: 17 g",
-        "Sodio intrinseco stimato degli alimenti: circa 1260 mg",
-        "Sodio massimo giornaliero: 2000 mg",
-        "Sale totale equivalente massimo giornaliero: 5.0 g",
-        "Sale da cucina aggiungibile: MASSIMO 1,6 g nell'intera giornata"
-      ],
-      "oil_evo_total_g": 17,
-      "salt_total_max_g": 5.0,
-      "calculated": {
-        "kcal_total": 1771,
-        "sodium_inherent_mg": 1260,
-        "sodium_target_mg": 2000,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 1.6
-      }
+        "Sodio intrinseco stimato degli alimenti: circa 1114 mg",
+        "Sodio massimo totale della giornata: 2000 mg",
+        "Sale da cucina aggiungibile: MASSIMO 1.9 g nell'intera giornata"
+      ]
     },
     {
       "date": "2026-08-25",
-      "title": "Circa 1800 kcal | sodio massimo 1500 mg | 1 crackers + 1 Fruit Jelly",
+      "title": "Circa 1800 kcal - Sodio massimo 1500 mg",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: crackers Gran Pavesi 1 pacchetto da 31.25 g",
-        "Pranzo: riso bianco 166 g PESO A CRUDO + olio EVO 15 g + mela 150 g",
+        "Pranzo: riso bianco 168 g PESO A CRUDO + olio EVO 15 g + mela 150 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: petto di pollo 180 g + pane normale 100 g + pomodori 200 g + olio EVO 12 g",
-        "Olio EVO totale della giornata: 27 g",
-        "Sodio intrinseco stimato degli alimenti: circa 795 mg",
-        "Sodio massimo giornaliero: 1500 mg",
-        "Sale totale equivalente massimo giornaliero: 3.75 g",
-        "Sale da cucina aggiungibile: MASSIMO 1,5 g nell'intera giornata"
-      ],
-      "oil_evo_total_g": 27,
-      "salt_total_max_g": 3.75,
-      "calculated": {
-        "kcal_total": 1796,
-        "sodium_inherent_mg": 795,
-        "sodium_target_mg": 1500,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 1.5
-      }
+        "Cena: fesa di tacchino fresca 180 g + pane normale 100 g + pomodori 200 g + olio EVO 10 g",
+        "Olio EVO totale della giornata: 25 g",
+        "Sodio intrinseco stimato degli alimenti: circa 826 mg",
+        "Sodio massimo totale della giornata: 1500 mg",
+        "Sale da cucina aggiungibile: MASSIMO 1.4 g nell'intera giornata"
+      ]
     },
     {
       "date": "2026-08-26",
-      "title": "Circa 1800 kcal | sodio massimo 1500 mg | 1 Fruit Jelly + 1 crackers",
+      "title": "Circa 1800 kcal - Sodio massimo 1500 mg",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta 151 g PESO A CRUDO + olio EVO 15 g + banana 120 g",
+        "Pranzo: pasta 170 g PESO A CRUDO + olio EVO 15 g + banana 120 g",
         "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da 31.25 g",
-        "Cena: petto di tacchino 180 g + pane normale 100 g + pomodori 200 g + olio EVO 12 g",
-        "Olio EVO totale della giornata: 27 g",
-        "Sodio intrinseco stimato degli alimenti: circa 825 mg",
-        "Sodio massimo giornaliero: 1500 mg",
-        "Sale totale equivalente massimo giornaliero: 3.75 g",
-        "Sale da cucina aggiungibile: MASSIMO 1,4 g nell'intera giornata"
-      ],
-      "oil_evo_total_g": 27,
-      "salt_total_max_g": 3.75,
-      "calculated": {
-        "kcal_total": 1794,
-        "sodium_inherent_mg": 825,
-        "sodium_target_mg": 1500,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 1.4
-      }
+        "Cena: fesa di tacchino fresca 180 g + patate sbucciate e bollite senza sale 300 g PESO COTTO + pomodori 200 g + olio EVO 10 g",
+        "Olio EVO totale della giornata: 25 g",
+        "Sodio intrinseco stimato degli alimenti: circa 552 mg",
+        "Sodio massimo totale della giornata: 1500 mg",
+        "Sale da cucina aggiungibile: MASSIMO 2.1 g nell'intera giornata"
+      ]
     },
     {
       "date": "2026-08-27",
-      "title": "Circa 1800 kcal | sodio massimo 1500 mg | 1 crackers + 1 Fruit Jelly",
+      "title": "Circa 1800 kcal - Sodio massimo 1500 mg",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: crackers Gran Pavesi 1 pacchetto da 31.25 g",
         "Pranzo: pasta 145 g PESO A CRUDO + olio EVO 15 g + mela 150 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: 3 uova, circa 150 g edibili + pane normale 120 g + pomodori 200 g + olio EVO 12 g",
-        "Olio EVO totale della giornata: 27 g",
-        "Sodio intrinseco stimato degli alimenti: circa 997 mg",
-        "Sodio massimo giornaliero: 1500 mg",
-        "Sale totale equivalente massimo giornaliero: 3.75 g",
-        "Sale da cucina aggiungibile: MASSIMO 1,0 g nell'intera giornata"
-      ],
-      "oil_evo_total_g": 27,
-      "salt_total_max_g": 3.75,
-      "calculated": {
-        "kcal_total": 1802,
-        "sodium_inherent_mg": 997,
-        "sodium_target_mg": 1500,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 1.0
-      }
+        "Cena: 4 uova medie + pane normale 100 g + pomodori 200 g + olio EVO 10 g",
+        "Olio EVO totale della giornata: 25 g",
+        "Sodio intrinseco stimato degli alimenti: circa 1005 mg",
+        "Sodio massimo totale della giornata: 1500 mg",
+        "Sale da cucina aggiungibile: MASSIMO 0.9 g nell'intera giornata"
+      ]
     },
     {
       "date": "2026-08-28",
-      "title": "Circa 1800 kcal | sodio massimo 1200 mg | 1 Fruit Jelly + 1 crackers",
+      "title": "Circa 1800 kcal - Sodio massimo 1200 mg",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: riso bianco 184 g PESO A CRUDO + olio EVO 15 g + mela 150 g",
+        "Pranzo: riso bianco 180 g PESO A CRUDO + olio EVO 15 g + mela 150 g",
         "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da 31.25 g",
-        "Cena: petto di pollo 180 g + pane normale 70 g + pomodori 200 g + olio EVO 14 g",
-        "Olio EVO totale della giornata: 29 g",
-        "Sodio intrinseco stimato degli alimenti: circa 708 mg",
-        "Sodio massimo giornaliero: 1200 mg",
-        "Sale totale equivalente massimo giornaliero: 3.0 g",
-        "Sale da cucina aggiungibile: MASSIMO 0,9 g nell'intera giornata"
-      ],
-      "oil_evo_total_g": 29,
-      "salt_total_max_g": 3.0,
-      "calculated": {
-        "kcal_total": 1794,
-        "sodium_inherent_mg": 708,
-        "sodium_target_mg": 1200,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 0.9
-      }
+        "Cena: fesa di tacchino fresca 180 g + patate sbucciate e bollite senza sale 300 g PESO COTTO + pomodori 200 g + olio EVO 10 g",
+        "Olio EVO totale della giornata: 25 g",
+        "Sodio intrinseco stimato degli alimenti: circa 554 mg",
+        "Sodio massimo totale della giornata: 1200 mg",
+        "Sale da cucina aggiungibile: MASSIMO 1.3 g nell'intera giornata"
+      ]
     },
     {
       "date": "2026-08-29",
-      "title": "Circa 1800 kcal | sodio massimo 1200 mg | BASSO RESIDUO | 1 crackers + 1 Fruit Jelly",
+      "title": "Circa 1800 kcal - Sodio massimo 1200 mg - BASSO RESIDUO",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: crackers Gran Pavesi 1 pacchetto da 31.25 g",
-        "Pranzo: pasta bianca 185 g PESO A CRUDO + olio EVO 15 g",
+        "Pranzo: riso bianco 195 g PESO A CRUDO + olio EVO 15 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: petto di tacchino 180 g + pane bianco normale 100 g + olio EVO 15 g",
-        "Olio EVO totale della giornata: 30 g",
-        "Sodio intrinseco stimato degli alimenti: circa 813 mg",
-        "Sodio massimo giornaliero: 1200 mg",
-        "Sale totale equivalente massimo giornaliero: 3.0 g",
-        "Sale da cucina aggiungibile: MASSIMO 0,7 g nell'intera giornata",
+        "Cena: fesa di tacchino fresca 180 g + pane bianco normale 100 g + olio EVO 13 g",
+        "Olio EVO totale della giornata: 28 g",
+        "Sodio intrinseco stimato degli alimenti: circa 815 mg",
+        "Sodio massimo totale della giornata: 1200 mg",
+        "Sale da cucina aggiungibile: MASSIMO 0.7 g nell'intera giornata",
         "Basso residuo: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
-      ],
-      "oil_evo_total_g": 30,
-      "salt_total_max_g": 3.0,
-      "calculated": {
-        "kcal_total": 1800,
-        "sodium_inherent_mg": 813,
-        "sodium_target_mg": 1200,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 0.7
-      }
+      ]
     },
     {
       "date": "2026-08-30",
-      "title": "Circa 1800 kcal | sodio massimo 1200 mg | BASSO RESIDUO | ultimo giorno crackers e pane normale",
+      "title": "Circa 1800 kcal - Sodio massimo 1200 mg - BASSO RESIDUO",
       "lines": [
         "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: riso bianco 197 g PESO A CRUDO + olio EVO 15 g",
+        "Pranzo: pasta bianca 175 g PESO A CRUDO + olio EVO 15 g",
         "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da 31.25 g",
-        "Cena: petto di pollo 180 g + pane bianco normale 97 g + olio EVO 15 g",
-        "Olio EVO totale della giornata: 30 g",
-        "Sodio intrinseco stimato degli alimenti: circa 773 mg",
-        "Sodio massimo giornaliero: 1200 mg",
-        "Sale totale equivalente massimo giornaliero: 3.0 g",
-        "Sale da cucina aggiungibile: MASSIMO 0,8 g nell'intera giornata",
+        "Cena: fesa di tacchino fresca 180 g + pane bianco normale 95 g + olio EVO 20 g",
+        "Olio EVO totale della giornata: 35 g",
+        "Sodio intrinseco stimato degli alimenti: circa 798 mg",
+        "Sodio massimo totale della giornata: 1200 mg",
+        "Sale da cucina aggiungibile: MASSIMO 0.7 g nell'intera giornata",
         "Basso residuo: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
-      ],
-      "oil_evo_total_g": 30,
-      "salt_total_max_g": 3.0,
-      "calculated": {
-        "kcal_total": 1807,
-        "sodium_inherent_mg": 773,
-        "sodium_target_mg": 1200,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 0.8
-      }
+      ]
     },
     {
       "date": "2026-08-31",
-      "title": "Circa 1810 kcal | sodio massimo 800 mg | BASSO RESIDUO | pane senza sale | stop crackers",
+      "title": "Circa 1800 kcal - Sodio massimo 800 mg - BASSO RESIDUO",
       "lines": [
-        "Colazione: pane bianco senza sale 80 g + burro 10 g + marmellata senza pezzi o semi 25 g",
+        "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: riso bianco 187 g PESO A CRUDO + olio EVO 15 g",
+        "Pranzo: riso bianco 195 g PESO A CRUDO + olio EVO 15 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: petto di pollo 180 g + pane bianco senza sale 100 g + olio EVO 13 g",
-        "Olio EVO totale della giornata: 28 g",
-        "Sodio intrinseco stimato degli alimenti: circa 528 mg",
-        "Sodio massimo giornaliero: 800 mg",
-        "Sale totale equivalente massimo giornaliero: 2.0 g",
-        "Sale da cucina aggiungibile: MASSIMO 0,4 g nell'intera giornata",
-        "Basso residuo stretto: niente frutta intera, verdura, legumi, integrali, semi o alimenti ricchi di fibre"
-      ],
-      "oil_evo_total_g": 28,
-      "salt_total_max_g": 2.0,
-      "calculated": {
-        "kcal_total": 1810,
-        "sodium_inherent_mg": 528,
-        "sodium_target_mg": 800,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 0.4
-      }
+        "Cena: fesa di tacchino fresca 180 g + patate sbucciate e bollite senza sale 300 g PESO COTTO + olio EVO 24 g",
+        "Olio EVO totale della giornata: 39 g",
+        "Sodio intrinseco stimato degli alimenti: circa 395 mg",
+        "Sodio massimo totale della giornata: 800 mg",
+        "Sale da cucina aggiungibile: MASSIMO 0.7 g nell'intera giornata",
+        "Basso residuo stretto: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
+      ]
     },
     {
       "date": "2026-09-01",
-      "title": "Circa 1800 kcal | sodio massimo 800 mg | BASSO RESIDUO",
+      "title": "Circa 1800 kcal - Sodio massimo 800 mg - BASSO RESIDUO",
       "lines": [
-        "Colazione: pane bianco senza sale 80 g + burro 10 g + marmellata senza pezzi o semi 25 g",
+        "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta bianca 177 g PESO A CRUDO + olio EVO 15 g",
+        "Pranzo: pasta bianca 190 g PESO A CRUDO + olio EVO 15 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: petto di tacchino 180 g + pane bianco senza sale 100 g + olio EVO 13 g",
-        "Olio EVO totale della giornata: 28 g",
-        "Sodio intrinseco stimato degli alimenti: circa 560 mg",
-        "Sodio massimo giornaliero: 800 mg",
-        "Sale totale equivalente massimo giornaliero: 2.0 g",
-        "Sale da cucina aggiungibile: MASSIMO 0,3 g nell'intera giornata",
-        "Basso residuo stretto: niente frutta intera, verdura, legumi, integrali, semi o alimenti ricchi di fibre"
-      ],
-      "oil_evo_total_g": 28,
-      "salt_total_max_g": 2.0,
-      "calculated": {
-        "kcal_total": 1802,
-        "sodium_inherent_mg": 560,
-        "sodium_target_mg": 800,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 0.3
-      }
+        "Cena: fesa di tacchino fresca 180 g + patate sbucciate e bollite senza sale 300 g PESO COTTO + olio EVO 24 g",
+        "Olio EVO totale della giornata: 39 g",
+        "Sodio intrinseco stimato degli alimenti: circa 393 mg",
+        "Sodio massimo totale della giornata: 800 mg",
+        "Sale da cucina aggiungibile: MASSIMO 0.7 g nell'intera giornata",
+        "Basso residuo stretto: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
+      ]
     },
     {
       "date": "2026-09-02",
-      "title": "Circa 1800 kcal | sodio massimo 600 mg | BASSO RESIDUO | fase finale",
+      "title": "Circa 1800 kcal - Sodio massimo 600 mg - BASSO RESIDUO",
       "lines": [
-        "Colazione: pane bianco senza sale 60 g + burro 10 g + marmellata senza pezzi o semi 25 g",
+        "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: riso bianco 165 g PESO A CRUDO + olio EVO 15 g",
+        "Pranzo: riso bianco 160 g PESO A CRUDO + olio EVO 20 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: pasta bianca 120 g PESO A CRUDO + petto di pollo 180 g + olio EVO 8 g",
-        "Olio EVO totale della giornata: 23 g",
-        "Sodio intrinseco stimato degli alimenti: circa 292 mg",
-        "Sodio massimo giornaliero: 600 mg",
-        "Sale totale equivalente massimo giornaliero: 1.5 g",
-        "Sale da cucina aggiungibile: MASSIMO 0,5 g nell'intera giornata",
-        "Basso residuo stretto: niente frutta intera, verdura, legumi, integrali, semi o alimenti ricchi di fibre"
-      ],
-      "oil_evo_total_g": 23,
-      "salt_total_max_g": 1.5,
-      "calculated": {
-        "kcal_total": 1801,
-        "sodium_inherent_mg": 292,
-        "sodium_target_mg": 600,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g": 0.5
-      }
+        "Cena: pasta bianca 100 g PESO A CRUDO + fesa di tacchino fresca 180 g + olio EVO 18 g",
+        "Olio EVO totale della giornata: 38 g",
+        "Sodio intrinseco stimato degli alimenti: circa 377 mg",
+        "Sodio massimo totale della giornata: 600 mg",
+        "Sale da cucina aggiungibile: MASSIMO 0.3 g nell'intera giornata",
+        "Basso residuo stretto: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
+      ]
     },
     {
       "date": "2026-09-03",
-      "title": "GIORNO DELLA PESATA | sodio massimo 600 mg fino alla pesata | BASSO RESIDUO",
+      "title": "GIORNO DELLA PESATA - Sodio massimo 600 mg fino alla pesata - BASSO RESIDUO",
       "lines": [
-        "Prima della pesata: consumare solo i pasti necessari in funzione dell'orario effettivo della pesata",
-        "Colazione, se necessaria: pane bianco senza sale 40 g + marmellata senza pezzi o semi 20 g",
-        "Merenda, se necessaria: Fruit Jelly Decathlon 25 g",
-        "Pranzo, solo se necessario prima della pesata: riso bianco 100 g PESO A CRUDO + petto di pollo 150 g + olio EVO 10 g",
-        "Olio EVO totale prima della pesata, se consumato anche il pranzo: 10 g",
-        "Sodio intrinseco stimato, se vengono consumati tutti gli alimenti indicati: circa 185 mg",
-        "Sodio massimo prima della pesata: 600 mg",
-        "Sale totale equivalente massimo prima della pesata: 1.5 g",
-        "Sale da cucina aggiungibile prima della pesata: MASSIMO 0,7 g se vengono consumati tutti gli alimenti indicati",
+        "Colazione: 3 frollini alla panna Esselunga 37.5 g + Yomo Rinforzo 90 g; se la pesata avviene prima della colazione, consumarla dopo la pesata",
+        "Merenda prima della pesata, se necessaria: Fruit Jelly Decathlon 25 g",
+        "Pranzo prima della pesata, solo se necessario in base all'orario: riso bianco 100 g PESO A CRUDO + fesa di tacchino fresca 150 g + olio EVO 10 g",
+        "Olio EVO totale prima della pesata: massimo 10 g se viene consumato anche il pranzo",
+        "Sodio intrinseco stimato prima della pesata, consumando tutti gli alimenti indicati: circa 306 mg",
+        "Sodio massimo totale prima della pesata: 600 mg",
+        "Sale da cucina aggiungibile prima della pesata: MASSIMO 0.4 g se vengono consumati tutti gli alimenti indicati",
         "Dopo la pesata: termina il limite dei 600 mg; procedere con reintroduzione del sodio e recupero alimentare e dei liquidi secondo le indicazioni ricevute"
-      ],
-      "oil_evo_total_g": 10,
-      "salt_total_max_g": 1.5,
-      "calculated": {
-        "kcal_total_pre_weighin_if_all_items_consumed": 806,
-        "sodium_inherent_mg_pre_weighin_if_all_items_consumed": 185,
-        "sodium_target_mg_pre_weighin": 600,
-        "sodium_safety_buffer_mg": 100,
-        "salt_addable_max_g_pre_weighin": 0.7
-      }
+      ]
     }
   ]
 }
