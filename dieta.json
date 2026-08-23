@@ -2,34 +2,19 @@
   "timezone": "Europe/Rome",
   "days": [
     {
-      "date": "2026-08-22",
-      "title": "Circa 1500 kcal - Nessuna restrizione sodio",
-      "lines": [
-        "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
-        "Merenda mattina: crackers Gran Pavesi 1 pacchetto da circa 31.25 g",
-        "Pranzo: pasta di grano duro 80 g PESO A CRUDO + Grana 5 g + olio EVO 5 g + mela 150 g",
-        "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da circa 31.25 g",
-        "Cena: Philadelphia Light 100 g + 2 uova medie, circa 100 g edibili + pane di grano duro 75 g + pomodori 200 g + olio EVO 5 g + banana 120 g",
-        "Calorie totali stimate: circa 1500 kcal",
-        "Olio EVO totale della giornata: 10 g",
-        "Sodio: nessuna restrizione specifica",
-        "Sale da cucina aggiungibile: quanto basta"
-      ]
-    },
-    {
       "date": "2026-08-23",
       "title": "Circa 1500 kcal - Sodio massimo 2000 mg",
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: crackers Gran Pavesi 1 pacchetto da circa 31.25 g",
-        "Pranzo: pasta di grano duro 125 g PESO A CRUDO + Grana 5 g + olio EVO 6 g + mela 150 g",
+        "Pranzo: pasta di grano duro 104 g PESO A CRUDO + Grana 5 g + olio EVO 6 g + mela 150 g",
         "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da circa 31.25 g",
-        "Cena: Philadelphia Light 100 g + patate sbucciate 250 g PESO A CRUDO, poi bollite senza sale + olio EVO 5 g + banana 120 g",
-        "Calorie totali stimate: circa 1495 kcal",
+        "Cena: Philadelphia Light 100 g + pane di grano duro 100 g + olio EVO 5 g + banana 120 g",
+        "Calorie totali stimate: circa 1501 kcal",
         "Olio EVO totale della giornata: 11 g",
-        "Sodio intrinseco stimato degli alimenti: circa 950 mg",
+        "Sodio intrinseco stimato degli alimenti: circa 1355 mg",
         "Sodio massimo totale della giornata: 2000 mg",
-        "Sale da cucina aggiungibile: MASSIMO 2.4 g nell'intera giornata"
+        "Sale da cucina aggiungibile: MASSIMO 1.3 g nell'intera giornata"
       ]
     },
     {
@@ -38,13 +23,14 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: crackers Gran Pavesi 1 pacchetto da circa 31.25 g",
-        "Pranzo: pasta di grano duro 80 g PESO A CRUDO + Grana 5 g + olio EVO 5 g + mela 150 g",
+        "Pranzo: pasta di grano duro 91 g PESO A CRUDO + Grana 5 g + olio EVO 5 g + mela 150 g",
         "Merenda pomeriggio: crackers Gran Pavesi 1 pacchetto da circa 31.25 g",
-        "Cena: hamburger Chianina 200 g + pane di grano duro 60 g + olio EVO 5 g + mela 150 g",
-        "Calorie totali stimate: circa 1500 kcal",
+        "Cena: hamburger Chianina 100% carne senza sale aggiunto 200 g + pane normale 60 g + olio EVO 5 g + mela 150 g",
+        "Calorie totali stimate: circa 1499 kcal",
         "Olio EVO totale della giornata: 10 g",
+        "Sodio intrinseco stimato degli alimenti: circa 894 mg",
         "Sodio massimo totale della giornata: 2000 mg",
-        "Sale da cucina aggiungibile: MASSIMO 2.0 g nell'intera giornata"
+        "Sale da cucina aggiungibile: MASSIMO 2.5 g nell'intera giornata"
       ]
     },
     {
@@ -53,12 +39,12 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 120 g PESO A CRUDO + Grana 5 g + olio EVO 7 g + mela 150 g",
+        "Pranzo: pasta di grano duro 123 g PESO A CRUDO + Grana 5 g + olio EVO 7 g + mela 150 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
         "Cena: mozzarella 100 g peso sgocciolato + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 6 g + banana 120 g",
-        "Calorie totali stimate: circa 1485 kcal",
+        "Calorie totali stimate: circa 1501 kcal",
         "Olio EVO totale della giornata: 13 g",
-        "Sodio intrinseco stimato degli alimenti: circa 640 mg",
+        "Sodio intrinseco stimato degli alimenti: circa 633 mg",
         "Sodio massimo totale della giornata: 1500 mg",
         "Sale da cucina aggiungibile: MASSIMO 1.9 g nell'intera giornata"
       ]
@@ -69,12 +55,12 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 105 g PESO A CRUDO + Grana 5 g + olio EVO 8 g + banana 120 g",
+        "Pranzo: pasta di grano duro 106 g PESO A CRUDO + Grana 5 g + olio EVO 8 g + banana 120 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
         "Cena: lonza di maiale fresca 180 g + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 8 g + mela 150 g",
-        "Calorie totali stimate: circa 1500 kcal",
+        "Calorie totali stimate: circa 1501 kcal",
         "Olio EVO totale della giornata: 16 g",
-        "Sodio intrinseco stimato degli alimenti: circa 460 mg",
+        "Sodio intrinseco stimato degli alimenti: circa 463 mg",
         "Sodio massimo totale della giornata: 1500 mg",
         "Sale da cucina aggiungibile: MASSIMO 2.3 g nell'intera giornata"
       ]
@@ -85,12 +71,12 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 115 g PESO A CRUDO + Grana 5 g + olio EVO 7 g + mela 150 g",
+        "Pranzo: pasta di grano duro 116 g PESO A CRUDO + Grana 5 g + olio EVO 7 g + mela 150 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
         "Cena: 4 uova medie, circa 200 g edibili + patate sbucciate 250 g PESO A CRUDO, poi bollite senza sale + olio EVO 9 g + banana 120 g",
-        "Calorie totali stimate: circa 1490 kcal",
+        "Calorie totali stimate: circa 1499 kcal",
         "Olio EVO totale della giornata: 16 g",
-        "Sodio intrinseco stimato degli alimenti: circa 640 mg",
+        "Sodio intrinseco stimato degli alimenti: circa 635 mg",
         "Sodio massimo totale della giornata: 1500 mg",
         "Sale da cucina aggiungibile: MASSIMO 1.9 g nell'intera giornata"
       ]
@@ -101,12 +87,12 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 107 g PESO A CRUDO + Grana 5 g + olio EVO 8 g + mela 150 g",
+        "Pranzo: pasta di grano duro 109 g PESO A CRUDO + Grana 5 g + olio EVO 8 g + mela 150 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
         "Cena: filetto di bovino fresco 180 g + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 10 g + banana 120 g",
-        "Calorie totali stimate: circa 1490 kcal",
+        "Calorie totali stimate: circa 1502 kcal",
         "Olio EVO totale della giornata: 18 g",
-        "Sodio intrinseco stimato degli alimenti: circa 440 mg",
+        "Sodio intrinseco stimato degli alimenti: circa 438 mg",
         "Sodio massimo totale della giornata: 1200 mg",
         "Sale da cucina aggiungibile: MASSIMO 1.6 g nell'intera giornata"
       ]
@@ -117,13 +103,13 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 150 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
+        "Pranzo: pasta di grano duro 165 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: lonza di maiale fresca 180 g + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 9 g",
+        "Cena: lonza di maiale fresca 180 g + patate sbucciate 200 g PESO A CRUDO, poi bollite senza sale + olio EVO 12 g",
         "Calorie totali stimate: circa 1500 kcal",
-        "Olio EVO totale della giornata: 19 g",
-        "Fibra totale stimata: circa 9.7 g",
-        "Sodio intrinseco stimato degli alimenti: circa 455 mg",
+        "Olio EVO totale della giornata: 22 g",
+        "Fibra totale stimata: circa 8.2 g",
+        "Sodio intrinseco stimato degli alimenti: circa 456 mg",
         "Sodio massimo totale della giornata: 1200 mg",
         "Sale da cucina aggiungibile: MASSIMO 1.6 g nell'intera giornata",
         "Basso residuo: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
@@ -135,15 +121,15 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 150 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
+        "Pranzo: pasta di grano duro 174 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: mozzarella 100 g peso sgocciolato + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 12 g",
-        "Calorie totali stimate: circa 1490 kcal",
+        "Cena: mozzarella 100 g peso sgocciolato + patate sbucciate 200 g PESO A CRUDO, poi bollite senza sale + olio EVO 12 g",
+        "Calorie totali stimate: circa 1499 kcal",
         "Olio EVO totale della giornata: 22 g",
-        "Fibra totale stimata: circa 9.7 g",
-        "Sodio intrinseco stimato degli alimenti: circa 640 mg",
+        "Fibra totale stimata: circa 8.3 g",
+        "Sodio intrinseco stimato degli alimenti: circa 625 mg",
         "Sodio massimo totale della giornata: 1200 mg",
-        "Sale da cucina aggiungibile: MASSIMO 1.1 g nell'intera giornata",
+        "Sale da cucina aggiungibile: MASSIMO 1.2 g nell'intera giornata",
         "Basso residuo: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
       ]
     },
@@ -153,13 +139,13 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 150 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
+        "Pranzo: pasta di grano duro 173 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: filetto di bovino fresco 180 g + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 12 g",
-        "Calorie totali stimate: circa 1495 kcal",
+        "Cena: filetto di bovino fresco 180 g + patate sbucciate 200 g PESO A CRUDO, poi bollite senza sale + olio EVO 12 g",
+        "Calorie totali stimate: circa 1499 kcal",
         "Olio EVO totale della giornata: 22 g",
-        "Fibra totale stimata: circa 9.7 g",
-        "Sodio intrinseco stimato degli alimenti: circa 445 mg",
+        "Fibra totale stimata: circa 8.3 g",
+        "Sodio intrinseco stimato degli alimenti: circa 431 mg",
         "Sodio massimo totale della giornata: 800 mg",
         "Sale da cucina aggiungibile: MASSIMO 0.6 g nell'intera giornata",
         "Basso residuo stretto: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
@@ -171,13 +157,13 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 150 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
+        "Pranzo: pasta di grano duro 173 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: 4 uova medie, circa 200 g edibili + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 9 g",
-        "Calorie totali stimate: circa 1495 kcal",
+        "Cena: 4 uova medie, circa 200 g edibili + patate sbucciate 200 g PESO A CRUDO, poi bollite senza sale + olio EVO 9 g",
+        "Calorie totali stimate: circa 1499 kcal",
         "Olio EVO totale della giornata: 19 g",
-        "Fibra totale stimata: circa 9.7 g",
-        "Sodio intrinseco stimato degli alimenti: circa 645 mg",
+        "Fibra totale stimata: circa 8.3 g",
+        "Sodio intrinseco stimato degli alimenti: circa 631 mg",
         "Sodio massimo totale della giornata: 800 mg",
         "Sale da cucina aggiungibile: MASSIMO 0.1 g nell'intera giornata",
         "Basso residuo stretto: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
@@ -189,15 +175,15 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina: Fruit Jelly Decathlon 25 g",
-        "Pranzo: pasta di grano duro 150 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
+        "Pranzo: pasta di grano duro 165 g PESO A CRUDO + Grana 5 g + olio EVO 10 g",
         "Merenda pomeriggio: Fruit Jelly Decathlon 25 g",
-        "Cena: lonza di maiale fresca 180 g + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 9 g",
+        "Cena: lonza di maiale fresca 180 g + patate sbucciate 200 g PESO A CRUDO, poi bollite senza sale + olio EVO 12 g",
         "Calorie totali stimate: circa 1500 kcal",
-        "Olio EVO totale della giornata: 19 g",
-        "Fibra totale stimata: circa 9.7 g",
-        "Sodio intrinseco stimato degli alimenti: circa 455 mg",
+        "Olio EVO totale della giornata: 22 g",
+        "Fibra totale stimata: circa 8.2 g",
+        "Sodio intrinseco stimato degli alimenti: circa 456 mg",
         "Sodio massimo totale della giornata: 600 mg",
-        "Sale da cucina aggiungibile: 0 g - NON aggiungere sale",
+        "Sale da cucina aggiungibile: MASSIMO 0.1 g nell'intera giornata",
         "Basso residuo stretto: niente frutta intera, verdura, legumi, cereali integrali, semi o alimenti ricchi di fibre"
       ]
     },
@@ -207,15 +193,15 @@
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + Hero Light fragole senza zuccheri aggiunti 20 g + Pan Carre Mulino Bianco 2 fette, circa 35.6 g totali",
         "Merenda mattina prima della pesata, se necessaria: Fruit Jelly Decathlon 25 g",
-        "Pranzo prima della pesata, se necessario: pasta di grano duro 140 g PESO A CRUDO + Grana 5 g + olio EVO 8 g",
-        "Sodio intrinseco stimato fino alla pesata, consumando colazione, merenda e pranzo: circa 300 mg",
+        "Pranzo prima della pesata, se necessario: pasta di grano duro 120 g PESO A CRUDO + Grana 5 g + olio EVO 8 g",
+        "Sodio intrinseco stimato fino alla pesata, consumando colazione, merenda e pranzo: circa 294 mg",
         "Sodio massimo totale fino alla pesata: 600 mg",
         "Sale da cucina aggiungibile fino alla pesata: MASSIMO 0.5 g",
         "Merenda pomeriggio dopo la pesata: Fruit Jelly Decathlon 25 g",
-        "Cena dopo la pesata: mozzarella 100 g peso sgocciolato + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + olio EVO 19 g",
-        "Calorie totali stimate dell'intera giornata: circa 1500 kcal",
-        "Olio EVO totale della giornata: 27 g",
-        "Fibra totale stimata prima e dopo la pesata: circa 9.5 g",
+        "Cena dopo la pesata: mozzarella 100 g peso sgocciolato + patate sbucciate 300 g PESO A CRUDO, poi bollite senza sale + pane normale 60 g + olio EVO 9 g",
+        "Calorie totali stimate dell'intera giornata: circa 1503 kcal",
+        "Olio EVO totale della giornata: 17 g",
+        "Basso residuo fino alla pesata",
         "Dopo la pesata: termina il limite dei 600 mg di sodio e si procede con reintroduzione del sodio e recupero alimentare e dei liquidi secondo le indicazioni ricevute"
       ]
     }
