@@ -1,75 +1,130 @@
 {
   "timezone": "Europe/Rome",
+  "tipo_documento": "Bozza alimentare quantitativa per revisione professionale",
+  "destinatario": "Professionista che segue Mario",
+  "apporto_richiesto_dal_genitore_kcal": 1500,
+  "apporto_calorico_del_menu_verificato": false,
+  "consumi_effettivi_confermati": false,
+  "note_generali": [
+    "Gli alimenti e la distribuzione dei pasti rispecchiano le preferenze indicate dal genitore.",
+    "Le quantita dei pasti principali provengono dalla precedente bozza in chat: non sono una registrazione di quanto Mario abbia effettivamente mangiato.",
+    "Questo menu non e stato ricalcolato per fornire 1500 kcal. Il professionista deve definire il fabbisogno e adattare le porzioni.",
+    "Non sono previsti digiuno, restrizione dei liquidi o il protocollo di taglio del sodio del documento di aprile."
+  ],
+  "convenzioni_pesi": {
+    "pasta": "Peso a crudo, prima della cottura.",
+    "pollo": "Peso a crudo della parte edibile, senza ossa e senza pelle.",
+    "patate": "Peso a crudo dopo aver eliminato la buccia.",
+    "zucchine": "Peso a crudo dopo aver eliminato gli scarti.",
+    "uova": "Numero di uova; il peso edibile va rilevato senza guscio.",
+    "albume": "Peso del prodotto prima della cottura.",
+    "tonno": "Peso sgocciolato, assumendo un prodotto al naturale in liquido di conservazione.",
+    "mozzarella": "Peso del prodotto sgocciolato.",
+    "pane_biscotti_crackers_yogurt_grana": "Peso del prodotto effettivamente consumato.",
+    "olio_evo": "Peso totale utilizzato, compreso quello per la cottura."
+  },
+  "confezioni_da_verificare": [
+    {
+      "alimento": "Biscotti Esselunga abituali",
+      "quantita": "3 biscotti a colazione",
+      "peso_totale_g": null,
+      "nota": "Pesare insieme i tre biscotti e utilizzare la tabella nutrizionale della confezione effettiva."
+    },
+    {
+      "alimento": "Yomo Rinforzo",
+      "peso_proposto_g": 90,
+      "nota": "Quantita ripresa dalla precedente bozza; confermare variante e formato abituali."
+    },
+    {
+      "alimento": "Gran Pavesi senza granelli di sale in superficie",
+      "quantita": "1 pacchetto per ciascuna merenda indicata",
+      "peso_pacchetto_g": null,
+      "nota": "Verificare il peso netto del pacchetto effettivo: nei vecchi conteggi erano stati utilizzati formati differenti."
+    },
+    {
+      "alimento": "Fonzies Gli Originali",
+      "peso_proposto_g": 23.5,
+      "nota": "Formato monoporzione ripreso dalla precedente bozza; confermare la confezione utilizzata."
+    }
+  ],
   "days": [
     {
       "date": "2026-09-21",
-      "title": "Lunedi - Schema pasti - Porzioni da personalizzare",
+      "title": "Lunedi - Bozza da revisionare - Cena con pollo",
       "lines": [
-        "Colazione: 3 frollini alla panna Esselunga + yogurt Yomo Rinforzo abituale.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Pranzo: pasta di semola con Grana Padano e olio EVO + mela.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Cena: petto di pollo fresco + patate + zucchine condite con olio EVO + pane di grano duro.",
-        "Acqua: bere regolarmente durante la giornata e in relazione all'allenamento, senza restrizioni finalizzate al peso.",
-        "Nota: questo schema non stabilisce un limite calorico; le porzioni devono coprire crescita, attivita quotidiana e allenamento."
-      ]
+        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Pranzo: pasta di semola 125 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
+        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Cena: petto di pollo fresco 200 g a crudo + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 50 g + olio EVO 10 g."
+      ],
+      "oil_evo_total_g": 25,
+      "calorie_totali_kcal": null,
+      "sale_da_cucina_aggiungibile_max_g": null
     },
     {
       "date": "2026-09-22",
-      "title": "Martedi - Schema pasti - Porzioni da personalizzare",
+      "title": "Martedi - Bozza da revisionare - Cena con mozzarella",
       "lines": [
-        "Colazione: 3 frollini alla panna Esselunga + yogurt Yomo Rinforzo abituale.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Merenda mattina 2: Fonzies Gli Originali, come previsto nel menu precedente.",
-        "Pranzo: pasta di semola con Grana Padano e olio EVO + mela.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Cena: mozzarella + patate + zucchine condite con olio EVO + pane di grano duro.",
-        "Acqua: bere regolarmente durante la giornata e in relazione all'allenamento, senza restrizioni finalizzate al peso.",
-        "Nota: questo schema non stabilisce un limite calorico; le porzioni devono coprire crescita, attivita quotidiana e allenamento."
-      ]
+        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Merenda mattina 2: Fonzies Gli Originali, 1 pacchetto da 23.5 g; formato da confermare.",
+        "Pranzo: pasta di semola 120 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
+        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Cena: mozzarella 125 g sgocciolata + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 50 g + olio EVO 10 g."
+      ],
+      "oil_evo_total_g": 25,
+      "calorie_totali_kcal": null,
+      "sale_da_cucina_aggiungibile_max_g": null
     },
     {
       "date": "2026-09-23",
-      "title": "Mercoledi - Schema pasti - Porzioni da personalizzare",
+      "title": "Mercoledi - Bozza da revisionare - Cena con uova",
       "lines": [
-        "Colazione: 3 frollini alla panna Esselunga + yogurt Yomo Rinforzo abituale.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Pranzo: pasta di semola con Grana Padano e olio EVO + banana.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Cena: frittata con uova e albume AIA + patate + zucchine + pane di grano duro; olio EVO per preparazione e condimento.",
-        "Acqua: bere regolarmente durante la giornata e in relazione all'allenamento, senza restrizioni finalizzate al peso.",
-        "Nota: questo schema non stabilisce un limite calorico; le porzioni devono coprire crescita, attivita quotidiana e allenamento."
-      ]
+        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Pranzo: pasta di semola 125 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
+        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Cena: 2 uova intere, peso senza guscio da rilevare, + albume AIA 200 g prima della cottura + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 50 g + olio EVO 10 g complessivi per cottura e condimento.",
+        "Prodotto da identificare: variante esatta dell'albume AIA utilizzato."
+      ],
+      "oil_evo_total_g": 25,
+      "calorie_totali_kcal": null,
+      "sale_da_cucina_aggiungibile_max_g": null
     },
     {
       "date": "2026-09-24",
-      "title": "Giovedi - Schema pasti - Porzioni da personalizzare",
+      "title": "Giovedi - Bozza da revisionare - Cena con tonno",
       "lines": [
-        "Colazione: 3 frollini alla panna Esselunga + yogurt Yomo Rinforzo abituale.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Pranzo: pasta di semola con Grana Padano e olio EVO + mela.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Cena: tonno al naturale sgocciolato + patate + zucchine condite con olio EVO + pane di grano duro.",
-        "Acqua: bere regolarmente durante la giornata e in relazione all'allenamento, senza restrizioni finalizzate al peso.",
-        "Nota: questo schema non stabilisce un limite calorico; le porzioni devono coprire crescita, attivita quotidiana e allenamento."
-      ]
+        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Pranzo: pasta di semola 120 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
+        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Cena: tonno al naturale 120 g sgocciolato + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 60 g + olio EVO 10 g.",
+        "Prodotto da identificare: marca e versione del tonno. Per un prodotto che non richiede sgocciolamento, il professionista deve utilizzare il peso e la tabella nutrizionale pertinenti."
+      ],
+      "oil_evo_total_g": 25,
+      "calorie_totali_kcal": null,
+      "sale_da_cucina_aggiungibile_max_g": null
     },
     {
       "date": "2026-09-25",
-      "title": "Venerdi - Mozzarella al posto della ricotta - Porzioni da personalizzare",
+      "title": "Venerdi - Bozza da revisionare - Mozzarella al posto della ricotta",
       "lines": [
-        "Colazione: 3 frollini alla panna Esselunga + yogurt Yomo Rinforzo abituale.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Pranzo: pasta di semola con Grana Padano e olio EVO + banana.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie.",
-        "Cena: mozzarella al posto della ricotta + patate + zucchine condite con olio EVO + pane di grano duro.",
-        "Acqua: bere regolarmente durante la giornata e in relazione all'allenamento, senza restrizioni finalizzate al peso.",
-        "Nota: questo schema non stabilisce un limite calorico; le porzioni devono coprire crescita, attivita quotidiana e allenamento."
-      ]
+        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Pranzo: pasta di semola 125 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
+        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
+        "Cena: mozzarella 125 g sgocciolata + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 70 g + olio EVO 10 g.",
+        "Modifica richiesta: ricotta eliminata. La porzione proposta di mozzarella riprende quella del martedi e non rappresenta una sostituzione calorica verificata della ricotta."
+      ],
+      "oil_evo_total_g": 25,
+      "calorie_totali_kcal": null,
+      "sale_da_cucina_aggiungibile_max_g": null
     }
   ]
 }
