@@ -1,130 +1,185 @@
 {
   "timezone": "Europe/Rome",
-  "tipo_documento": "Bozza alimentare quantitativa per revisione professionale",
-  "destinatario": "Professionista che segue Mario",
-  "apporto_richiesto_dal_genitore_kcal": 1500,
-  "apporto_calorico_del_menu_verificato": false,
-  "consumi_effettivi_confermati": false,
-  "note_generali": [
-    "Gli alimenti e la distribuzione dei pasti rispecchiano le preferenze indicate dal genitore.",
-    "Le quantita dei pasti principali provengono dalla precedente bozza in chat: non sono una registrazione di quanto Mario abbia effettivamente mangiato.",
-    "Questo menu non e stato ricalcolato per fornire 1500 kcal. Il professionista deve definire il fabbisogno e adattare le porzioni.",
-    "Non sono previsti digiuno, restrizione dei liquidi o il protocollo di taglio del sodio del documento di aprile."
-  ],
-  "convenzioni_pesi": {
-    "pasta": "Peso a crudo, prima della cottura.",
-    "pollo": "Peso a crudo della parte edibile, senza ossa e senza pelle.",
-    "patate": "Peso a crudo dopo aver eliminato la buccia.",
-    "zucchine": "Peso a crudo dopo aver eliminato gli scarti.",
-    "uova": "Numero di uova; il peso edibile va rilevato senza guscio.",
-    "albume": "Peso del prodotto prima della cottura.",
-    "tonno": "Peso sgocciolato, assumendo un prodotto al naturale in liquido di conservazione.",
-    "mozzarella": "Peso del prodotto sgocciolato.",
-    "pane_biscotti_crackers_yogurt_grana": "Peso del prodotto effettivamente consumato.",
-    "olio_evo": "Peso totale utilizzato, compreso quello per la cottura."
-  },
-  "confezioni_da_verificare": [
-    {
-      "alimento": "Biscotti Esselunga abituali",
-      "quantita": "3 biscotti a colazione",
-      "peso_totale_g": null,
-      "nota": "Pesare insieme i tre biscotti e utilizzare la tabella nutrizionale della confezione effettiva."
-    },
-    {
-      "alimento": "Yomo Rinforzo",
-      "peso_proposto_g": 90,
-      "nota": "Quantita ripresa dalla precedente bozza; confermare variante e formato abituali."
-    },
-    {
-      "alimento": "Gran Pavesi senza granelli di sale in superficie",
-      "quantita": "1 pacchetto per ciascuna merenda indicata",
-      "peso_pacchetto_g": null,
-      "nota": "Verificare il peso netto del pacchetto effettivo: nei vecchi conteggi erano stati utilizzati formati differenti."
-    },
-    {
-      "alimento": "Fonzies Gli Originali",
-      "peso_proposto_g": 23.5,
-      "nota": "Formato monoporzione ripreso dalla precedente bozza; confermare la confezione utilizzata."
-    }
-  ],
   "days": [
     {
       "date": "2026-09-21",
-      "title": "Lunedi - Bozza da revisionare - Cena con pollo",
+      "title": "Circa 1500 kcal - Sodio max 2000 mg - Sale da cucina max 2.3 g",
       "lines": [
-        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Pranzo: pasta di semola 125 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Cena: petto di pollo fresco 200 g a crudo + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 50 g + olio EVO 10 g."
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
+        "Merenda mattina 2: Fonzies Gli Originali 1 pacchetto da 23.5 g.",
+        "Pranzo: pasta di semola 90 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Merenda pomeriggio: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
+        "Cena: mozzarella Santa Lucia 100 g sgocciolata + patate sbucciate 120 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 4 g."
       ],
-      "oil_evo_total_g": 25,
-      "calorie_totali_kcal": null,
-      "sale_da_cucina_aggiungibile_max_g": null
+      "oil_evo_total_g": 14,
+      "sale_da_cucina_aggiungibile_max_g": 2.3,
+      "sodium_total_max_mg": 2000
     },
     {
       "date": "2026-09-22",
-      "title": "Martedi - Bozza da revisionare - Cena con mozzarella",
+      "title": "Circa 1500 kcal - Sodio max 2000 mg - Sale da cucina max 2.7 g",
       "lines": [
-        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Merenda mattina 2: Fonzies Gli Originali, 1 pacchetto da 23.5 g; formato da confermare.",
-        "Pranzo: pasta di semola 120 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Cena: mozzarella 125 g sgocciolata + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 50 g + olio EVO 10 g."
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
+        "Merenda mattina 2: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
+        "Pranzo: pasta di semola 90 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Merenda pomeriggio: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
+        "Cena: petto di pollo fresco 190 g peso a crudo + patate sbucciate 140 g peso a crudo + zucchine 150 g peso a crudo + olio EVO 4 g."
       ],
-      "oil_evo_total_g": 25,
-      "calorie_totali_kcal": null,
-      "sale_da_cucina_aggiungibile_max_g": null
+      "oil_evo_total_g": 14,
+      "sale_da_cucina_aggiungibile_max_g": 2.7,
+      "sodium_total_max_mg": 2000
     },
     {
       "date": "2026-09-23",
-      "title": "Mercoledi - Bozza da revisionare - Cena con uova",
+      "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina max 2.5 g",
       "lines": [
-        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Pranzo: pasta di semola 125 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Cena: 2 uova intere, peso senza guscio da rilevare, + albume AIA 200 g prima della cottura + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 50 g + olio EVO 10 g complessivi per cottura e condimento.",
-        "Prodotto da identificare: variante esatta dell'albume AIA utilizzato."
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: 2 uova intere, circa 100 g peso edibile senza guscio + patate sbucciate 295 g peso a crudo + zucchine 150 g peso a crudo + olio EVO 12 g."
       ],
-      "oil_evo_total_g": 25,
-      "calorie_totali_kcal": null,
-      "sale_da_cucina_aggiungibile_max_g": null
+      "oil_evo_total_g": 22,
+      "sale_da_cucina_aggiungibile_max_g": 2.5,
+      "sodium_total_max_mg": 1500
     },
     {
       "date": "2026-09-24",
-      "title": "Giovedi - Bozza da revisionare - Cena con tonno",
+      "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina max 1.4 g",
       "lines": [
-        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Pranzo: pasta di semola 120 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Cena: tonno al naturale 120 g sgocciolato + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 60 g + olio EVO 10 g.",
-        "Prodotto da identificare: marca e versione del tonno. Per un prodotto che non richiede sgocciolamento, il professionista deve utilizzare il peso e la tabella nutrizionale pertinenti."
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: tonno al naturale 120 g + patate sbucciate 300 g peso a crudo + zucchine 150 g peso a crudo + olio EVO 12 g."
       ],
-      "oil_evo_total_g": 25,
-      "calorie_totali_kcal": null,
-      "sale_da_cucina_aggiungibile_max_g": null
+      "oil_evo_total_g": 22,
+      "sale_da_cucina_aggiungibile_max_g": 1.4,
+      "sodium_total_max_mg": 1500
     },
     {
       "date": "2026-09-25",
-      "title": "Venerdi - Bozza da revisionare - Mozzarella al posto della ricotta",
+      "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina max 2.0 g",
       "lines": [
-        "Colazione: 3 biscotti Esselunga abituali, peso totale da rilevare, + Yomo Rinforzo 90 g.",
-        "Merenda mattina 1: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Merenda mattina 2: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Pranzo: pasta di semola 125 g a crudo + Grana Padano 10 g + olio EVO 15 g.",
-        "Merenda pomeriggio: crackers Gran Pavesi senza granelli di sale in superficie, 1 pacchetto; peso netto da confermare.",
-        "Cena: mozzarella 125 g sgocciolata + patate sbucciate 300 g a crudo + zucchine pulite 200 g a crudo + pane di grano duro 70 g + olio EVO 10 g.",
-        "Modifica richiesta: ricotta eliminata. La porzione proposta di mozzarella riprende quella del martedi e non rappresenta una sostituzione calorica verificata della ricotta."
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 95 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana 100 g peso netto senza buccia.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: mozzarella Santa Lucia 125 g sgocciolata + patate sbucciate 240 g peso a crudo + zucchine 150 g peso a crudo + olio EVO 3 g."
       ],
-      "oil_evo_total_g": 25,
-      "calorie_totali_kcal": null,
-      "sale_da_cucina_aggiungibile_max_g": null
+      "oil_evo_total_g": 13,
+      "sale_da_cucina_aggiungibile_max_g": 2.0,
+      "sodium_total_max_mg": 1500
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina max 1.9 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: fesa di tacchino fresca 200 g peso a crudo + patate sbucciate 250 g peso a crudo + zucchine 150 g peso a crudo + olio EVO 6 g."
+      ],
+      "oil_evo_total_g": 16,
+      "sale_da_cucina_aggiungibile_max_g": 1.9,
+      "sodium_total_max_mg": 1200
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina max 2.0 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana 100 g peso netto senza buccia.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 295 g peso a crudo + zucchine 150 g peso a crudo + olio EVO 3 g."
+      ],
+      "oil_evo_total_g": 13,
+      "sale_da_cucina_aggiungibile_max_g": 2.0,
+      "sodium_total_max_mg": 1200
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina max 1.6 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: 3 uova intere, circa 150 g peso edibile senza guscio + patate sbucciate 300 g peso a crudo + zucchine 150 g peso a crudo + olio EVO 4.5 g."
+      ],
+      "oil_evo_total_g": 14.5,
+      "sale_da_cucina_aggiungibile_max_g": 1.6,
+      "sodium_total_max_mg": 1200
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Circa 1500 kcal - Sodio max 800 mg - Sale da cucina max 1.0 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana 100 g peso netto senza buccia.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 295 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 4 g."
+      ],
+      "oil_evo_total_g": 16,
+      "sale_da_cucina_aggiungibile_max_g": 1.0,
+      "sodium_total_max_mg": 800
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Circa 1500 kcal - Sodio max 800 mg - Sale da cucina max 0.9 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana 80 g peso netto senza buccia.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: fesa di tacchino fresca 200 g peso a crudo + patate sbucciate 300 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 6 g."
+      ],
+      "oil_evo_total_g": 18,
+      "sale_da_cucina_aggiungibile_max_g": 0.9,
+      "sodium_total_max_mg": 800
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Circa 1500 kcal - Sodio max 600 mg - Sale da cucina max 0.6 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 110 g peso a crudo + Grana Padano 3 g + olio EVO 15 g.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 350 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 2 g."
+      ],
+      "oil_evo_total_g": 17,
+      "sale_da_cucina_aggiungibile_max_g": 0.6,
+      "sodium_total_max_mg": 600
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Circa 1500 kcal - Sodio max 600 mg - Sale da cucina max 0.5 g",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana 100 g peso netto senza buccia.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: petto di pollo fresco 200 g peso a crudo + patate sbucciate 295 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 6 g."
+      ],
+      "oil_evo_total_g": 16,
+      "sale_da_cucina_aggiungibile_max_g": 0.5,
+      "sodium_total_max_mg": 600
     }
   ]
 }
