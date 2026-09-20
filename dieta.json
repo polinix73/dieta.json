@@ -3,39 +3,39 @@
   "days": [
     {
       "date": "2026-09-21",
-      "title": "Circa 1500 kcal - Sodio max 2000 mg - Sale da cucina aggiungibile max 2.1 g",
+      "title": "Circa 1500 kcal - Sodio max 2000 mg - Sale da cucina aggiungibile max 2.0 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Yomo Rinforzo 90 g + pancarre 2 fette da 17.8 g ciascuna, 35.6 g totali + Hero Light Fragole 20 g.",
         "Merenda mattina 1: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
         "Merenda mattina 2: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
         "Pranzo: pasta di semola 85 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
         "Merenda pomeriggio: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
-        "Cena: mozzarella Santa Lucia 100 g sgocciolata + patate sbucciate 70 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g."
+        "Cena: mozzarella Santa Lucia 100 g sgocciolata + patate sbucciate 175 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g."
       ],
       "oil_evo_total_g": 10,
-      "sale_da_cucina_aggiungibile_max_g": 2.1,
+      "sale_da_cucina_aggiungibile_max_g": 2.0,
       "sodium_total_max_mg": 2000
     },
     {
       "date": "2026-09-22",
-      "title": "Circa 1500 kcal - Sodio max 2000 mg - Sale da cucina aggiungibile max 0.6 g",
+      "title": "Circa 1500 kcal - Sodio max 2000 mg - Sale da cucina aggiungibile max 0.4 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Yomo Rinforzo 90 g + pancarre 2 fette da 17.8 g ciascuna, 35.6 g totali + Hero Light Fragole 20 g.",
         "Merenda mattina 1: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
         "Merenda mattina 2: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
         "Pranzo: pasta di semola 90 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
         "Merenda pomeriggio: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
-        "Cena: Bresaola della Valtellina IGP Rigamonti 50 g + uovo intero 50 g peso edibile senza guscio + patate sbucciate 125 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 2 g."
+        "Cena: Bresaola della Valtellina IGP Rigamonti 50 g + uovo intero 50 g peso edibile senza guscio + patate sbucciate 228 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 2 g."
       ],
       "oil_evo_total_g": 12,
-      "sale_da_cucina_aggiungibile_max_g": 0.6,
+      "sale_da_cucina_aggiungibile_max_g": 0.4,
       "sodium_total_max_mg": 2000
     },
     {
       "date": "2026-09-23",
       "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina aggiungibile max 2.4 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
@@ -50,7 +50,7 @@
       "date": "2026-09-24",
       "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina aggiungibile max 1.4 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
@@ -65,7 +65,7 @@
       "date": "2026-09-25",
       "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina aggiungibile max 2.0 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 95 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
@@ -80,7 +80,7 @@
       "date": "2026-09-26",
       "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina aggiungibile max 1.9 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
@@ -95,7 +95,7 @@
       "date": "2026-09-27",
       "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina aggiungibile max 1.9 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
@@ -110,7 +110,7 @@
       "date": "2026-09-28",
       "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina aggiungibile max 1.6 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
@@ -125,7 +125,7 @@
       "date": "2026-09-29",
       "title": "Circa 1500 kcal - Sodio max 800 mg - Sale da cucina aggiungibile max 1.0 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana senza buccia 100 g.",
@@ -140,7 +140,7 @@
       "date": "2026-09-30",
       "title": "Circa 1500 kcal - Sodio max 800 mg - Sale da cucina aggiungibile max 0.9 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana senza buccia 80 g.",
@@ -155,7 +155,7 @@
       "date": "2026-10-01",
       "title": "Circa 1500 kcal - Sodio max 600 mg - Sale da cucina aggiungibile max 0.6 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 110 g peso a crudo + Grana Padano 3 g + olio EVO 15 g + banana senza buccia 100 g.",
@@ -170,7 +170,7 @@
       "date": "2026-10-02",
       "title": "Circa 1500 kcal - Sodio max 600 mg - Sale da cucina aggiungibile max 0.5 g",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 3 g + olio EVO 15 g + banana senza buccia 80 g.",
