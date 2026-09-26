@@ -29,7 +29,16 @@
         "Merenda mattina 2: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
         "Pranzo: pasta di semola 91 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
         "Merenda pomeriggio: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
-        "Cena: Bresaola della Valtellina IGP Rigamonti 40 g + uovo intero 50 g peso edibile senza guscio + pane di grano duro 40 g + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 10 g."
+        "Cena: Bresaola della Valtellina IGP Rigamonti 40 g + uovo intero 50 g peso edibile senza guscio + pane di grano duro 40 g + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 10 g.",
+        "Calorie totali stimate: 1498.8 kcal.",
+        "Olio EVO totale della giornata: 20 g.",
+        "Sodio intrinseco stimato negli alimenti: 1837 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 0 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 1837 mg.",
+        "Sodio massimo totale della giornata: 2000 mg.",
+        "Margine di sodio: 163 mg.",
+        "Fibre note: 15.5 g.",
+        "Livello di residuo: standard."
       ],
       "estimated_kcal": 1498.8,
       "oil_evo_total_g": 20,
@@ -39,7 +48,8 @@
       "sodium_total_max_mg": 2000,
       "sodium_margin_mg": 163,
       "known_fiber_g": 15.5,
-      "residue_level": "standard"
+      "residue_level": "standard",
+      "salt_total_max_g": 0.0
     },
     {
       "date": "2026-09-22",
@@ -50,7 +60,16 @@
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 115 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g."
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 115 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g.",
+        "Calorie totali stimate: 1500 kcal.",
+        "Olio EVO totale della giornata: 16 g.",
+        "Sodio intrinseco stimato negli alimenti: 385 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 2.6 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 1425 mg.",
+        "Sodio massimo totale della giornata: 1500 mg.",
+        "Margine di sodio: 75 mg.",
+        "Fibre note (escluse le jelly): 13.5 g.",
+        "Livello di residuo: standard."
       ],
       "estimated_kcal": 1500.0,
       "oil_evo_total_g": 16,
@@ -60,7 +79,8 @@
       "sodium_total_max_mg": 1500,
       "sodium_margin_mg": 75,
       "known_fiber_g_excluding_jelly": 13.5,
-      "residue_level": "standard"
+      "residue_level": "standard",
+      "salt_total_max_g": 2.6
     },
     {
       "date": "2026-09-23",
@@ -71,7 +91,16 @@
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 115 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g."
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 115 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g.",
+        "Calorie totali stimate: 1500 kcal.",
+        "Olio EVO totale della giornata: 16 g.",
+        "Sodio intrinseco stimato negli alimenti: 385 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 2.6 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 1425 mg.",
+        "Sodio massimo totale della giornata: 1500 mg.",
+        "Margine di sodio: 75 mg.",
+        "Fibre note (escluse le jelly): 13.5 g.",
+        "Livello di residuo: standard."
       ],
       "estimated_kcal": 1500.0,
       "oil_evo_total_g": 16,
@@ -81,7 +110,8 @@
       "sodium_total_max_mg": 1500,
       "sodium_margin_mg": 75,
       "known_fiber_g_excluding_jelly": 13.5,
-      "residue_level": "standard"
+      "residue_level": "standard",
+      "salt_total_max_g": 2.6
     },
     {
       "date": "2026-09-24",
@@ -92,7 +122,16 @@
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 95 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 176 g peso a crudo + zucchine 150 g peso a crudo + mela senza buccia 150 g peso netto + olio EVO 3 g."
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 176 g peso a crudo + zucchine 150 g peso a crudo + mela senza buccia 150 g peso netto + olio EVO 3 g.",
+        "Calorie totali stimate: 1499.8 kcal.",
+        "Olio EVO totale della giornata: 13 g.",
+        "Sodio intrinseco stimato negli alimenti: 389 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 2.6 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 1429 mg.",
+        "Sodio massimo totale della giornata: 1500 mg.",
+        "Margine di sodio: 71 mg.",
+        "Fibre note (escluse le jelly): 14.5 g.",
+        "Livello di residuo: standard."
       ],
       "estimated_kcal": 1499.8,
       "oil_evo_total_g": 13,
@@ -102,7 +141,8 @@
       "sodium_total_max_mg": 1500,
       "sodium_margin_mg": 71,
       "known_fiber_g_excluding_jelly": 14.5,
-      "residue_level": "standard"
+      "residue_level": "standard",
+      "salt_total_max_g": 2.6
     },
     {
       "date": "2026-09-25",
@@ -113,7 +153,16 @@
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 191 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 1 g."
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 191 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 1 g.",
+        "Calorie totali stimate: 1500.2 kcal.",
+        "Olio EVO totale della giornata: 11 g.",
+        "Sodio intrinseco stimato negli alimenti: 388 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 1.9 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 1148 mg.",
+        "Sodio massimo totale della giornata: 1200 mg.",
+        "Margine di sodio: 52 mg.",
+        "Fibre note (escluse le jelly): 13.7 g.",
+        "Livello di residuo: moderato."
       ],
       "estimated_kcal": 1500.2,
       "oil_evo_total_g": 11,
@@ -123,7 +172,8 @@
       "sodium_total_max_mg": 1200,
       "sodium_margin_mg": 52,
       "known_fiber_g_excluding_jelly": 13.7,
-      "residue_level": "moderato"
+      "residue_level": "moderato",
+      "salt_total_max_g": 1.9
     },
     {
       "date": "2026-09-26",
@@ -135,7 +185,16 @@
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 107 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 17 g.",
-        "Cena senza frutta."
+        "Nota: Cena senza frutta.",
+        "Calorie totali stimate: 1499.7 kcal.",
+        "Olio EVO totale della giornata: 27 g.",
+        "Sodio intrinseco stimato negli alimenti: 381 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 1.9 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 1141 mg.",
+        "Sodio massimo totale della giornata: 1200 mg.",
+        "Margine di sodio: 59 mg.",
+        "Fibre note (escluse le jelly): 9.8 g.",
+        "Livello di residuo: ridotto."
       ],
       "estimated_kcal": 1499.7,
       "oil_evo_total_g": 27,
@@ -145,7 +204,8 @@
       "sodium_total_max_mg": 1200,
       "sodium_margin_mg": 59,
       "known_fiber_g_excluding_jelly": 9.8,
-      "residue_level": "ridotto"
+      "residue_level": "ridotto",
+      "salt_total_max_g": 1.9
     },
     {
       "date": "2026-09-27",
@@ -157,7 +217,16 @@
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 107 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 17 g.",
-        "Cena senza frutta."
+        "Nota: Cena senza frutta.",
+        "Calorie totali stimate: 1499.7 kcal.",
+        "Olio EVO totale della giornata: 27 g.",
+        "Sodio intrinseco stimato negli alimenti: 381 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 1.9 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 1141 mg.",
+        "Sodio massimo totale della giornata: 1200 mg.",
+        "Margine di sodio: 59 mg.",
+        "Fibre note (escluse le jelly): 9.8 g.",
+        "Livello di residuo: ridotto."
       ],
       "estimated_kcal": 1499.7,
       "oil_evo_total_g": 27,
@@ -167,7 +236,8 @@
       "sodium_total_max_mg": 1200,
       "sodium_margin_mg": 59,
       "known_fiber_g_excluding_jelly": 9.8,
-      "residue_level": "ridotto"
+      "residue_level": "ridotto",
+      "salt_total_max_g": 1.9
     },
     {
       "date": "2026-09-28",
@@ -179,7 +249,16 @@
         "Pranzo: pasta di semola 110 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana senza buccia 100 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 110 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 15 g.",
-        "Cena senza frutta."
+        "Nota: Cena senza frutta.",
+        "Calorie totali stimate: 1500.1 kcal.",
+        "Olio EVO totale della giornata: 27 g.",
+        "Sodio intrinseco stimato negli alimenti: 356 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 0.9 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 716 mg.",
+        "Sodio massimo totale della giornata: 800 mg.",
+        "Margine di sodio: 84 mg.",
+        "Fibre note (escluse le jelly): 7.7 g.",
+        "Livello di residuo: basso."
       ],
       "estimated_kcal": 1500.1,
       "oil_evo_total_g": 27,
@@ -189,7 +268,8 @@
       "sodium_total_max_mg": 800,
       "sodium_margin_mg": 84,
       "known_fiber_g_excluding_jelly": 7.7,
-      "residue_level": "basso"
+      "residue_level": "basso",
+      "salt_total_max_g": 0.9
     },
     {
       "date": "2026-09-29",
@@ -201,7 +281,16 @@
         "Pranzo: pasta di semola 110 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana senza buccia 80 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Cena: fesa di tacchino fresca 200 g peso a crudo + patate sbucciate 115 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 17 g.",
-        "Cena senza frutta."
+        "Nota: Cena senza frutta.",
+        "Calorie totali stimate: 1500.5 kcal.",
+        "Olio EVO totale della giornata: 29 g.",
+        "Sodio intrinseco stimato negli alimenti: 388 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 0.8 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 708 mg.",
+        "Sodio massimo totale della giornata: 800 mg.",
+        "Margine di sodio: 92 mg.",
+        "Fibre note (escluse le jelly): 7.4 g.",
+        "Livello di residuo: basso."
       ],
       "estimated_kcal": 1500.5,
       "oil_evo_total_g": 29,
@@ -211,7 +300,8 @@
       "sodium_total_max_mg": 800,
       "sodium_margin_mg": 92,
       "known_fiber_g_excluding_jelly": 7.4,
-      "residue_level": "basso"
+      "residue_level": "basso",
+      "salt_total_max_g": 0.8
     },
     {
       "date": "2026-09-30",
@@ -223,7 +313,16 @@
         "Pranzo: pasta di semola 170 g peso a crudo + Grana Padano 3 g + olio EVO 20 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Cena: petto di pollo fresco 220 g peso a crudo + olio EVO 4 g.",
-        "Cena senza pane, patate, frutta, verdura o altra quota di carboidrati."
+        "Nota: Cena senza pane, patate, frutta, verdura o altra quota di carboidrati.",
+        "Calorie totali stimate: 1498.5 kcal.",
+        "Olio EVO totale della giornata: 24 g.",
+        "Sodio intrinseco stimato negli alimenti: 337 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 0.5 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 537 mg.",
+        "Sodio massimo totale della giornata: 600 mg.",
+        "Margine di sodio: 63 mg.",
+        "Fibre note (escluse le jelly): 3.7 g.",
+        "Livello di residuo: molto basso."
       ],
       "estimated_kcal": 1498.5,
       "oil_evo_total_g": 24,
@@ -233,7 +332,8 @@
       "sodium_total_max_mg": 600,
       "sodium_margin_mg": 63,
       "known_fiber_g_excluding_jelly": 3.7,
-      "residue_level": "molto_basso"
+      "residue_level": "molto_basso",
+      "salt_total_max_g": 0.5
     },
     {
       "date": "2026-10-01",
@@ -245,7 +345,16 @@
         "Pranzo: pasta di semola 176 g peso a crudo + Grana Padano 3 g + olio EVO 20 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Cena: petto di pollo fresco 200 g peso a crudo + olio EVO 4 g.",
-        "Cena senza pane, patate, frutta, verdura o altra quota di carboidrati."
+        "Nota: Cena senza pane, patate, frutta, verdura o altra quota di carboidrati.",
+        "Calorie totali stimate: 1499 kcal.",
+        "Olio EVO totale della giornata: 24 g.",
+        "Sodio intrinseco stimato negli alimenti: 331 mg.",
+        "Sale da cucina aggiungibile: MASSIMO 0.5 g.",
+        "Sodio stimato con tutto il sale aggiungibile: 531 mg.",
+        "Sodio massimo totale della giornata: 600 mg.",
+        "Margine di sodio: 69 mg.",
+        "Fibre note (escluse le jelly): 3.8 g.",
+        "Livello di residuo: molto basso."
       ],
       "estimated_kcal": 1499.0,
       "oil_evo_total_g": 24,
@@ -255,7 +364,8 @@
       "sodium_total_max_mg": 600,
       "sodium_margin_mg": 69,
       "known_fiber_g_excluding_jelly": 3.8,
-      "residue_level": "molto_basso"
+      "residue_level": "molto_basso",
+      "salt_total_max_g": 0.5
     }
   ]
 }
