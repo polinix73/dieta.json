@@ -1,200 +1,261 @@
 {
   "timezone": "Europe/Rome",
+  "target_kcal": 1500,
+  "calculation_notes": {
+    "recovery_protein_bar_decathlon_60_g": {
+      "kcal": 236,
+      "protein_g": 20,
+      "fiber_g": 2.3,
+      "salt_g": 0.17
+    },
+    "fruit_jelly_decathlon_fragola_mirtillo_rosso_25_g": {
+      "kcal": 84,
+      "salt_g": 0.06,
+      "fiber_g": null
+    },
+    "pane_grano_duro_21_settembre": {
+      "quantity_g": 40,
+      "calculation_reference_kcal_per_100_g": 259,
+      "calculation_reference_salt_g_per_100_g": 1.4
+    }
+  },
   "days": [
     {
-      "date": "2026-09-22",
-      "title": "Circa 1500 kcal - Sodio max 2000 mg - Sale da cucina aggiungibile max 0.4 g",
+      "date": "2026-09-21",
+      "title": "1500 kcal circa - Sodio max 2000 mg",
       "lines": [
         "Colazione: Yomo Rinforzo 90 g + pancarre 2 fette da 17.8 g ciascuna, 35.6 g totali + Hero Light Fragole 20 g.",
         "Merenda mattina 1: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
         "Merenda mattina 2: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
-        "Pranzo: pasta di semola 90 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Pranzo: pasta di semola 91 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
         "Merenda pomeriggio: Gran Pavesi senza granelli di sale in superficie 1 pacchetto da 31.25 g.",
-        "Cena: Bresaola della Valtellina IGP Rigamonti 50 g + uovo intero 50 g peso edibile senza guscio + patate sbucciate 228 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 2 g."
+        "Cena: Bresaola della Valtellina IGP Rigamonti 40 g + uovo intero 50 g peso edibile senza guscio + pane di grano duro 40 g + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 10 g."
       ],
-      "oil_evo_total_g": 12,
-      "sale_da_cucina_aggiungibile_max_g": 0.4,
-      "sodium_total_max_mg": 2000
+      "estimated_kcal": 1498.8,
+      "oil_evo_total_g": 20,
+      "sodium_food_estimated_mg": 1837,
+      "sale_da_cucina_aggiungibile_max_g": 0.0,
+      "sodium_with_max_added_salt_mg": 1837,
+      "sodium_total_max_mg": 2000,
+      "sodium_margin_mg": 163,
+      "known_fiber_g": 15.5,
+      "residue_level": "standard"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "1500 kcal circa - Sodio max 1500 mg",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 115 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g."
+      ],
+      "estimated_kcal": 1500.0,
+      "oil_evo_total_g": 16,
+      "sodium_food_estimated_mg": 385,
+      "sale_da_cucina_aggiungibile_max_g": 2.6,
+      "sodium_with_max_added_salt_mg": 1425,
+      "sodium_total_max_mg": 1500,
+      "sodium_margin_mg": 75,
+      "known_fiber_g_excluding_jelly": 13.5,
+      "residue_level": "standard"
     },
     {
       "date": "2026-09-23",
-      "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina aggiungibile max 2.7 g",
+      "title": "1500 kcal circa - Sodio max 1500 mg",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 142 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g."
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 115 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g."
       ],
-      "recovery_protein_bar_g": 60,
-      "recovery_protein_bar_kcal": 236,
-      "recovery_protein_bar_protein_g": 20,
-      "recovery_protein_bar_fiber_g": 2.3,
-      "recovery_protein_bar_salt_g": 0.17,
+      "estimated_kcal": 1500.0,
       "oil_evo_total_g": 16,
-      "sale_da_cucina_aggiungibile_max_g": 2.7,
-      "sodium_total_max_mg": 1500
+      "sodium_food_estimated_mg": 385,
+      "sale_da_cucina_aggiungibile_max_g": 2.6,
+      "sodium_with_max_added_salt_mg": 1425,
+      "sodium_total_max_mg": 1500,
+      "sodium_margin_mg": 75,
+      "known_fiber_g_excluding_jelly": 13.5,
+      "residue_level": "standard"
     },
     {
       "date": "2026-09-24",
-      "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina aggiungibile max 2.6 g",
+      "title": "1500 kcal circa - Sodio max 1500 mg",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
-        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
-        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 119 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g."
-      ],
-      "recovery_protein_bar_g": 60,
-      "recovery_protein_bar_kcal": 236,
-      "recovery_protein_bar_protein_g": 20,
-      "recovery_protein_bar_fiber_g": 2.3,
-      "recovery_protein_bar_salt_g": 0.17,
-      "oil_evo_total_g": 16,
-      "sale_da_cucina_aggiungibile_max_g": 2.6,
-      "sodium_total_max_mg": 1500
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Circa 1500 kcal - Sodio max 1500 mg - Sale da cucina aggiungibile max 2.6 g",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 95 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 166 g peso a crudo + zucchine 150 g peso a crudo + mela senza buccia 150 g peso netto + olio EVO 3 g."
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 176 g peso a crudo + zucchine 150 g peso a crudo + mela senza buccia 150 g peso netto + olio EVO 3 g."
       ],
-      "recovery_protein_bar_g": 60,
-      "recovery_protein_bar_kcal": 236,
-      "recovery_protein_bar_protein_g": 20,
-      "recovery_protein_bar_fiber_g": 2.3,
-      "recovery_protein_bar_salt_g": 0.17,
+      "estimated_kcal": 1499.8,
       "oil_evo_total_g": 13,
+      "sodium_food_estimated_mg": 389,
       "sale_da_cucina_aggiungibile_max_g": 2.6,
-      "sodium_total_max_mg": 1500
+      "sodium_with_max_added_salt_mg": 1429,
+      "sodium_total_max_mg": 1500,
+      "sodium_margin_mg": 71,
+      "known_fiber_g_excluding_jelly": 14.5,
+      "residue_level": "standard"
     },
     {
-      "date": "2026-09-26",
-      "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina aggiungibile max 1.9 g",
+      "date": "2026-09-25",
+      "title": "1500 kcal circa - Sodio max 1200 mg",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
-        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
-        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 171 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 1 g."
-      ],
-      "recovery_protein_bar_g": 60,
-      "recovery_protein_bar_kcal": 236,
-      "recovery_protein_bar_protein_g": 20,
-      "recovery_protein_bar_fiber_g": 2.3,
-      "recovery_protein_bar_salt_g": 0.17,
-      "oil_evo_total_g": 11,
-      "sale_da_cucina_aggiungibile_max_g": 1.9,
-      "sodium_total_max_mg": 1200
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina aggiungibile max 2.0 g",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 188 g peso a crudo + zucchine 150 g peso a crudo + mela senza buccia 150 g peso netto + olio EVO 2 g."
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 191 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 1 g."
       ],
-      "recovery_protein_bar_g": 60,
-      "recovery_protein_bar_kcal": 236,
-      "recovery_protein_bar_protein_g": 20,
-      "recovery_protein_bar_fiber_g": 2.3,
-      "recovery_protein_bar_salt_g": 0.17,
-      "oil_evo_total_g": 12,
-      "sale_da_cucina_aggiungibile_max_g": 2.0,
-      "sodium_total_max_mg": 1200
+      "estimated_kcal": 1500.2,
+      "oil_evo_total_g": 11,
+      "sodium_food_estimated_mg": 388,
+      "sale_da_cucina_aggiungibile_max_g": 1.9,
+      "sodium_with_max_added_salt_mg": 1148,
+      "sodium_total_max_mg": 1200,
+      "sodium_margin_mg": 52,
+      "known_fiber_g_excluding_jelly": 13.7,
+      "residue_level": "moderato"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "1500 kcal circa - Sodio max 1200 mg - Riduzione residuo",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 107 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 17 g.",
+        "Cena senza frutta."
+      ],
+      "estimated_kcal": 1499.7,
+      "oil_evo_total_g": 27,
+      "sodium_food_estimated_mg": 381,
+      "sale_da_cucina_aggiungibile_max_g": 1.9,
+      "sodium_with_max_added_salt_mg": 1141,
+      "sodium_total_max_mg": 1200,
+      "sodium_margin_mg": 59,
+      "known_fiber_g_excluding_jelly": 9.8,
+      "residue_level": "ridotto"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "1500 kcal circa - Sodio max 1200 mg - Riduzione residuo",
+      "lines": [
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
+        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + banana senza buccia 100 g.",
+        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
+        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 107 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 17 g.",
+        "Cena senza frutta."
+      ],
+      "estimated_kcal": 1499.7,
+      "oil_evo_total_g": 27,
+      "sodium_food_estimated_mg": 381,
+      "sale_da_cucina_aggiungibile_max_g": 1.9,
+      "sodium_with_max_added_salt_mg": 1141,
+      "sodium_total_max_mg": 1200,
+      "sodium_margin_mg": 59,
+      "known_fiber_g_excluding_jelly": 9.8,
+      "residue_level": "ridotto"
     },
     {
       "date": "2026-09-28",
-      "title": "Circa 1500 kcal - Sodio max 1200 mg - Sale da cucina aggiungibile max 1.9 g",
+      "title": "1500 kcal circa - Sodio max 800 mg - Basso residuo",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 10 g + olio EVO 10 g + mela senza buccia 150 g peso netto.",
+        "Pranzo: pasta di semola 110 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana senza buccia 100 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: Recovery Protein Bar Decathlon 60 g + patate sbucciate 142 g peso a crudo + zucchine 150 g peso a crudo + banana senza buccia 100 g + olio EVO 6 g."
+        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 110 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 15 g.",
+        "Cena senza frutta."
       ],
-      "recovery_protein_bar_g": 60,
-      "recovery_protein_bar_kcal": 236,
-      "recovery_protein_bar_protein_g": 20,
-      "recovery_protein_bar_fiber_g": 2.3,
-      "recovery_protein_bar_salt_g": 0.17,
-      "oil_evo_total_g": 16,
-      "sale_da_cucina_aggiungibile_max_g": 1.9,
-      "sodium_total_max_mg": 1200
+      "estimated_kcal": 1500.1,
+      "oil_evo_total_g": 27,
+      "sodium_food_estimated_mg": 356,
+      "sale_da_cucina_aggiungibile_max_g": 0.9,
+      "sodium_with_max_added_salt_mg": 716,
+      "sodium_total_max_mg": 800,
+      "sodium_margin_mg": 84,
+      "known_fiber_g_excluding_jelly": 7.7,
+      "residue_level": "basso"
     },
     {
       "date": "2026-09-29",
-      "title": "Circa 1500 kcal - Sodio max 800 mg - Sale da cucina aggiungibile max 1.0 g",
+      "title": "1500 kcal circa - Sodio max 800 mg - Basso residuo",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana senza buccia 100 g.",
+        "Pranzo: pasta di semola 110 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana senza buccia 80 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 195 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 3 g."
+        "Cena: fesa di tacchino fresca 200 g peso a crudo + patate sbucciate 115 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 17 g.",
+        "Cena senza frutta."
       ],
-      "oil_evo_total_g": 15,
-      "sale_da_cucina_aggiungibile_max_g": 1.0,
-      "sodium_total_max_mg": 800
+      "estimated_kcal": 1500.5,
+      "oil_evo_total_g": 29,
+      "sodium_food_estimated_mg": 388,
+      "sale_da_cucina_aggiungibile_max_g": 0.8,
+      "sodium_with_max_added_salt_mg": 708,
+      "sodium_total_max_mg": 800,
+      "sodium_margin_mg": 92,
+      "known_fiber_g_excluding_jelly": 7.4,
+      "residue_level": "basso"
     },
     {
       "date": "2026-09-30",
-      "title": "Circa 1500 kcal - Sodio max 800 mg - Sale da cucina aggiungibile max 0.9 g",
+      "title": "1500 kcal circa - Sodio max 600 mg - Residuo molto basso - Cena senza carboidrati",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 5 g + olio EVO 12 g + banana senza buccia 80 g.",
+        "Pranzo: pasta di semola 170 g peso a crudo + Grana Padano 3 g + olio EVO 20 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: fesa di tacchino fresca 200 g peso a crudo + patate sbucciate 200 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 5 g."
+        "Cena: petto di pollo fresco 220 g peso a crudo + olio EVO 4 g.",
+        "Cena senza pane, patate, frutta, verdura o altra quota di carboidrati."
       ],
-      "oil_evo_total_g": 17,
-      "sale_da_cucina_aggiungibile_max_g": 0.9,
-      "sodium_total_max_mg": 800
+      "estimated_kcal": 1498.5,
+      "oil_evo_total_g": 24,
+      "sodium_food_estimated_mg": 337,
+      "sale_da_cucina_aggiungibile_max_g": 0.5,
+      "sodium_with_max_added_salt_mg": 537,
+      "sodium_total_max_mg": 600,
+      "sodium_margin_mg": 63,
+      "known_fiber_g_excluding_jelly": 3.7,
+      "residue_level": "molto_basso"
     },
     {
       "date": "2026-10-01",
-      "title": "Circa 1500 kcal - Sodio max 600 mg - Sale da cucina aggiungibile max 0.6 g",
+      "title": "1500 kcal circa - Sodio max 600 mg - Residuo molto basso - Cena senza carboidrati",
       "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
+        "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
         "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Pranzo: pasta di semola 110 g peso a crudo + Grana Padano 3 g + olio EVO 15 g + banana senza buccia 100 g.",
+        "Pranzo: pasta di semola 176 g peso a crudo + Grana Padano 3 g + olio EVO 20 g.",
         "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: petto di pollo fresco 220 g peso a crudo + patate sbucciate 110 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g + olio EVO 4 g."
+        "Cena: petto di pollo fresco 200 g peso a crudo + olio EVO 4 g.",
+        "Cena senza pane, patate, frutta, verdura o altra quota di carboidrati."
       ],
-      "oil_evo_total_g": 19,
-      "sale_da_cucina_aggiungibile_max_g": 0.6,
-      "sodium_total_max_mg": 600
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Circa 1500 kcal - Sodio max 600 mg - Sale da cucina aggiungibile max 0.5 g",
-      "lines": [
-        "Colazione: Frollini alla panna Esselunga 3 biscotti, circa 39 g totali + Yomo Rinforzo 90 g.",
-        "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Merenda mattina 2: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Pranzo: pasta di semola 100 g peso a crudo + Grana Padano 3 g + olio EVO 15 g + banana senza buccia 80 g.",
-        "Merenda pomeriggio: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
-        "Cena: petto di pollo fresco 200 g peso a crudo + patate sbucciate 255 g peso a crudo + zucchine 100 g peso a crudo + banana senza buccia 100 g."
-      ],
-      "oil_evo_total_g": 15,
+      "estimated_kcal": 1499.0,
+      "oil_evo_total_g": 24,
+      "sodium_food_estimated_mg": 331,
       "sale_da_cucina_aggiungibile_max_g": 0.5,
-      "sodium_total_max_mg": 600
+      "sodium_with_max_added_salt_mg": 531,
+      "sodium_total_max_mg": 600,
+      "sodium_margin_mg": 69,
+      "known_fiber_g_excluding_jelly": 3.8,
+      "residue_level": "molto_basso"
     }
   ]
 }
