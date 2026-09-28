@@ -1,11 +1,10 @@
 {
   "timezone": "Europe/Rome",
-  "uso": "bozza_teorica_per_revisione_professionale",
-  "target_teorico_kcal": 1200,
+  "target_kcal": 1200,
   "days": [
     {
       "date": "2026-09-27",
-      "title": "Circa 1200 kcal - Sodio max 1200 mg - Residuo ridotto",
+      "title": "Circa 1200 kcal - Sodio max 1200 mg - Sale da cucina aggiungibile max 1.9 g",
       "lines": [
         "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
@@ -15,24 +14,25 @@
         "Cena: Recovery Protein Bar Decathlon 60 g + zucchine 100 g peso a crudo.",
         "Cena senza patate, pane o frutta."
       ],
+      "estimated_kcal": 1200.5,
+      "oil_evo_total_g": 8,
+      "sodium_food_estimated_mg": 373,
+      "sodium_total_max_mg": 1200,
+      "sale_da_cucina_aggiungibile_max_g": 1.9,
+      "salt_total_max_g": 1.9,
+      "sodium_with_max_added_salt_mg": 1133,
+      "sodium_margin_mg": 67,
+      "known_fiber_g_excluding_jelly": 7.5,
+      "residue_level": "ridotto",
       "recovery_protein_bar_g": 60,
       "recovery_protein_bar_kcal": 236,
       "recovery_protein_bar_protein_g": 20,
       "recovery_protein_bar_fiber_g": 2.3,
-      "recovery_protein_bar_salt_g": 0.17,
-      "oil_evo_total_g": 8,
-      "estimated_kcal": 1200.5,
-      "sodium_food_estimated_mg": 373,
-      "sale_da_cucina_aggiungibile_max_g": 1.8,
-      "sodium_with_max_added_salt_mg": 1093,
-      "sodium_total_max_mg": 1200,
-      "sodium_margin_mg": 107,
-      "known_fiber_g_excluding_jelly": 7.5,
-      "residue_level": "ridotto"
+      "recovery_protein_bar_salt_g": 0.17
     },
     {
       "date": "2026-09-28",
-      "title": "Circa 1200 kcal - Sodio max 800 mg - Basso residuo",
+      "title": "Circa 1200 kcal - Sodio max 800 mg - Sale da cucina aggiungibile max 1.0 g",
       "lines": [
         "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
@@ -42,19 +42,20 @@
         "Cena: petto di pollo fresco 220 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 4 g.",
         "Cena senza patate, pane o frutta."
       ],
-      "oil_evo_total_g": 12,
       "estimated_kcal": 1199.1,
-      "sodium_food_estimated_mg": 348,
-      "sale_da_cucina_aggiungibile_max_g": 0.9,
-      "sodium_with_max_added_salt_mg": 708,
+      "oil_evo_total_g": 12,
+      "sodium_food_estimated_mg": 347,
       "sodium_total_max_mg": 800,
-      "sodium_margin_mg": 92,
+      "sale_da_cucina_aggiungibile_max_g": 1.0,
+      "salt_total_max_g": 1.0,
+      "sodium_with_max_added_salt_mg": 747,
+      "sodium_margin_mg": 53,
       "known_fiber_g_excluding_jelly": 4.9,
       "residue_level": "basso"
     },
     {
       "date": "2026-09-29",
-      "title": "Circa 1200 kcal - Sodio max 800 mg - Basso residuo",
+      "title": "Circa 1200 kcal - Sodio max 800 mg - Sale da cucina aggiungibile max 0.9 g",
       "lines": [
         "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
@@ -64,19 +65,20 @@
         "Cena: fesa di tacchino fresca 200 g peso a crudo + zucchine 100 g peso a crudo + olio EVO 5 g.",
         "Cena senza patate, pane o frutta."
       ],
-      "oil_evo_total_g": 13,
       "estimated_kcal": 1198.7,
+      "oil_evo_total_g": 13,
       "sodium_food_estimated_mg": 379,
-      "sale_da_cucina_aggiungibile_max_g": 0.9,
-      "sodium_with_max_added_salt_mg": 739,
       "sodium_total_max_mg": 800,
+      "sale_da_cucina_aggiungibile_max_g": 0.9,
+      "salt_total_max_g": 0.9,
+      "sodium_with_max_added_salt_mg": 739,
       "sodium_margin_mg": 61,
       "known_fiber_g_excluding_jelly": 4.9,
       "residue_level": "basso"
     },
     {
       "date": "2026-09-30",
-      "title": "Circa 1200 kcal - Sodio max 600 mg - Residuo molto basso - Cena senza carboidrati",
+      "title": "Circa 1200 kcal - Sodio max 600 mg - Sale da cucina aggiungibile max 0.5 g - Cena senza carboidrati",
       "lines": [
         "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
@@ -86,19 +88,20 @@
         "Cena: petto di pollo fresco 175 g peso a crudo + olio EVO 1 g.",
         "Cena senza pane, patate, frutta, verdura o altra quota di carboidrati."
       ],
-      "oil_evo_total_g": 11,
       "estimated_kcal": 1200.1,
+      "oil_evo_total_g": 11,
       "sodium_food_estimated_mg": 320,
-      "sale_da_cucina_aggiungibile_max_g": 0.5,
-      "sodium_with_max_added_salt_mg": 520,
       "sodium_total_max_mg": 600,
+      "sale_da_cucina_aggiungibile_max_g": 0.5,
+      "salt_total_max_g": 0.5,
+      "sodium_with_max_added_salt_mg": 520,
       "sodium_margin_mg": 80,
       "known_fiber_g_excluding_jelly": 3.0,
       "residue_level": "molto_basso"
     },
     {
       "date": "2026-10-01",
-      "title": "Circa 1200 kcal - Sodio max 600 mg - Residuo molto basso - Cena senza carboidrati",
+      "title": "Circa 1200 kcal - Sodio max 600 mg - Sale da cucina aggiungibile max 0.5 g - Cena senza carboidrati",
       "lines": [
         "Colazione: Frollini alla panna Esselunga 3 biscotti, 37.5 g totali + Yomo Rinforzo 90 g.",
         "Merenda mattina 1: Jelly di frutta energetica Decathlon fragola e mirtillo rosso 25 g.",
@@ -108,12 +111,13 @@
         "Cena: petto di pollo fresco 170 g peso a crudo.",
         "Cena senza pane, patate, frutta, verdura, olio o altra quota di carboidrati."
       ],
-      "oil_evo_total_g": 10,
       "estimated_kcal": 1199.8,
+      "oil_evo_total_g": 10,
       "sodium_food_estimated_mg": 319,
-      "sale_da_cucina_aggiungibile_max_g": 0.5,
-      "sodium_with_max_added_salt_mg": 519,
       "sodium_total_max_mg": 600,
+      "sale_da_cucina_aggiungibile_max_g": 0.5,
+      "salt_total_max_g": 0.5,
+      "sodium_with_max_added_salt_mg": 519,
       "sodium_margin_mg": 81,
       "known_fiber_g_excluding_jelly": 3.0,
       "residue_level": "molto_basso"
