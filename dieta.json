@@ -1,5 +1,64 @@
 {
   "timezone": "Europe/Rome",
+  "descrizione": "Revisione di verifica v4 del menu 10–25 novembre 2026. Menu base invariati rispetto a v3; controllati i valori di etichetta di proteine d’uovo, pane azimo, Fruit Jelly e crackers. Il limite di 600 mg di sodio proviene dalla rielaborazione dell’utente, NON dal PDF clinico. Questa versione è una verifica documentale, non una prescrizione di restrizione del sodio o di liquidi.",
+  "criteri_calcolo": {
+    "base": "Solo menu principali, alternative escluse. Energia delle confezioni da etichette, alimenti freschi da composizioni medie. Cereali a crudo; carne fresca a crudo, carne negli spuntini originariamente cotta.",
+    "yomo": "Ipotesi Rinforzo piu Lattoferrina 84 kcal/100 g. Versione senza zuccheri aggiunti: -36 kcal e circa -9g carboidrati al giorno fino al 18 novembre.",
+    "egg_white": "Ultimate Italia Egg White gusto cacao, 97 kcal e 22.5g proteine per 30 g. Verificare idoneità a età dichiarata.",
+    "energia": "kcal da etichetta e tabelle; non sempre coincide perfettamente con 4C+4P+9F a causa di fibre e arrotondamenti.",
+    "incertezza": "Mensa, ingredienti variabili, marca precisa dello yogurt, del pane azimo e della passata possono modificare i risultati anche sensibilmente.",
+    "bcaa": "BCAA esclusi dal conteggio calorico principale; 6.8 g aminoacidi attivi contribuiscono circa 27 kcal.",
+    "stato_protocollo": "Waterload, restrizioni idriche e di sodio e deplezione glicogeno ripresi dai dati forniti a scopo di confronto, non convalidati.",
+    "biraghino": "Biraghi Biraghini Snack, 1 pezzo confezionato da 16,67 g = circa 69,7 kcal, 0 g carboidrati, 6,17 g proteine, 5,0 g grassi, 0,30 g sale (120 mg sodio), sulla base etichetta 418 kcal, 0 C, 37 P, 30 F, 1,8 sale per 100 g. In questa versione sostituisce Bites 24 g il 16–18; banana +40 g compensa le kcal.",
+    "redistribuzione_24": "Pasta 52 g a cena eliminata; +26 g di pasta a pranzo (60 -> 86 g) e +25 g di pane azimo alla merenda unica del mattino (20 -> 45 g). Bilancio kcal e carboidrati giornalieri pressoché invariato; modifica non prescritta nel PDF da validare.",
+    "verifica": "Pasti e macro ricalcolati dal modello di alimenti del file precedente; stime di etichetta/tabelle non analisi chimica di ciascun pasto. Sodio dell’intero menu non verificabile senza etichette e pesate reali.",
+    "24_no_polveri": "Il 24 novembre Egg White 15 + 30 + 15 g sostituiti rispettivamente da 45 + 90 + 45 g di fesa di tacchino fresca PESATA A CRUDO, poi cotta: sostituzioni calorico-proteiche approssimative basate su valori medi. Possibile variazione in base a taglio/cottura. Alternative proteiche pranzo/cena sostituite con carni fresche, non conteggiate nel menu base. BCAA polvere rimossi dal 24, previo confronto con curante.",
+    "idratazione_24": "Il PDF trascritto menziona un «minimo fisiologico» non quantificato. Nessuna quantità minima di acqua è stata dedotta, calcolata, raccomandata o impostata in questa versione. La restrizione volontaria dei fluidi prima della pesata può essere pericolosa nell’adolescente.",
+    "fonte_proteine_23": "Per il 23 novembre calcolare SOLO Ultimate Italia Egg White gusto cacao se viene realmente utilizzato quel prodotto: 30 g=97 kcal, 22,5 g proteine, 0,27 g sale=108 mg sodio. Non confondere con Yamamoto Ultra Egg Protein cacao: 30g=96 kcal, 21g proteine, 0,8g sale=320 mg sodio.",
+    "iso_fuji": "La tabella con 107 kcal, 25 g proteine e 0,15 g sale per 30 g si riferisce a Yamamoto Iso-Fuji, proteina del LATTE: non e alternativa equivalente nel periodo senza latticini.",
+    "sodio": "Conversione etichette: sodio_mg = sale_g * 400. Carne cruda CREA: petto pollo 33 mg/100g, fesa tacchino 52 mg/100g; pasta cruda 4 mg/100g; pane azimo etichetta <0,01 g sale/100g => <4 mg sodio/100g. Oli EVO trascurabili. Supplementi, acqua e sale di preparazione non quantificati.",
+    "prodotti_nuove_etichette": {
+      "fruit_jelly_25g": {
+        "kcal": 84,
+        "carboidrati_g": 21,
+        "zuccheri_g": 17,
+        "sale_g": 0.12,
+        "sodio_mg": 48
+      },
+      "crackers_35g_foto": {
+        "kcal_etichetta": 137,
+        "sale_g": 0.919,
+        "sodio_mg": 367.6,
+        "nota": "Foto etichetta: verificare marca e coerenza di energia, 137 kcal e 35g potrebbero essere dati discordanti. Non sono presenti nei menu base 23/24."
+      },
+      "pane_azimo_per_100g": {
+        "kcal": 375,
+        "carboidrati_g": 63,
+        "proteine_g": 11,
+        "sale_g_massimo_esclusivo": 0.01,
+        "sodio_mg_massimo_esclusivo": 4
+      },
+      "ultimate_egg_white_30g": {
+        "kcal": 97,
+        "proteine_g": 22.5,
+        "sale_g": 0.27,
+        "sodio_mg": 108
+      },
+      "yamamoto_ultra_egg_30g": {
+        "kcal": 96,
+        "proteine_g": 21,
+        "sale_g": 0.8,
+        "sodio_mg": 320
+      },
+      "yamamoto_iso_fuji_30g": {
+        "kcal": 107,
+        "proteine_g": 25,
+        "sale_g": 0.15,
+        "sodio_mg": 60,
+        "derivato_del_latte": true
+      }
+    }
+  },
   "days": [
     {
       "date": "2026-11-10",
@@ -17,8 +76,16 @@
         "Alternativa patate: pane circa 20 g",
         "Olio EVO totale: 30 g",
         "Sodio: sale normale; non aggiungere altro sale per la bresaola gia consumata",
-        "Acqua: 2 litri"
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "CALCOLO REVISIONATO menu principale: circa 1342 kcal; carboidrati 126.6 g; proteine 90.3 g; grassi 51.2 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1342,
+        "carboidrati_g": 126.6,
+        "proteine_g": 90.3,
+        "grassi_g": 51.2
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-11",
@@ -36,8 +103,16 @@
         "Alternativa patate: pane circa 28 g",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri"
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "CALCOLO REVISIONATO menu principale: circa 1366 kcal; carboidrati 129.6 g; proteine 89.1 g; grassi 51.4 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1366,
+        "carboidrati_g": 129.6,
+        "proteine_g": 89.1,
+        "grassi_g": 51.4
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-12",
@@ -55,8 +130,16 @@
         "Alternativa patate: pane circa 28 g",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri"
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "CALCOLO REVISIONATO menu principale: circa 1358 kcal; carboidrati 126.0 g; proteine 87.5 g; grassi 52.9 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1358,
+        "carboidrati_g": 126.0,
+        "proteine_g": 87.5,
+        "grassi_g": 52.9
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-13",
@@ -74,8 +157,16 @@
         "Alternativa patate: pane circa 28 g",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri"
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "CALCOLO REVISIONATO menu principale: circa 1374 kcal; carboidrati 124.6 g; proteine 86.2 g; grassi 55.4 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1374,
+        "carboidrati_g": 124.6,
+        "proteine_g": 86.2,
+        "grassi_g": 55.4
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-14",
@@ -93,8 +184,16 @@
         "Alternativa patate: pane circa 28 g",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri"
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "CALCOLO REVISIONATO menu principale: circa 1366 kcal; carboidrati 128.2 g; proteine 89.8 g; grassi 51.7 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1366,
+        "carboidrati_g": 128.2,
+        "proteine_g": 89.8,
+        "grassi_g": 51.7
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-15",
@@ -112,197 +211,429 @@
         "Alternativa patate: pane circa 28 g",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri"
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "CALCOLO REVISIONATO menu principale: circa 1356 kcal; carboidrati 128.2 g; proteine 89.8 g; grassi 50.8 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1356,
+        "carboidrati_g": 128.2,
+        "proteine_g": 89.8,
+        "grassi_g": 50.8
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-16",
       "title": "MENSA - SALE NORMALE",
       "lines": [
         "Colazione: 4 EnerZona Frollini Fondente Intenso 24 g + Yomo Rinforzo 90 g",
-        "Merenda mattutina UNICA: Crackers Gran Pavesi 31.25 g + 1 Biraghino Snack INTERO 16.67 g",
+        "Merenda mattutina UNICA: Crackers Gran Pavesi 31.25 g + 1 Biraghino Snack INTERO 16.67 g (sostituisce EnerZona Bites Milk Cocoa 24 g)",
         "Pranzo MENSA: pasta 43 g equivalenti a CRUDO + passata/sugo semplice circa 100 g + Parmigiano 5 g + petto di pollo 100 g A CRUDO + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica pranzo: Yamamoto Ultra Whey 30 g oppure Ultimate Italia Egg White 30 g in acqua",
         "Alternativa pasta al ragu: pasta 43 g equivalente a crudo + ragu magro circa 80 g + Parmigiano 5 g, senza secondo",
-        "Merenda pomeriggio: banana 120 g + Yamamoto Ultra Whey 10 g in acqua",
+        "Merenda pomeriggio: banana 120 g + Yamamoto Ultra Whey 10 g in acqua (banana aumentata di 40 g per compensare la differenza calorica fra Bites e Biraghino)",
         "Cena: manzo magro 100 g PESO A CRUDO + patate 100 g PESO A CRUDO + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica cena: Yamamoto Ultra Whey 30 g oppure Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g",
+        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g; verificare contenuto di sodio",
         "Alternativa patate: pane circa 28 g",
+        "Biraghino: porzione intera 16.67 g, circa 70 kcal, 6.2 g proteine, 5.0 g grassi, 120 mg sodio (0.30 g sale)",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri"
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "CALCOLO REVISIONATO menu principale: circa 1375 kcal; carboidrati 129.9 g; proteine 84.5 g; grassi 55.2 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1375,
+        "carboidrati_g": 129.9,
+        "proteine_g": 84.5,
+        "grassi_g": 55.2
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-17",
       "title": "MENSA - SALE NORMALE",
       "lines": [
         "Colazione: 4 EnerZona Frollini Fondente Intenso 24 g + Yomo Rinforzo 90 g",
-        "Merenda mattutina UNICA: Crackers Gran Pavesi 31.25 g + 1 Biraghino Snack INTERO 16.67 g",
+        "Merenda mattutina UNICA: Crackers Gran Pavesi 31.25 g + 1 Biraghino Snack INTERO 16.67 g (sostituisce EnerZona Bites Milk Cocoa 24 g)",
         "Pranzo MENSA: pasta 47 g equivalenti a CRUDO + passata/sugo semplice circa 100 g + Parmigiano 5 g + Tonno AsdoMar al naturale 100 g SGOCCIOLATO + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica pranzo: Yamamoto Ultra Whey 30 g oppure Ultimate Italia Egg White 30 g in acqua",
         "Alternativa pasta al ragu: pasta 47 g equivalente a crudo + ragu magro circa 80 g + Parmigiano 5 g, senza secondo",
-        "Merenda pomeriggio: banana 120 g + Yamamoto Ultra Whey 10 g in acqua",
+        "Merenda pomeriggio: banana 120 g + Yamamoto Ultra Whey 10 g in acqua (banana aumentata di 40 g per compensare la differenza calorica fra Bites e Biraghino)",
         "Cena: vitello magro 100 g PESO A CRUDO + patate 100 g PESO A CRUDO + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica cena: Yamamoto Ultra Whey 30 g oppure Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g",
+        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g; verificare contenuto di sodio",
         "Alternativa patate: pane circa 28 g",
+        "Biraghino: porzione intera 16.67 g, circa 70 kcal, 6.2 g proteine, 5.0 g grassi, 120 mg sodio (0.30 g sale)",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri"
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "CALCOLO REVISIONATO menu principale: circa 1358 kcal; carboidrati 132.7 g; proteine 85.0 g; grassi 52.3 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1358,
+        "carboidrati_g": 132.7,
+        "proteine_g": 85.0,
+        "grassi_g": 52.3
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-18",
       "title": "MENSA - ULTIMO GIORNO CON LATTICINI",
       "lines": [
         "Colazione: 4 EnerZona Frollini Fondente Intenso 24 g + Yomo Rinforzo 90 g",
-        "Merenda mattutina UNICA: Crackers Gran Pavesi 31.25 g + 1 Biraghino Snack INTERO 16.67 g",
+        "Merenda mattutina UNICA: Crackers Gran Pavesi 31.25 g + 1 Biraghino Snack INTERO 16.67 g (sostituisce EnerZona Bites Milk Cocoa 24 g)",
         "Pranzo MENSA: pasta 48 g equivalenti a CRUDO + passata/sugo semplice circa 100 g + Parmigiano 5 g + fesa di tacchino fresca 100 g A CRUDO + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica pranzo: Yamamoto Ultra Whey 30 g oppure Ultimate Italia Egg White 30 g in acqua",
         "Alternativa pasta al ragu: pasta 48 g equivalente a crudo + ragu magro circa 80 g + Parmigiano 5 g, senza secondo",
-        "Merenda pomeriggio: banana 120 g + Yamamoto Ultra Whey 10 g in acqua",
+        "Merenda pomeriggio: banana 120 g + Yamamoto Ultra Whey 10 g in acqua (banana aumentata di 40 g per compensare la differenza calorica fra Bites e Biraghino)",
         "Cena: petto di pollo 100 g PESO A CRUDO + patate 100 g PESO A CRUDO + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica cena: Yamamoto Ultra Whey 30 g oppure Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g",
+        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g; verificare contenuto di sodio",
         "Alternativa patate: pane circa 28 g",
+        "Biraghino: porzione intera 16.67 g, circa 70 kcal, 6.2 g proteine, 5.0 g grassi, 120 mg sodio (0.30 g sale)",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri",
-        "ULTIMO giorno con latticini e derivati: Yomo, Frollini EnerZona, Biraghino Snack, Parmigiano e Yamamoto Ultra Whey. Bites già sostituiti con Biraghino."
-      ]
+        "Acqua totale originale: 2.0 litri",
+        "ULTIMO giorno con latticini e derivati: Yomo, Frollini EnerZona, Biraghino Snack, Parmigiano e Yamamoto Ultra Whey. Bites già sostituiti con Biraghino.",
+        "CALCOLO REVISIONATO menu principale: circa 1366 kcal; carboidrati 133.4 g; proteine 88.1 g; grassi 51.4 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1366,
+        "carboidrati_g": 133.4,
+        "proteine_g": 88.1,
+        "grassi_g": 51.4
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-19",
       "title": "MENSA - NO LATTICINI",
       "lines": [
         "Colazione: Ultimate Italia Egg White 15 g in acqua + pane azimo senza sale 30 g + arachidi tostate NON SALATE 10 g",
-        "Merenda mattutina UNICA: pane azimo senza sale 39 g + Ultimate Italia Egg White 15 g in acqua",
+        "Merenda mattutina UNICA: pane azimo senza sale 39 g + Ultimate Italia Egg White 15 g in acqua (alimenti invariati)",
         "Pranzo MENSA: pasta 42 g equivalente A CRUDO + petto di pollo 100 g + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica pranzo: Ultimate Italia Egg White 30 g in acqua",
         "Alternativa pasta al ragu: pasta 42 g + ragu magro circa 80 g SENZA Parmigiano, senza secondo",
         "Merenda pomeriggio: banana 80 g + Ultimate Italia Egg White 15 g in acqua",
         "Cena: manzo magro 100 g + patate 100 g PESO A CRUDO + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica cena: Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa proteica cena 2: 1 confezione Rigamonti Stick bresaola 50 g",
+        "Alternativa proteica cena 2: 1 confezione Rigamonti Stick bresaola 50 g (verificare contenuto sodio)",
         "Alternativa patate: pane circa 28 g",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri",
+        "Acqua totale originale: 2.0 litri",
         "BCAA Bandini 2:1:1: 8.16 g polvere al giorno = 6.8 g BCAA attivi, divisi in 2 assunzioni da 4.08 g",
-        "Niente latticini e derivati; solo Egg White in acqua"
-      ]
+        "Niente latticini e derivati; solo Egg White in acqua",
+        "CALCOLO REVISIONATO menu principale: circa 1314 kcal; carboidrati 126.8 g; proteine 98.2 g; grassi 44.4 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1314,
+        "carboidrati_g": 126.8,
+        "proteine_g": 98.2,
+        "grassi_g": 44.4
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-20",
       "title": "MENSA - NO LATTICINI",
       "lines": [
         "Colazione: Ultimate Italia Egg White 15 g in acqua + pane azimo senza sale 30 g + arachidi tostate NON SALATE 10 g",
-        "Merenda mattutina UNICA: pane azimo senza sale 39 g + Ultimate Italia Egg White 15 g in acqua",
+        "Merenda mattutina UNICA: pane azimo senza sale 39 g + Ultimate Italia Egg White 15 g in acqua (alimenti invariati)",
         "Pranzo MENSA: pasta 47 g equivalente A CRUDO + fesa di tacchino fresca 100 g + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica pranzo: Ultimate Italia Egg White 30 g in acqua",
         "Alternativa pasta al ragu: pasta 47 g + ragu magro circa 80 g SENZA Parmigiano, senza secondo",
         "Merenda pomeriggio: banana 80 g + Ultimate Italia Egg White 15 g in acqua",
         "Cena: petto di pollo 100 g + patate 100 g PESO A CRUDO + verdura 100 g + olio EVO 15 g",
         "Alternativa proteica cena: Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa proteica cena 2: 1 confezione Rigamonti Stick bresaola 50 g",
+        "Alternativa proteica cena 2: 1 confezione Rigamonti Stick bresaola 50 g (verificare contenuto sodio)",
         "Alternativa patate: pane circa 28 g",
         "Olio EVO totale: 30 g",
         "Sodio: normale",
-        "Acqua: 2 litri",
+        "Acqua totale originale: 2.0 litri",
         "BCAA Bandini 2:1:1: 8.16 g polvere al giorno = 6.8 g BCAA attivi, divisi in 2 assunzioni da 4.08 g",
-        "Niente latticini e derivati; solo Egg White in acqua"
-      ]
+        "Niente latticini e derivati; solo Egg White in acqua",
+        "CALCOLO REVISIONATO menu principale: circa 1305 kcal; carboidrati 130.3 g; proteine 101.8 g; grassi 40.6 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1305,
+        "carboidrati_g": 130.3,
+        "proteine_g": 101.8,
+        "grassi_g": 40.6
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-21",
-      "title": "BASSO RESIDUO - DEPLEZIONE - SODIO AUMENTATO",
+      "title": "BASSO RESIDUO - DEPLEZIONE - SODIO AUMENTATO (protocollo originale)",
       "lines": [
         "Colazione: Ultimate Italia Egg White 15 g in acqua + pane azimo senza sale 30 g + olio EVO 5 g",
-        "Merenda mattutina UNICA: Ultimate Italia Egg White 30 g in acqua + pane azimo senza sale 20 g",
+        "Merenda mattutina UNICA: Ultimate Italia Egg White 30 g in acqua + pane azimo senza sale 20 g (15 g Egg White originali + 15 g in sostituzione del pollo cotto 30 g)",
         "Pranzo: pasta bianca 75 g PESO A CRUDO + Tonno AsdoMar al naturale 100 g SGOCCIOLATO + olio EVO 12.5 g",
         "Alternativa proteica pranzo: Ultimate Italia Egg White 30 g in acqua",
         "Alternativa pasta al ragu: pasta 75 g + ragu magro circa 80 g SENZA Parmigiano",
         "Merenda pomeriggio: Ultimate Italia Egg White 15 g in acqua",
         "Cena: petto di pollo 100 g PESO A CRUDO + pasta bianca 65 g PESO A CRUDO + olio EVO 12.5 g",
         "Alternativa proteica cena: Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g",
+        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g, soggetti a verifica sodio",
         "Olio EVO totale: 30 g",
-        "BCAA Bandini: 8,16 g di polvere al giorno in 2 dosi",
-        "Potassio e Polase: NO",
-        "Acqua: 3–3,5 litri",
-        "Sodio: leggermente aumentato rispetto al normale"
-      ]
+        "BCAA Bandini 8.16 g polvere al giorno divisi in 2 dosi",
+        "Potassio e Polase: NO (protocollo originale)",
+        "Acqua totale originale: 3.0-3.5 litri",
+        "Sodio originale pianificato: circa 1500-1550 mg; non verificato con marche e sale effettivi",
+        "Basso residuo / deplezione glicogeno: indicazione del cronoprogramma originale da convalidare con medico sportivo",
+        "CALCOLO REVISIONATO menu principale: circa 1353 kcal; carboidrati 139.9 g; proteine 112.8 g; grassi 35.8 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1353,
+        "carboidrati_g": 139.9,
+        "proteine_g": 112.8,
+        "grassi_g": 35.8
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-22",
-      "title": "BASSO RESIDUO - DEPLEZIONE - SODIO AUMENTATO",
+      "title": "BASSO RESIDUO - DEPLEZIONE - SODIO AUMENTATO (protocollo originale)",
       "lines": [
         "Colazione: Ultimate Italia Egg White 15 g in acqua + pane azimo senza sale 30 g + olio EVO 5 g",
-        "Merenda mattutina UNICA: Ultimate Italia Egg White 30 g in acqua + pane azimo senza sale 20 g",
+        "Merenda mattutina UNICA: Ultimate Italia Egg White 30 g in acqua + pane azimo senza sale 20 g (15 g Egg White originali + 15 g in sostituzione del pollo cotto 30 g)",
         "Pranzo: pasta bianca 75 g PESO A CRUDO + Tonno AsdoMar al naturale 100 g SGOCCIOLATO + olio EVO 12.5 g",
         "Alternativa proteica pranzo: Ultimate Italia Egg White 30 g in acqua",
         "Alternativa pasta al ragu: pasta 75 g + ragu magro circa 80 g SENZA Parmigiano",
         "Merenda pomeriggio: Ultimate Italia Egg White 15 g in acqua",
         "Cena: fesa di tacchino fresca 100 g PESO A CRUDO + pasta bianca 63 g PESO A CRUDO + olio EVO 12.5 g",
         "Alternativa proteica cena: Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g",
+        "Alternativa proteica cena 2: Rigamonti Stick con bresaola 50 g, soggetti a verifica sodio",
         "Olio EVO totale: 30 g",
-        "BCAA Bandini: 8,16 g di polvere al giorno in 2 dosi",
-        "Potassio e Polase: NO",
-        "Acqua: 3 litri",
-        "Sodio: leggermente aumentato rispetto al normale",
-        "Ultimo giorno con sodio aumentato"
-      ]
+        "BCAA Bandini 8.16 g polvere al giorno divisi in 2 dosi",
+        "Potassio e Polase: NO (protocollo originale)",
+        "Acqua totale originale: 3.0 litri",
+        "Sodio originale pianificato: circa 1500-1550 mg; non verificato con marche e sale effettivi",
+        "Ultimo giorno originale di sodio aumentato",
+        "Basso residuo / deplezione glicogeno: indicazione del cronoprogramma originale da convalidare con medico sportivo",
+        "CALCOLO REVISIONATO menu principale: circa 1343 kcal; carboidrati 138.4 g; proteine 113.6 g; grassi 35.2 g (BCAA esclusi)"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1343,
+        "carboidrati_g": 138.4,
+        "proteine_g": 113.6,
+        "grassi_g": 35.2
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     },
     {
       "date": "2026-11-23",
-      "title": "BASSO RESIDUO - DEPLEZIONE - SODIO RIDOTTO",
+      "title": "BASSO RESIDUO – VERIFICA SODIO INTRINSECO / PROTOCOLLO DA CONFERMARE",
       "lines": [
-        "Colazione: Ultimate Italia Egg White 15 g in acqua + pane azimo SENZA SALE 40 g + olio EVO 5 g",
-        "Merenda mattutina UNICA: Ultimate Italia Egg White 30 g in acqua + pane azimo senza sale 20 g",
+        "Colazione: Ultimate Italia Egg White CACAO (NON Yamamoto Ultra Egg) 15 g in acqua + pane azimo SENZA SALE 40 g + olio EVO 5 g",
+        "Merenda mattutina UNICA: Ultimate Italia Egg White CACAO (NON Yamamoto Ultra Egg) 30 g in acqua + pane azimo senza sale 20 g (sostituisce anche 30 g di carne cotta)",
         "Pranzo: pasta bianca 60 g PESO A CRUDO + petto di pollo 100 g SENZA SALE + olio EVO 12.5 g",
-        "Alternativa proteica pranzo: Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa carboidrati pranzo: 2 Fruit Jelly Decathlon 25 g al posto della pasta 60 g + olio EVO pranzo +4 g",
-        "Alternativa pasta al ragù: ragù magro senza sale, con sodio noto",
-        "Merenda pomeriggio: pane azimo senza sale 20 g + Ultimate Italia Egg White 15 g in acqua",
+        "Alternativa proteica pranzo: Ultimate Italia Egg White CACAO (NON Yamamoto Ultra Egg) 30 g in acqua",
+        "Alternativa Fruit Jelly del precedente piano: NON VALIDATA rispetto a divieto di zuccheri aggiunti e limite olio EVO; 2 Jelly = 168 kcal, 42 g CHO, 34 g zuccheri, 96 mg sodio. Non conteggiata come sostituzione automatica.",
+        "Alternativa ragù: NON VALIDATA in assenza di ricetta e sodio misurabile; non trattarla come proteina automaticamente equivalente.",
+        "Merenda pomeriggio: pane azimo senza sale 20 g + Ultimate Italia Egg White CACAO (NON Yamamoto Ultra Egg) 15 g in acqua (sostituisce 30 g carne cotta)",
         "Cena: fesa di tacchino fresca 100 g SENZA SALE + pasta bianca 52 g PESO A CRUDO + olio EVO 12.5 g",
-        "Alternativa proteica cena: Ultimate Italia Egg White 30 g in acqua",
-        "Alternativa carboidrati cena: 2 Fruit Jelly Decathlon 25 g al posto dei 52 g di pasta + olio EVO cena +1 g",
-        "Regola Fruit Jelly: al massimo una delle 2 alternative al giorno",
+        "Alternativa proteica cena: Ultimate Italia Egg White CACAO (NON Yamamoto Ultra Egg) 30 g in acqua",
+        "Alternativa Fruit Jelly del precedente piano: NON VALIDATA (zuccheri aggiunti; equivalenza energetica variabile). Non conteggiata come sostituzione automatica.",
+        "Regola originale Fruit Jelly: al massimo una delle 2 alternative al giorno",
+        "Rigamonti Stick: non compatibile col limite originale di 600 mg sodio",
         "Olio EVO totale: 30 g",
-        "BCAA Bandini: 8,16 g di polvere al giorno in 2 dosi",
-        "Sale aggiunto: 0 g",
-        "Acqua: secondo indicazioni del professore",
-        "Polase Pocket: una volta al giorno a cena"
+        "BCAA Bandini 8.16 g polvere al giorno divisi in due dosi",
+        "Sale aggiunto: assente nel menu base; il tetto 600 mg sodio e un vincolo della rielaborazione e NON e indicato nel PDF del nutrizionista. Non e prescrizione clinica.",
+        "Acqua originale: 3.5 litri fino alle 18:00 e successiva restrizione; protocollo da NON applicare senza validazione medica",
+        "Polase Pocket originale: una volta al giorno a cena; verificare indicazione medica",
+        "Basso residuo e deplezione glicogeno: indicazione originale da convalidare con medico sportivo",
+        "CALCOLO REVISIONATO menu principale: circa 1370 kcal; carboidrati 142.5 g; proteine 113.4 g; grassi 36.0 g (BCAA esclusi)",
+        "VERIFICA SODIO: con Ultimate Italia Egg White 60 g (216 mg sodio) e carni CREA, sodio intrinseco degli alimenti circa 305,5–308,7 mg; non include acqua, BCAA, Polase Pocket e sale eventualmente presente nella preparazione.",
+        "ATTENZIONE ETICHETTE: con Yamamoto Ultra Egg 60 g la sola quota da integratore è 640 mg sodio, e il menu alimentare passa a circa 729,5–732,7 mg, senza integratori aggiuntivi: prodotti NON intercambiabili."
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1370,
+        "carboidrati_g": 142.5,
+        "proteine_g": 113.4,
+        "grassi_g": 36.0
+      },
+      "stato": "Sodio alimentare ricalcolato da etichette/CREA; validazione medica necessaria per qualsiasi obiettivo di restrizione",
+      "analisi_sodio_menu_base": {
+        "riferimento": "Verifica informativa, non un obiettivo terapeutico",
+        "ingredienti_mg": {
+          "ultimate_italia_egg_white_60g": 216,
+          "pollo_100g_crudo": 33,
+          "tacchino_100g_crudo": 52,
+          "pasta_112g_cruda": 4.48,
+          "pane_azimo_80g_mg_max_esclusivo": 3.2
+        },
+        "totale_mg_min": 305.5,
+        "totale_mg_max_esclusivo": 308.7,
+        "esclusioni": [
+          "sale usato per cottura",
+          "acqua",
+          "BCAA",
+          "Polase Pocket",
+          "eventuali eccipienti/sale aggiunti"
+        ],
+        "sostituzione_non_equivalente": {
+          "yamamoto_ultra_egg_60g_menu_mg_min": 729.5,
+          "yamamoto_ultra_egg_60g_menu_mg_max_esclusivo": 732.7
+        },
+        "nota_limite_600": "600 mg non riportato nel PDF del professore, non clinicamente validato"
+      },
+      "alternative_proteiche_valutate": [
+        {
+          "pasto": "pranzo",
+          "base": "petto pollo fresco 100g crudo",
+          "base_kcal": 100,
+          "base_proteine_g": 23.3,
+          "base_sodio_mg": 33,
+          "alternativa": "Ultimate Italia Egg White cacao 30g",
+          "alternativa_kcal": 97,
+          "alternativa_proteine_g": 22.5,
+          "alternativa_sodio_mg": 108,
+          "nota": "Equivalenza proteica approssimativa (+75mg sodio rispetto a pollo), da validare con curante"
+        },
+        {
+          "pasto": "cena",
+          "base": "tacchino fesa fresca 100g crudo",
+          "base_kcal": 107,
+          "base_proteine_g": 24,
+          "base_sodio_mg": 52,
+          "alternativa": "Ultimate Italia Egg White cacao 30g",
+          "alternativa_kcal": 97,
+          "alternativa_proteine_g": 22.5,
+          "alternativa_sodio_mg": 108,
+          "nota": "Equivalenza proteica approssimativa (+56mg sodio rispetto a tacchino), da validare con curante"
+        },
+        {
+          "pasto": "pranzo/cena",
+          "alternativa": "Ragù senza sale",
+          "stato": "Non calcolabile senza ricetta e dosi di carne",
+          "nota": "Non usare come equivalente senza validazione"
+        },
+        {
+          "pasto": "pranzo/cena",
+          "alternativa": "Yamamoto Ultra Egg 30g",
+          "stato": "NON equivalente al prodotto nominato nella v3",
+          "sodio_mg": 320,
+          "nota": "Più sodio rispetto a Ultimate Italia Egg White"
+        }
       ]
     },
     {
       "date": "2026-11-24",
-      "title": "BASSO RESIDUO - DEPLEZIONE - SODIO RIDOTTO",
+      "title": "BASSO RESIDUO – VERIFICA SODIO INTRINSECO / PROTOCOLLO DA CONFERMARE",
       "lines": [
-        "Colazione: fesa di tacchino fresca 45 g PESO A CRUDO, da consumare cotta + pane azimo SENZA SALE 40 g + olio EVO 5 g",
-        "Merenda mattutina UNICA: fesa di tacchino fresca 90 g PESO A CRUDO, da consumare cotta + pane azimo senza sale 45 g",
-        "Pranzo: pasta bianca 86 g PESO A CRUDO + fesa di tacchino fresca 100 g SENZA SALE + olio EVO 12.5 g",
-        "Alternativa proteica pranzo, senza preparazioni in polvere: petto di pollo fresco 100 g PESO A CRUDO in sostituzione della fesa di tacchino 100 g",
-        "Alternativa pasta al ragù: ragù magro senza sale, con sodio noto",
-        "Merenda pomeriggio: pane azimo senza sale 20 g + fesa di tacchino fresca 45 g PESO A CRUDO, da consumare cotta",
-        "Cena: petto di pollo 100 g SENZA SALE + olio EVO 12.5 g; NESSUNA fonte di carboidrati prevista a cena",
-        "Alternativa proteica cena, senza preparazioni in polvere: fesa di tacchino fresca 100 g PESO A CRUDO in sostituzione del pollo 100 g",
+        "Colazione: fesa di tacchino fresca 45 g PESO A CRUDO, da consumare cotta + pane azimo SENZA SALE 40 g + olio EVO 5 g (in sostituzione di Egg White 15 g)",
+        "Merenda mattutina UNICA: fesa di tacchino fresca 90 g PESO A CRUDO, da consumare cotta + pane azimo senza sale 45 g (in sostituzione di Egg White 30 g; quota di pane già trasferita dalla cena)",
+        "Pranzo: pasta bianca 86 g PESO A CRUDO (60 g originali + 26 g trasferiti dalla cena) + fesa di tacchino fresca 100 g SENZA SALE + olio EVO 12.5 g",
+        "Alternativa proteica pranzo, senza preparazioni in polvere: petto di pollo fresco 100 g PESO A CRUDO in sostituzione della fesa di tacchino 100 g; valori nutrizionali da ricalcolare se scelta",
+        "Alternativa Fruit Jelly: NON EQUIVALENTE ai 86 g di pasta del pranzo; 2 Jelly = 168 kcal, 42 g CHO, 34 g zuccheri, 96 mg sodio. Inoltre il PDF pregara indica NO zucchero.",
+        "Alternativa ragù: NON VALIDATA in assenza di ricetta e sodio verificato; inoltre le porzioni di pasta del 24 sono state modificate rispetto al piano iniziale.",
+        "Merenda pomeriggio: pane azimo senza sale 20 g + fesa di tacchino fresca 45 g PESO A CRUDO, da consumare cotta (in sostituzione di Egg White 15 g)",
+        "Cena: petto di pollo 100 g SENZA SALE + olio EVO 12.5 g; NESSUNA fonte di carboidrati prevista a cena (pasta 52 g redistribuita nella giornata)",
+        "Alternativa proteica cena, senza preparazioni in polvere: fesa di tacchino fresca 100 g PESO A CRUDO in sostituzione del pollo 100 g; valori nutrizionali da ricalcolare se scelta",
+        "Regola originale Fruit Jelly: alternative non ricalcolate per questa giornata; eventuali sostituzioni vanno riconteggiate.",
+        "Rigamonti Stick: non compatibile col limite originale di 600 mg sodio",
+        "24 novembre: nessun alimento o integratore del menu base da sciogliere in acqua. Preparazioni solide proposte a parità approssimativa di calorie/proteine; l’idratazione necessaria NON va ridotta per la pesata.",
         "Olio EVO totale: 30 g",
-        "BCAA Bandini: non previsti nel menu del 24 novembre",
-        "Sale aggiunto: 0 g",
-        "Acqua: secondo indicazioni del professore",
-        "Polase Pocket: due volte al giorno"
+        "BCAA Bandini in polvere: NON inseriti nel menu del 24 novembre. Non assumere polveri a secco; eventuale modifica della supplementazione da concordare con il curante.",
+        "Sale aggiunto: assente nel menu base; il tetto di 600 mg sodio NON compare nel PDF del professore e non è una prescrizione clinicamente validata.",
+        "Acqua: il protocollo originale indica «minimo fisiologico» ma non ne quantifica il volume. Nessuna riduzione dei liquidi viene definita in questa rielaborazione; mantenere idratazione adeguata e chiedere istruzioni precise al medico sportivo/nutrizionista prima di modificare l’assunzione.",
+        "Polase Pocket originale: due volte al giorno; verificare indicazione medica",
+        "MODIFICA DA APPROVARE DAL NUTRIZIONISTA: i carboidrati di pasta 52 g della cena sono stati redistribuiti senza sostanziale variazione energetica giornaliera: pasta a pranzo 60 -> 86 g e pane azimo della merenda mattutina 20 -> 45 g. Da verificare per il protocollo pre-pesata.",
+        "Basso residuo e deplezione glicogeno: indicazione originale da convalidare con medico sportivo",
+        "CALCOLO REVISIONATO menu principale: circa 1367 kcal; carboidrati 141.7 g; proteine 111.0 g; grassi 37.5 g (nessun BCAA in polvere incluso; solo menu principale)",
+        "VERIFICA SODIO: fesa tacchino fresca 280 g cruda=145,6 mg; pollo crudo 100 g=33 mg; pasta 86 g=3,44 mg; pane azimo 105 g=<4,2 mg. Totale alimentare circa 182,0–186,2 mg; non include acqua, Polase Pocket, sale di preparazione.",
+        "La sostituzione delle polveri con carni fresche 45/90/45 g e nutrizionalmente approssimativa: 15g Ultimate Egg White=11,25g proteine vs 45g tacchino=10,8g; 30g Egg White=22,5g vs 90g tacchino=21,6g."
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1367,
+        "carboidrati_g": 141.7,
+        "proteine_g": 111.0,
+        "grassi_g": 37.5
+      },
+      "stato": "Sodio alimentare ricalcolato da etichette/CREA; ogni restrizione idrica o di sodio richiede conferma del medico sportivo",
+      "analisi_sodio_menu_base": {
+        "riferimento": "Verifica informativa, non un obiettivo terapeutico",
+        "ingredienti_mg": {
+          "tacchino_fresco_280g_crudo": 145.6,
+          "pollo_100g_crudo": 33,
+          "pasta_86g_cruda": 3.44,
+          "pane_azimo_105g_mg_max_esclusivo": 4.2
+        },
+        "totale_mg_min": 182.0,
+        "totale_mg_max_esclusivo": 186.2,
+        "esclusioni": [
+          "sale usato per cottura",
+          "acqua",
+          "Polase Pocket"
+        ],
+        "nota_limite_600": "600 mg non riportato nel PDF del professore, non clinicamente validato"
+      },
+      "alternative_proteiche_valutate": [
+        {
+          "pasto": "colazione",
+          "base_in_v3": "tacchino fresco 45g crudo",
+          "base_kcal": 48.15,
+          "base_proteine_g": 10.8,
+          "base_sodio_mg": 23.4,
+          "sostituisce": "Ultimate Italia Egg White 15g=48,5kcal, 11,25g proteine, 54mg sodio",
+          "nota": "Non è equivalenza identica, ma è prossima per energia e proteine"
+        },
+        {
+          "pasto": "merenda mattina",
+          "base_in_v3": "tacchino fresco 90g crudo",
+          "base_kcal": 96.3,
+          "base_proteine_g": 21.6,
+          "base_sodio_mg": 46.8,
+          "sostituisce": "Ultimate Italia Egg White 30g=97kcal,22,5g proteine,108mg sodio"
+        },
+        {
+          "pasto": "merenda pomeriggio",
+          "base_in_v3": "tacchino fresco 45g crudo",
+          "base_kcal": 48.15,
+          "base_proteine_g": 10.8,
+          "base_sodio_mg": 23.4,
+          "sostituisce": "Ultimate Italia Egg White 15g=48,5kcal,11,25g proteine,54mg sodio"
+        },
+        {
+          "pasto": "pranzo",
+          "base_in_v3": "tacchino fresco 100g crudo",
+          "base_kcal": 107,
+          "base_proteine_g": 24,
+          "base_sodio_mg": 52,
+          "alternativa": "petto pollo fresco 100g crudo",
+          "alternativa_kcal": 100,
+          "alternativa_proteine_g": 23.3,
+          "alternativa_sodio_mg": 33
+        },
+        {
+          "pasto": "cena",
+          "base_in_v3": "pollo fresco 100g crudo",
+          "base_kcal": 100,
+          "base_proteine_g": 23.3,
+          "base_sodio_mg": 33,
+          "alternativa": "fesa tacchino fresca 100g crudo",
+          "alternativa_kcal": 107,
+          "alternativa_proteine_g": 24,
+          "alternativa_sodio_mg": 52
+        },
+        {
+          "pasto": "pranzo/cena",
+          "alternativa": "Ragù senza sale",
+          "stato": "Non calcolabile senza ricetta e dosi di carne"
+        }
       ]
     },
     {
       "date": "2026-11-25",
       "title": "GIORNO PESO - REPLEZIONE",
       "lines": [
-        "Colazione pre-peso SOLO SE NECESSARIA: Ultimate Italia Egg White 15 g in acqua + pane azimo senza sale 20 g",
-        "Merenda mattutina UNICA SOLO SE NECESSARIA: pane azimo senza sale 15 g + Ultimate Italia Egg White 15 g in acqua",
+        "Colazione pre-peso SOLO SE NECESSARIA (non conteggiata nel minimo): Ultimate Italia Egg White 15 g in acqua + pane azimo senza sale 20 g",
+        "Merenda mattutina UNICA SOLO SE NECESSARIA (non conteggiata nel minimo): pane azimo senza sale 15 g + Ultimate Italia Egg White 15 g in acqua",
+        "Prima del peso: evitare istruzioni di disidratazione senza supervisione medica",
         "Pranzo DOPO PESO: pasta bianca 58 g PESO A CRUDO + petto di pollo 100 g + olio EVO 15 g + sale secondo medico",
         "Alternativa proteica pranzo: Ultimate Italia Egg White 30 g in acqua",
         "Alternativa pasta al ragu: pasta 58 g + ragu magro con sale",
@@ -312,10 +643,35 @@
         "Cena: pasta bianca 55 g PESO A CRUDO + manzo magro 100 g + olio EVO 15 g + sale secondo medico",
         "Alternativa proteica cena: Ultimate Italia Egg White 30 g in acqua",
         "Alternativa proteica cena 2 dopo pesata: Rigamonti Stick con bresaola 50 g",
-        "BCAA Bandini: 8.16 g polvere al giorno divisi in due dosi",
-        "Polase Pocket: due volte al giorno",
-        "Acqua dopo il peso: normale"
-      ]
+        "BCAA Bandini originale: 8.16 g polvere al giorno divisi in due dosi",
+        "Polase Pocket originale: due volte al giorno; valutazione medica",
+        "Acqua post peso originale: normale; ripristino effettivo dei liquidi ed elettroliti da definire col medico",
+        "Apporto post peso e recupero carboidrati: protocollo originale da convalidare",
+        "CALCOLO REVISIONATO menu principale: circa 1124 kcal; carboidrati 127.1 g; proteine 63.2 g; grassi 38.9 g (BCAA esclusi)",
+        "Se si consumano anche tutti i 3 apporti pre-peso facoltativi: circa 1348 kcal; CHO 154.3g; PRO 89.2g; GRASSI 39.5g"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1124,
+        "carboidrati_g": 127.1,
+        "proteine_g": 63.2,
+        "grassi_g": 38.9
+      },
+      "stato": "Da validare da nutrizionista/medico sportivo"
     }
+  ],
+  "modifiche": {
+    "dal_16": "Dal 16 una sola merenda al mattino; dal 16 al 18 i due alimenti delle merende originali sono accorpati ma il Bites è sostituito con un Biraghino intero; il 19–25 l’accorpamento resta senza altri cambi.",
+    "21_22": "Nello spuntino del mattino 30 g di pollo cotto sostituiti con 15 g di Egg White, accorpati con i 15 g già previsti",
+    "23_24": "Nelle merende di mattina e pomeriggio 30 g di carne cotta sostituiti ciascuno con 15 g di Egg White",
+    "24_cena": "Cena senza la pasta di 52 g; spostati 26 g di pasta al pranzo e 25 g di pane azimo alla merenda del mattino. Spostamento quasi isocalorico, verifica clinica necessaria in ragione del protocollo pre-pesata.",
+    "16_18_biraghini": "Nella merenda unica del mattino, 1 Biraghino Snack confezionato 16,67 g al posto di EnerZona Bites Milk Cocoa 24 g; banana pomeriggio 80 -> 120 g per compensare l’energia. No Biraghini dal 19 (niente derivati del latte).",
+    "24_senza_polveri": "Sostituiti Egg White 15 g colazione, 30 g merenda mattutina e 15 g merenda pomeriggio con 45 g, 90 g e 45 g di fesa di tacchino PESO A CRUDO da consumare cotta; tolte tutte le alternative proteiche in polvere del giorno 24; BCAA in polvere esclusi e da ridiscutere con curante. Le calorie e i macro sono ricalcolati. Idratazione adeguata: non ridurre autonomamente i liquidi.",
+    "v4_sodio_23_24": "Audit alimentare dei due giorni basato sulle nuove etichette: 23 Ultimate Italia Egg White 60g = 216mg sodio, menù base 305,5–308,7mg; con Yamamoto Ultra Egg 60g = 640mg e menu base 729,5–732,7mg. 24 senza polveri = 182,0–186,2mg dagli alimenti. Non conteggiati acqua, Polase Pocket, BCAA e sale di cottura. Nessuna ulteriore riduzione applicata al menu.",
+    "v4_alternative": "Equivalenze proteiche esplicitate usando kcal, proteine, sodio delle carni fresche da CREA e di Ultimate Italia Egg White; ragù e Fruit Jelly non considerati sostituzioni automatiche nel 23–24, in assenza di validazione."
+  },
+  "avvertenze_cliniche": [
+    "Il limite di 600mg sodio per giorno 23–24 non compare nella prescrizione originale; non e un valore terapeutico sicuro convalidato da questa analisi.",
+    "La riduzione volontaria dell’acqua combinata con drastici cambi di sodio durante allenamenti e per una pesata è potenzialmente pericolosa per un adolescente; mantenere idratazione adeguata e consultare medico sportivo e nutrizionista per il protocollo.",
+    "Non modificare la supplementazione di polveri/BCAA/Polase in un minore senza indicazione del curante."
   ]
 }
