@@ -1,31 +1,1746 @@
 {
-  "versione": "v11.2 - sostituzione teorica 50g pollo + 50g tonno per pasto 21 e 22 novembre; da validare dal professionista",
-  "creato_il": "2026-11-18",
+  "versione": "v11.2-compat-days",
   "timezone": "Europe/Rome",
-  "soggetto": {
-    "nome": "Mario Andriulli",
-    "eta_anni": 13,
-    "altezza_cm_contesto": 149,
-    "peso_kg_contesto_circa": 34,
-    "sport": "taekwondo agonistico cadetti",
-    "minorenne": true
-  },
-  "fonti": [
+  "fonte": "Derivato fedelmente da v11.2. Compatibilità indicativa con struttura v10 (days/date/lines). NON prescrizione clinica.",
+  "ambito": "18-25 novembre 2026",
+  "uso": "Documento per analisi e confronto con nutrizionista e medico sportivo. Non autorizza l’esecuzione di riduzioni di liquidi, sodio, carboidrati o calorie e non costituisce una prescrizione.",
+  "avvertenza_critica": "Le diete ipocaloriche e le restrizioni di sodio/liquidi in atleta minorenne richiedono convalida medica. I campi 23-24 sono scenari NON ESECUTIVI.",
+  "days": [
     {
-      "titolo": "Mario Andriulli alimentazione(2).pdf",
-      "tipo": "prescrizioni e cronoprogramma del Prof. Vaqali 09/11/2026",
-      "pagine": 7
+      "date": "2026-11-18",
+      "title": "storico v10 senza modifiche dal genitore",
+      "lines": [
+        "Colazione: frollini 24 g + yomo 90 g",
+        "Merenda Mattina: crackers 31.25 g + biraghino 16.67 g",
+        "Pranzo: pasta 26.6 g + passata 100 g + parmigiano 5 g + tacchino 100 g + verdura 100 g + olio 15 g",
+        "Merenda Pomeriggio: banana 66.6 g + whey 10 g",
+        "Cena: pollo 100 g + patate 55.5 g + verdura 100 g + olio 15 g",
+        "STIMA NON CERTIFICATA: calorie_kcal: 1200.01, carboidrati_g: 99.93, proteine_g: 85.73, grassi_g: 50.19, fibre_g: 12.61, sodio_alimenti_mg_stimato: 751.29",
+        "Stato: trascritto per continuità; non dichiarato eseguito né autorizzato"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1200.01,
+        "carboidrati_g": 99.93,
+        "proteine_g": 85.73,
+        "grassi_g": 50.19,
+        "fibre_g": 12.61,
+        "sodio_alimenti_mg_stimato": 751.29
+      },
+      "stato": "trascritto per continuità; non dichiarato eseguito né autorizzato",
+      "menu_base_dettaglio_ricalcolo": [
+        {
+          "pasto": "colazione",
+          "alimenti": [
+            {
+              "alimento": "frollini",
+              "grammi": 24,
+              "descrizione": "frollini"
+            },
+            {
+              "alimento": "yomo",
+              "grammi": 90,
+              "descrizione": "yomo"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 182.64,
+            "carboidrati_g": 22.44,
+            "proteine_g": 9.24,
+            "grassi_g": 5.52,
+            "fibre_g": 2.02,
+            "sodio_alimenti_mg_stimato": 90.42
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_mattina",
+          "alimenti": [
+            {
+              "alimento": "crackers",
+              "grammi": 31.25,
+              "descrizione": "crackers"
+            },
+            {
+              "alimento": "biraghino",
+              "grammi": 16.67,
+              "descrizione": "biraghino"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 206.56,
+            "carboidrati_g": 20.59,
+            "proteine_g": 10.7,
+            "grassi_g": 9.06,
+            "fibre_g": 1.66,
+            "sodio_alimenti_mg_stimato": 448.15
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "pranzo",
+          "alimenti": [
+            {
+              "alimento": "pasta",
+              "grammi": 26.6,
+              "descrizione": "pasta"
+            },
+            {
+              "alimento": "passata",
+              "grammi": 100,
+              "descrizione": "passata"
+            },
+            {
+              "alimento": "parmigiano",
+              "grammi": 5,
+              "descrizione": "parmigiano"
+            },
+            {
+              "alimento": "tacchino",
+              "grammi": 100,
+              "descrizione": "tacchino"
+            },
+            {
+              "alimento": "verdura",
+              "grammi": 100,
+              "descrizione": "verdura"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 410.8,
+            "carboidrati_g": 27.75,
+            "proteine_g": 31.82,
+            "grassi_g": 18.58,
+            "fibre_g": 4.2,
+            "sodio_alimenti_mg_stimato": 125.06
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_pomeriggio",
+          "alimenti": [
+            {
+              "alimento": "banana",
+              "grammi": 66.6,
+              "descrizione": "banana"
+            },
+            {
+              "alimento": "whey",
+              "grammi": 10,
+              "descrizione": "whey"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 97.27,
+            "carboidrati_g": 15.71,
+            "proteine_g": 8.06,
+            "grassi_g": 0.87,
+            "fibre_g": 1.73,
+            "sodio_alimenti_mg_stimato": 31.33
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "cena",
+          "alimenti": [
+            {
+              "alimento": "pollo",
+              "grammi": 100,
+              "descrizione": "pollo"
+            },
+            {
+              "alimento": "patate",
+              "grammi": 55.5,
+              "descrizione": "patate"
+            },
+            {
+              "alimento": "verdura",
+              "grammi": 100,
+              "descrizione": "verdura"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 302.74,
+            "carboidrati_g": 13.44,
+            "proteine_g": 25.91,
+            "grassi_g": 16.16,
+            "fibre_g": 3.0,
+            "sodio_alimenti_mg_stimato": 56.33
+          },
+          "facoltativo": false
+        }
+      ],
+      "dati_aggiuntivi_v11_2": {
+        "note": [
+          "Mantenuto dalla bozza precedente per il 18-19.",
+          "Il 19 compare integratore Egg White, controindicato secondo produttore sotto i 14 anni.",
+          "Non sommare alternative della vecchia v10, ora decadute."
+        ]
+      }
     },
     {
-      "titolo": "mario_bozza_18-25_novembre_2026_v10_revisione_orari_proteine(1).json",
-      "tipo": "bozza matematica precedente v10, non approvata"
+      "date": "2026-11-19",
+      "title": "storico v10 senza modifiche dal genitore",
+      "lines": [
+        "Colazione: egg 30 g",
+        "Merenda Mattina: egg 15 g",
+        "Pranzo: pasta 33.68 g + pollo 100 g + verdura 100 g + olio 15 g",
+        "Merenda Pomeriggio: banana 64.1 g + azimo 55.3 g + arachidi 10 g",
+        "Cena: manzo 100 g + patate 80.1 g + verdura 100 g + olio 15 g",
+        "STIMA NON CERTIFICATA: calorie_kcal: 1200.0, carboidrati_g: 104.37, proteine_g: 97.39, grassi_g: 42.98, fibre_g: 13.7, sodio_alimenti_mg_stimato: 300.91",
+        "Stato: trascritto per continuità; non dichiarato eseguito né autorizzato"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1200.0,
+        "carboidrati_g": 104.37,
+        "proteine_g": 97.39,
+        "grassi_g": 42.98,
+        "fibre_g": 13.7,
+        "sodio_alimenti_mg_stimato": 300.91
+      },
+      "stato": "trascritto per continuità; non dichiarato eseguito né autorizzato",
+      "menu_base_dettaglio_ricalcolo": [
+        {
+          "pasto": "colazione",
+          "alimenti": [
+            {
+              "alimento": "egg",
+              "grammi": 30.0,
+              "descrizione": "egg"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 97.0,
+            "carboidrati_g": 0.54,
+            "proteine_g": 22.5,
+            "grassi_g": 0.27,
+            "fibre_g": 1.05,
+            "sodio_alimenti_mg_stimato": 108.0
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_mattina",
+          "alimenti": [
+            {
+              "alimento": "egg",
+              "grammi": 15.0,
+              "descrizione": "egg"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 48.5,
+            "carboidrati_g": 0.27,
+            "proteine_g": 11.25,
+            "grassi_g": 0.14,
+            "fibre_g": 0.53,
+            "sodio_alimenti_mg_stimato": 54.0
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "pranzo",
+          "alimenti": [
+            {
+              "alimento": "pasta",
+              "grammi": 33.68,
+              "descrizione": "pasta"
+            },
+            {
+              "alimento": "pollo",
+              "grammi": 100.0,
+              "descrizione": "pollo"
+            },
+            {
+              "alimento": "verdura",
+              "grammi": 100.0,
+              "descrizione": "verdura"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15.0,
+              "descrizione": "olio"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 379.9,
+            "carboidrati_g": 28.25,
+            "proteine_g": 29.01,
+            "grassi_g": 16.61,
+            "fibre_g": 3.01,
+            "sodio_alimenti_mg_stimato": 54.35
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_pomeriggio",
+          "alimenti": [
+            {
+              "alimento": "banana",
+              "grammi": 64.1,
+              "descrizione": "banana"
+            },
+            {
+              "alimento": "azimo",
+              "grammi": 55.3,
+              "descrizione": "azimo"
+            },
+            {
+              "alimento": "arachidi",
+              "grammi": 10.0,
+              "descrizione": "arachidi"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 322.92,
+            "carboidrati_g": 57.69,
+            "proteine_g": 9.53,
+            "grassi_g": 6.08,
+            "fibre_g": 5.67,
+            "sodio_alimenti_mg_stimato": 7.75
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "cena",
+          "alimenti": [
+            {
+              "alimento": "manzo",
+              "grammi": 100.0,
+              "descrizione": "manzo"
+            },
+            {
+              "alimento": "patate",
+              "grammi": 80.1,
+              "descrizione": "patate"
+            },
+            {
+              "alimento": "verdura",
+              "grammi": 100.0,
+              "descrizione": "verdura"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15.0,
+              "descrizione": "olio"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 351.68,
+            "carboidrati_g": 17.62,
+            "proteine_g": 25.1,
+            "grassi_g": 19.88,
+            "fibre_g": 3.44,
+            "sodio_alimenti_mg_stimato": 76.81
+          },
+          "facoltativo": false
+        }
+      ],
+      "dati_aggiuntivi_v11_2": {
+        "note": [
+          "Mantenuto dalla bozza precedente per il 18-19.",
+          "Il 19 compare integratore Egg White, controindicato secondo produttore sotto i 14 anni.",
+          "Non sommare alternative della vecchia v10, ora decadute."
+        ]
+      }
     },
     {
-      "titolo": "messaggio genitore 18/11/2026",
-      "tipo": "nuove quantità dal 20/11, sostituzione amidi 23-24 e cena senza carboidrati"
+      "date": "2026-11-20",
+      "title": "nuovo menu comunicato dal genitore; dal 21 basso residuo documentale",
+      "lines": [
+        "Colazione: Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età) 30 g",
+        "Merenda Mattina: EnerZona Frollini cacao intenso, 2 pezzi circa 12g 12 g",
+        "Pranzo: pasta secca a crudo 50 g + petto pollo fresco peso a crudo 100 g + verdure non specificate, 100 g (valori nutrizionali generici stimati; cottura e tipologia da specificare) 100 g + olio EVO 15 g",
+        "Merenda Pomeriggio: arachidi NON salate: variante base 5 g",
+        "Cena: petto pollo fresco peso a crudo 100 g + pane comune CON crosta NON bianco; profilo stimato 30 g + verdure non specificate, 100 g (valori nutrizionali generici stimati; cottura e tipologia da specificare) 100 g + olio EVO 15 g",
+        "STIMA NON CERTIFICATA: calorie_kcal: 957.27, carboidrati_g: 64.66, proteine_g: 85.71, grassi_g: 38.36, fibre_g: 9.18, sodio_alimenti_mg_stimato: 391.06",
+        "Stato: menu riferito, analizzato ma non approvato come piano calorico pediatrico"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 957.27,
+        "carboidrati_g": 64.66,
+        "proteine_g": 85.71,
+        "grassi_g": 38.36,
+        "fibre_g": 9.18,
+        "sodio_alimenti_mg_stimato": 391.06
+      },
+      "stato": "menu riferito, analizzato ma non approvato come piano calorico pediatrico",
+      "menu_base_dettaglio_ricalcolo": [
+        {
+          "pasto": "colazione",
+          "alimenti": [
+            {
+              "alimento": "egg",
+              "grammi": 30,
+              "descrizione": "Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età)"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 97.0,
+            "carboidrati_g": 0.54,
+            "proteine_g": 22.5,
+            "grassi_g": 0.27,
+            "fibre_g": 1.05,
+            "sodio_alimenti_mg_stimato": 108.0
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_mattina",
+          "alimenti": [
+            {
+              "alimento": "frollini",
+              "grammi": 12,
+              "descrizione": "EnerZona Frollini cacao intenso, 2 pezzi circa 12g"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 53.52,
+            "carboidrati_g": 4.92,
+            "proteine_g": 3.36,
+            "grassi_g": 2.04,
+            "fibre_g": 1.01,
+            "sodio_alimenti_mg_stimato": 24.96
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "pranzo",
+          "alimenti": [
+            {
+              "alimento": "pasta",
+              "grammi": 50,
+              "descrizione": "pasta secca a crudo"
+            },
+            {
+              "alimento": "pollo",
+              "grammi": 100,
+              "descrizione": "petto pollo fresco peso a crudo"
+            },
+            {
+              "alimento": "verdura",
+              "grammi": 100,
+              "descrizione": "verdure non specificate, 100 g (valori nutrizionali generici stimati; cottura e tipologia da specificare)"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio EVO"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 438.0,
+            "carboidrati_g": 40.0,
+            "proteine_g": 31.05,
+            "grassi_g": 16.85,
+            "fibre_g": 3.5,
+            "sodio_alimenti_mg_stimato": 55.0
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_pomeriggio",
+          "alimenti": [
+            {
+              "alimento": "arachidi",
+              "grammi": 5,
+              "descrizione": "arachidi NON salate: variante base"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 29.25,
+            "carboidrati_g": 0.8,
+            "proteine_g": 1.3,
+            "grassi_g": 2.5,
+            "fibre_g": 0.42,
+            "sodio_alimenti_mg_stimato": 0.1
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "cena",
+          "alimenti": [
+            {
+              "alimento": "pollo",
+              "grammi": 100,
+              "descrizione": "petto pollo fresco peso a crudo"
+            },
+            {
+              "alimento": "pane_con_crosta_non_bianco_stima",
+              "grammi": 30,
+              "descrizione": "pane comune CON crosta NON bianco; profilo stimato"
+            },
+            {
+              "alimento": "verdura",
+              "grammi": 100,
+              "descrizione": "verdure non specificate, 100 g (valori nutrizionali generici stimati; cottura e tipologia da specificare)"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio EVO"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 339.5,
+            "carboidrati_g": 18.4,
+            "proteine_g": 27.5,
+            "grassi_g": 16.7,
+            "fibre_g": 3.2,
+            "sodio_alimenti_mg_stimato": 203.0
+          },
+          "facoltativo": false
+        }
+      ],
+      "dati_aggiuntivi_v11_2": {
+        "variante_5g_mandorle": {
+          "pasto": {
+            "pasto": "merenda_pomeriggio",
+            "alimenti": [
+              {
+                "codice": "mandorle_stima",
+                "quantita_g": 5,
+                "descrizione": "mandorle non salate, variante alternativa"
+              }
+            ],
+            "stima_nutrizionale": {
+              "calorie_kcal": 28.95,
+              "carboidrati_g": 1.08,
+              "proteine_g": 1.06,
+              "grassi_g": 2.5,
+              "fibre_g": 0.62,
+              "sodio_alimenti_mg_stimato": 0.05
+            }
+          },
+          "differenza_nutrienti_sul_totale_giornaliero": {
+            "calorie_kcal": -0.3,
+            "carboidrati_g": 0.28,
+            "proteine_g": -0.24,
+            "grassi_g": 0.0,
+            "fibre_g": 0.2,
+            "sodio_alimenti_mg_stimato": -0.05
+          }
+        },
+        "avvertenze": [
+          "~957 kcal giornaliere stimate includendo 200 g di verdure: apporto ancora estremamente basso per atleta di 13 anni; non validato.",
+          "Pane comune con crosta: etichetta/tipo non noto, sodio e fibre complessivi solo indicativi.",
+          "Le proteine Egg White sono controindicate sotto i 14 anni secondo produttore.",
+          "La merenda con due frollini contiene zuccheri; il PDF pre-gara dice no zucchero.",
+          "Incoerenza con PDF che indica piccoli pasti completi ed energia adeguata all’allenamento.",
+          "Verdure aggiunte per 100 g a pranzo e 100 g a cena, con stima generica di 25 kcal, 2 g fibre e 20 mg sodio per 100 g; valori reali dipendono dal tipo e dalla preparazione."
+        ],
+        "calcolo_sodio_incompleto_per": [
+          "sodio acqua potabile",
+          "sale aggiunto",
+          "sodio integratori e altri ingredienti",
+          "variabilità carne/pane"
+        ],
+        "nota_aggiornamento_verdure": "20 novembre: aggiunti 100 g verdure a pranzo e 100 g a cena, senza rimuovere altri alimenti. 18 e 19 avevano già entrambe le porzioni. Il 21-25 non è modificato."
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "title": "nuovo menu comunicato dal genitore; dal 21 basso residuo documentale",
+      "lines": [
+        "Colazione: Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età) 30 g",
+        "Merenda Mattina: EnerZona Frollini cacao intenso, 2 pezzi circa 12g 12 g",
+        "Pranzo: pasta secca a crudo 50 g + petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g 50 g + tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta 50 g + olio EVO 15 g",
+        "Merenda Pomeriggio: arachidi NON salate: variante base 5 g",
+        "Cena: petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g 50 g + tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta 50 g + pane comune CON crosta NON bianco; profilo stimato 30 g + olio EVO 15 g",
+        "STIMA NON CERTIFICATA: calorie_kcal: 907.27, carboidrati_g: 56.66, proteine_g: 82.41, grassi_g: 37.86, fibre_g: 5.18, sodio_alimenti_mg_stimato: 838.06",
+        "Stato: Sostituzione richiesta 50g pollo + 50g tonno per pasto: calcoli aggiornati, NON validata come dieta pediatrica/pre-pesata."
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 907.27,
+        "carboidrati_g": 56.66,
+        "proteine_g": 82.41,
+        "grassi_g": 37.86,
+        "fibre_g": 5.18,
+        "sodio_alimenti_mg_stimato": 838.06
+      },
+      "stato": "Sostituzione richiesta 50g pollo + 50g tonno per pasto: calcoli aggiornati, NON validata come dieta pediatrica/pre-pesata.",
+      "menu_base_dettaglio_ricalcolo": [
+        {
+          "pasto": "colazione",
+          "alimenti": [
+            {
+              "alimento": "egg",
+              "grammi": 30,
+              "descrizione": "Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età)"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 97.0,
+            "carboidrati_g": 0.54,
+            "proteine_g": 22.5,
+            "grassi_g": 0.27,
+            "fibre_g": 1.05,
+            "sodio_alimenti_mg_stimato": 108.0
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_mattina",
+          "alimenti": [
+            {
+              "alimento": "frollini",
+              "grammi": 12,
+              "descrizione": "EnerZona Frollini cacao intenso, 2 pezzi circa 12g"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 53.52,
+            "carboidrati_g": 4.92,
+            "proteine_g": 3.36,
+            "grassi_g": 2.04,
+            "fibre_g": 1.01,
+            "sodio_alimenti_mg_stimato": 24.96
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "pranzo",
+          "alimenti": [
+            {
+              "alimento": "pasta",
+              "grammi": 50,
+              "descrizione": "pasta secca a crudo"
+            },
+            {
+              "alimento": "pollo",
+              "grammi": 50,
+              "descrizione": "petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g"
+            },
+            {
+              "alimento": "tonno",
+              "grammi": 50,
+              "descrizione": "tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio EVO"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 413.0,
+            "carboidrati_g": 36.0,
+            "proteine_g": 29.4,
+            "grassi_g": 16.6,
+            "fibre_g": 1.5,
+            "sodio_alimenti_mg_stimato": 278.5
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_pomeriggio",
+          "alimenti": [
+            {
+              "alimento": "arachidi",
+              "grammi": 5,
+              "descrizione": "arachidi NON salate: variante base"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 29.25,
+            "carboidrati_g": 0.8,
+            "proteine_g": 1.3,
+            "grassi_g": 2.5,
+            "fibre_g": 0.42,
+            "sodio_alimenti_mg_stimato": 0.1
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "cena",
+          "alimenti": [
+            {
+              "alimento": "pollo",
+              "grammi": 50,
+              "descrizione": "petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g"
+            },
+            {
+              "alimento": "tonno",
+              "grammi": 50,
+              "descrizione": "tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta"
+            },
+            {
+              "alimento": "pane_con_crosta_non_bianco_stima",
+              "grammi": 30,
+              "descrizione": "pane comune CON crosta NON bianco; profilo stimato"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio EVO"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 314.5,
+            "carboidrati_g": 14.4,
+            "proteine_g": 25.85,
+            "grassi_g": 16.45,
+            "fibre_g": 1.2,
+            "sodio_alimenti_mg_stimato": 426.5
+          },
+          "facoltativo": false
+        }
+      ],
+      "dati_aggiuntivi_v11_2": {
+        "variante_5g_mandorle": {
+          "pasto": {
+            "pasto": "merenda_pomeriggio",
+            "alimenti": [
+              {
+                "codice": "mandorle_stima",
+                "quantita_g": 5,
+                "descrizione": "mandorle non salate, variante alternativa"
+              }
+            ],
+            "stima_nutrizionale": {
+              "calorie_kcal": 28.95,
+              "carboidrati_g": 1.08,
+              "proteine_g": 1.06,
+              "grassi_g": 2.5,
+              "fibre_g": 0.62,
+              "sodio_alimenti_mg_stimato": 0.05
+            }
+          },
+          "differenza_nutrienti_sul_totale_giornaliero": {
+            "calorie_kcal": -0.3,
+            "carboidrati_g": 0.28,
+            "proteine_g": -0.24,
+            "grassi_g": 0.0,
+            "fibre_g": 0.2,
+            "sodio_alimenti_mg_stimato": -0.05
+          }
+        },
+        "avvertenze": [
+          "~900 kcal giornaliere stimate: valore estremamente basso per atleta di 13 anni; non validato.",
+          "Pane comune con crosta: etichetta/tipo non noto, sodio e fibre complessivi solo indicativi.",
+          "Le proteine Egg White sono controindicate sotto i 14 anni secondo produttore.",
+          "La merenda con due frollini contiene zuccheri; il PDF pre-gara dice no zucchero.",
+          "Incoerenza con PDF che indica piccoli pasti completi ed energia adeguata all’allenamento.",
+          "Tonno AsdoMar al naturale: consumo 100g/giorno per due giorni; il tonno a pinne gialle è classificato FDA come Good Choice (mercurio). Verificare consumo con il medico e preferire varietà più basse in mercurio quando opportuno.",
+          "L’aumento del sodio non autorizza carico o successiva deplezione sodica né modifiche idriche automatiche."
+        ],
+        "calcolo_sodio_incompleto_per": [
+          "sodio acqua potabile",
+          "sale aggiunto",
+          "sodio integratori e altri ingredienti",
+          "variabilità carne/pane"
+        ],
+        "verifica_basso_residuo": {
+          "soglia_genitore_g": 4,
+          "stima_fibre_con_arachidi_g": 5.18,
+          "esito": "NON CONFORME al limite richiesto di 4g: 5,18g fibre anche con sostituzione pollo-tonno."
+        },
+        "nota_scatoletta_tonno_110g": {
+          "peso_sgocciolato_confezione_g": 110,
+          "usati_pranzo_g": 50,
+          "usati_cena_g": 50,
+          "totale_consumato_g": 100,
+          "residuo_g": 10,
+          "sodio_intrinseco_stimato_da_tonno_mg": 520
+        },
+        "differenze_da_versione_11_1": {
+          "calorie_kcal": 0.0,
+          "carboidrati_g": 0.0,
+          "proteine_g": -0.3,
+          "grassi_g": 0.1,
+          "fibre_g": 0.0,
+          "sodio_alimenti_mg_stimato": 487.0
+        }
+      }
+    },
+    {
+      "date": "2026-11-22",
+      "title": "nuovo menu comunicato dal genitore; dal 21 basso residuo documentale",
+      "lines": [
+        "Colazione: Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età) 30 g",
+        "Merenda Mattina: EnerZona Frollini cacao intenso, 2 pezzi circa 12g 12 g",
+        "Pranzo: pasta secca a crudo 50 g + petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g 50 g + tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta 50 g + olio EVO 15 g",
+        "Merenda Pomeriggio: arachidi NON salate: variante base 5 g",
+        "Cena: petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g 50 g + tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta 50 g + pane comune CON crosta NON bianco; profilo stimato 30 g + olio EVO 15 g",
+        "STIMA NON CERTIFICATA: calorie_kcal: 907.27, carboidrati_g: 56.66, proteine_g: 82.41, grassi_g: 37.86, fibre_g: 5.18, sodio_alimenti_mg_stimato: 838.06",
+        "Stato: Sostituzione richiesta 50g pollo + 50g tonno per pasto: calcoli aggiornati, NON validata come dieta pediatrica/pre-pesata."
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 907.27,
+        "carboidrati_g": 56.66,
+        "proteine_g": 82.41,
+        "grassi_g": 37.86,
+        "fibre_g": 5.18,
+        "sodio_alimenti_mg_stimato": 838.06
+      },
+      "stato": "Sostituzione richiesta 50g pollo + 50g tonno per pasto: calcoli aggiornati, NON validata come dieta pediatrica/pre-pesata.",
+      "menu_base_dettaglio_ricalcolo": [
+        {
+          "pasto": "colazione",
+          "alimenti": [
+            {
+              "alimento": "egg",
+              "grammi": 30,
+              "descrizione": "Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età)"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 97.0,
+            "carboidrati_g": 0.54,
+            "proteine_g": 22.5,
+            "grassi_g": 0.27,
+            "fibre_g": 1.05,
+            "sodio_alimenti_mg_stimato": 108.0
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_mattina",
+          "alimenti": [
+            {
+              "alimento": "frollini",
+              "grammi": 12,
+              "descrizione": "EnerZona Frollini cacao intenso, 2 pezzi circa 12g"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 53.52,
+            "carboidrati_g": 4.92,
+            "proteine_g": 3.36,
+            "grassi_g": 2.04,
+            "fibre_g": 1.01,
+            "sodio_alimenti_mg_stimato": 24.96
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "pranzo",
+          "alimenti": [
+            {
+              "alimento": "pasta",
+              "grammi": 50,
+              "descrizione": "pasta secca a crudo"
+            },
+            {
+              "alimento": "pollo",
+              "grammi": 50,
+              "descrizione": "petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g"
+            },
+            {
+              "alimento": "tonno",
+              "grammi": 50,
+              "descrizione": "tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio EVO"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 413.0,
+            "carboidrati_g": 36.0,
+            "proteine_g": 29.4,
+            "grassi_g": 16.6,
+            "fibre_g": 1.5,
+            "sodio_alimenti_mg_stimato": 278.5
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "merenda_pomeriggio",
+          "alimenti": [
+            {
+              "alimento": "arachidi",
+              "grammi": 5,
+              "descrizione": "arachidi NON salate: variante base"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 29.25,
+            "carboidrati_g": 0.8,
+            "proteine_g": 1.3,
+            "grassi_g": 2.5,
+            "fibre_g": 0.42,
+            "sodio_alimenti_mg_stimato": 0.1
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "cena",
+          "alimenti": [
+            {
+              "alimento": "pollo",
+              "grammi": 50,
+              "descrizione": "petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g"
+            },
+            {
+              "alimento": "tonno",
+              "grammi": 50,
+              "descrizione": "tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta"
+            },
+            {
+              "alimento": "pane_con_crosta_non_bianco_stima",
+              "grammi": 30,
+              "descrizione": "pane comune CON crosta NON bianco; profilo stimato"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio EVO"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 314.5,
+            "carboidrati_g": 14.4,
+            "proteine_g": 25.85,
+            "grassi_g": 16.45,
+            "fibre_g": 1.2,
+            "sodio_alimenti_mg_stimato": 426.5
+          },
+          "facoltativo": false
+        }
+      ],
+      "dati_aggiuntivi_v11_2": {
+        "variante_5g_mandorle": {
+          "pasto": {
+            "pasto": "merenda_pomeriggio",
+            "alimenti": [
+              {
+                "codice": "mandorle_stima",
+                "quantita_g": 5,
+                "descrizione": "mandorle non salate, variante alternativa"
+              }
+            ],
+            "stima_nutrizionale": {
+              "calorie_kcal": 28.95,
+              "carboidrati_g": 1.08,
+              "proteine_g": 1.06,
+              "grassi_g": 2.5,
+              "fibre_g": 0.62,
+              "sodio_alimenti_mg_stimato": 0.05
+            }
+          },
+          "differenza_nutrienti_sul_totale_giornaliero": {
+            "calorie_kcal": -0.3,
+            "carboidrati_g": 0.28,
+            "proteine_g": -0.24,
+            "grassi_g": 0.0,
+            "fibre_g": 0.2,
+            "sodio_alimenti_mg_stimato": -0.05
+          }
+        },
+        "avvertenze": [
+          "~900 kcal giornaliere stimate: valore estremamente basso per atleta di 13 anni; non validato.",
+          "Pane comune con crosta: etichetta/tipo non noto, sodio e fibre complessivi solo indicativi.",
+          "Le proteine Egg White sono controindicate sotto i 14 anni secondo produttore.",
+          "La merenda con due frollini contiene zuccheri; il PDF pre-gara dice no zucchero.",
+          "Incoerenza con PDF che indica piccoli pasti completi ed energia adeguata all’allenamento.",
+          "Tonno AsdoMar al naturale: consumo 100g/giorno per due giorni; il tonno a pinne gialle è classificato FDA come Good Choice (mercurio). Verificare consumo con il medico e preferire varietà più basse in mercurio quando opportuno.",
+          "L’aumento del sodio non autorizza carico o successiva deplezione sodica né modifiche idriche automatiche."
+        ],
+        "calcolo_sodio_incompleto_per": [
+          "sodio acqua potabile",
+          "sale aggiunto",
+          "sodio integratori e altri ingredienti",
+          "variabilità carne/pane"
+        ],
+        "verifica_basso_residuo": {
+          "soglia_genitore_g": 4,
+          "stima_fibre_con_arachidi_g": 5.18,
+          "esito": "NON CONFORME al limite richiesto di 4g: 5,18g fibre anche con sostituzione pollo-tonno."
+        },
+        "nota_scatoletta_tonno_110g": {
+          "peso_sgocciolato_confezione_g": 110,
+          "usati_pranzo_g": 50,
+          "usati_cena_g": 50,
+          "totale_consumato_g": 100,
+          "residuo_g": 10,
+          "sodio_intrinseco_stimato_da_tonno_mg": 520
+        },
+        "differenze_da_versione_11_1": {
+          "calorie_kcal": 0.0,
+          "carboidrati_g": 0.0,
+          "proteine_g": -0.3,
+          "grassi_g": 0.1,
+          "fibre_g": 0.0,
+          "sodio_alimenti_mg_stimato": 487.0
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "title": "pre-peso: restrizioni combinate richieste",
+      "lines": [
+        "SCENARIO NON ESECUTIVO: 23-24 novembre non hanno un menu approvato né totali convalidati.",
+        "Stato: SCENARI DI CALCOLO NON ESECUTIVI; non sono porzioni validate né una dieta da seguire"
+      ],
+      "macro_stimati_menu_base": null,
+      "stato": "SCENARI DI CALCOLO NON ESECUTIVI; non sono porzioni validate né una dieta da seguire",
+      "menu_base_dettaglio_ricalcolo": null,
+      "dati_aggiuntivi_v11_2": {
+        "requisiti_riferiti": {
+          "colazione": "Egg White 30g (integratore controindicato sotto i 14 anni)",
+          "merenda_mattutina": "2 frollini",
+          "pranzo": "100g pollo fresco, olio EVO 15g; richiesta fonte carboidrati pane azimo invece della pasta",
+          "merenda_pomeriggio": "5g arachidi o mandorle; eventuale quota carboidrati del pane spostata qui",
+          "cena": "100g pollo fresco, olio EVO 15g; nessuna fonte principale di carboidrati"
+        },
+        "scenari_non_esecutivi": {
+          "sostituzione_energetica_con_azimo": {
+            "pasti_dimostrativi_non_operativi": [
+              {
+                "pasto": "colazione",
+                "alimenti": [
+                  {
+                    "codice": "egg",
+                    "quantita_g": 30,
+                    "descrizione": "Egg White cacao"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 97.0,
+                  "carboidrati_g": 0.54,
+                  "proteine_g": 22.5,
+                  "grassi_g": 0.27,
+                  "fibre_g": 1.05,
+                  "sodio_alimenti_mg_stimato": 108.0
+                }
+              },
+              {
+                "pasto": "merenda_mattina",
+                "alimenti": [
+                  {
+                    "codice": "frollini",
+                    "quantita_g": 12,
+                    "descrizione": "2 frollini EnerZona"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 53.52,
+                  "carboidrati_g": 4.92,
+                  "proteine_g": 3.36,
+                  "grassi_g": 2.04,
+                  "fibre_g": 1.01,
+                  "sodio_alimenti_mg_stimato": 24.96
+                }
+              },
+              {
+                "pasto": "pranzo",
+                "alimenti": [
+                  {
+                    "codice": "pollo",
+                    "quantita_g": 100,
+                    "descrizione": "pollo"
+                  },
+                  {
+                    "codice": "olio",
+                    "quantita_g": 15,
+                    "descrizione": "olio"
+                  },
+                  {
+                    "codice": "azimo",
+                    "quantita_g": 47.47,
+                    "descrizione": "azimo, equivalenza teorica 50g pasta"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 413.01,
+                  "carboidrati_g": 35.6,
+                  "proteine_g": 28.64,
+                  "grassi_g": 16.56,
+                  "fibre_g": 2.71,
+                  "sodio_alimenti_mg_stimato": 38.93
+                }
+              },
+              {
+                "pasto": "merenda_pomeriggio",
+                "alimenti": [
+                  {
+                    "codice": "arachidi",
+                    "quantita_g": 5,
+                    "descrizione": "arachidi non salate"
+                  },
+                  {
+                    "codice": "azimo",
+                    "quantita_g": 21.2,
+                    "descrizione": "azimo, equivalenza teorica 30g pane"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 108.75,
+                  "carboidrati_g": 16.7,
+                  "proteine_g": 3.68,
+                  "grassi_g": 2.84,
+                  "fibre_g": 1.63,
+                  "sodio_alimenti_mg_stimato": 2.75
+                }
+              },
+              {
+                "pasto": "cena",
+                "alimenti": [
+                  {
+                    "codice": "pollo",
+                    "quantita_g": 100,
+                    "descrizione": "pollo"
+                  },
+                  {
+                    "codice": "olio",
+                    "quantita_g": 15,
+                    "descrizione": "olio"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 235.0,
+                  "carboidrati_g": 0.0,
+                  "proteine_g": 23.3,
+                  "grassi_g": 15.8,
+                  "fibre_g": 0.0,
+                  "sodio_alimenti_mg_stimato": 33.0
+                }
+              }
+            ],
+            "totali_teorici": {
+              "calorie_kcal": 907.28,
+              "carboidrati_g": 57.76,
+              "proteine_g": 81.48,
+              "grassi_g": 37.51,
+              "fibre_g": 6.4,
+              "sodio_alimenti_mg_stimato": 207.64
+            },
+            "verifica_fibre": {
+              "soglia_genitore_g": 4,
+              "superata": true
+            }
+          },
+          "variante_bio_jelly_invece_azimo_sostitutivo_pane": {
+            "pasti_dimostrativi_non_operativi": [
+              {
+                "pasto": "colazione",
+                "alimenti": [
+                  {
+                    "codice": "egg",
+                    "quantita_g": 30,
+                    "descrizione": "Egg White cacao"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 97.0,
+                  "carboidrati_g": 0.54,
+                  "proteine_g": 22.5,
+                  "grassi_g": 0.27,
+                  "fibre_g": 1.05,
+                  "sodio_alimenti_mg_stimato": 108.0
+                }
+              },
+              {
+                "pasto": "merenda_mattina",
+                "alimenti": [
+                  {
+                    "codice": "frollini",
+                    "quantita_g": 12,
+                    "descrizione": "2 frollini EnerZona"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 53.52,
+                  "carboidrati_g": 4.92,
+                  "proteine_g": 3.36,
+                  "grassi_g": 2.04,
+                  "fibre_g": 1.01,
+                  "sodio_alimenti_mg_stimato": 24.96
+                }
+              },
+              {
+                "pasto": "pranzo",
+                "alimenti": [
+                  {
+                    "codice": "pollo",
+                    "quantita_g": 100,
+                    "descrizione": "pollo"
+                  },
+                  {
+                    "codice": "olio",
+                    "quantita_g": 15,
+                    "descrizione": "olio"
+                  },
+                  {
+                    "codice": "azimo",
+                    "quantita_g": 47.47,
+                    "descrizione": "azimo, equivalenza teorica 50g pasta"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 413.01,
+                  "carboidrati_g": 35.6,
+                  "proteine_g": 28.64,
+                  "grassi_g": 16.56,
+                  "fibre_g": 2.71,
+                  "sodio_alimenti_mg_stimato": 38.93
+                }
+              },
+              {
+                "pasto": "merenda_pomeriggio",
+                "alimenti": [
+                  {
+                    "codice": "arachidi",
+                    "quantita_g": 5,
+                    "descrizione": "arachidi non salate"
+                  },
+                  {
+                    "codice": "jelly_bio_verificata",
+                    "quantita_g": 25,
+                    "descrizione": "Jelly BIO fragola-mirtillo, 25g (prodotto differente da standard)"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 113.25,
+                  "carboidrati_g": 21.3,
+                  "proteine_g": 1.43,
+                  "grassi_g": 2.5,
+                  "fibre_g": 1.07,
+                  "sodio_alimenti_mg_stimato": 11.1
+                }
+              },
+              {
+                "pasto": "cena",
+                "alimenti": [
+                  {
+                    "codice": "pollo",
+                    "quantita_g": 100,
+                    "descrizione": "pollo"
+                  },
+                  {
+                    "codice": "olio",
+                    "quantita_g": 15,
+                    "descrizione": "olio"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 235.0,
+                  "carboidrati_g": 0.0,
+                  "proteine_g": 23.3,
+                  "grassi_g": 15.8,
+                  "fibre_g": 0.0,
+                  "sodio_alimenti_mg_stimato": 33.0
+                }
+              }
+            ],
+            "totali_teorici": {
+              "calorie_kcal": 911.78,
+              "carboidrati_g": 62.36,
+              "proteine_g": 79.23,
+              "grassi_g": 37.17,
+              "fibre_g": 5.84,
+              "sodio_alimenti_mg_stimato": 215.99
+            },
+            "nota": "Bio 25g contiene 0,7g fibre dichiarate, ma anche zuccheri; non significa che la jelly standard abbia 0,7g. 25g bio non è identico per composizione ai 30g pane.",
+            "verifica_fibre": {
+              "soglia_genitore_g": 4,
+              "superata": true
+            }
+          },
+          "jelly_standard_fragola_mirtillo": {
+            "fibre_g": null,
+            "stato": "Non quantificabile da etichetta web; non attribuire fibra zero.",
+            "sale_g_per_25g": 0.12,
+            "sodio_mg_per_25g": 48
+          }
+        },
+        "giudizio_indipendente": [
+          "Entrambi gli scenari matematici superano 4g fibre.",
+          "Energia complessiva fortemente insufficiente per atleta tredicenne; non trasformare in piano.",
+          "Sodio totale reale non noto, impossibile certificare 600mg.",
+          "I limiti di fibra e sodio sono riferiti dal genitore, non specificati nel PDF originale.",
+          "Sostituire azimo con Jelly introduce zuccheri contro il divieto testuale del PDF."
+        ],
+        "esecuzione_autorizzata": false
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "title": "pre-peso: restrizioni combinate richieste",
+      "lines": [
+        "SCENARIO NON ESECUTIVO: 23-24 novembre non hanno un menu approvato né totali convalidati.",
+        "Stato: SCENARI DI CALCOLO NON ESECUTIVI; non sono porzioni validate né una dieta da seguire"
+      ],
+      "macro_stimati_menu_base": null,
+      "stato": "SCENARI DI CALCOLO NON ESECUTIVI; non sono porzioni validate né una dieta da seguire",
+      "menu_base_dettaglio_ricalcolo": null,
+      "dati_aggiuntivi_v11_2": {
+        "requisiti_riferiti": {
+          "colazione": "Egg White 30g (integratore controindicato sotto i 14 anni)",
+          "merenda_mattutina": "2 frollini",
+          "pranzo": "100g pollo fresco, olio EVO 15g; richiesta fonte carboidrati pane azimo invece della pasta",
+          "merenda_pomeriggio": "5g arachidi o mandorle; eventuale quota carboidrati del pane spostata qui",
+          "cena": "100g pollo fresco, olio EVO 15g; nessuna fonte principale di carboidrati"
+        },
+        "scenari_non_esecutivi": {
+          "sostituzione_energetica_con_azimo": {
+            "pasti_dimostrativi_non_operativi": [
+              {
+                "pasto": "colazione",
+                "alimenti": [
+                  {
+                    "codice": "egg",
+                    "quantita_g": 30,
+                    "descrizione": "Egg White cacao"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 97.0,
+                  "carboidrati_g": 0.54,
+                  "proteine_g": 22.5,
+                  "grassi_g": 0.27,
+                  "fibre_g": 1.05,
+                  "sodio_alimenti_mg_stimato": 108.0
+                }
+              },
+              {
+                "pasto": "merenda_mattina",
+                "alimenti": [
+                  {
+                    "codice": "frollini",
+                    "quantita_g": 12,
+                    "descrizione": "2 frollini EnerZona"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 53.52,
+                  "carboidrati_g": 4.92,
+                  "proteine_g": 3.36,
+                  "grassi_g": 2.04,
+                  "fibre_g": 1.01,
+                  "sodio_alimenti_mg_stimato": 24.96
+                }
+              },
+              {
+                "pasto": "pranzo",
+                "alimenti": [
+                  {
+                    "codice": "pollo",
+                    "quantita_g": 100,
+                    "descrizione": "pollo"
+                  },
+                  {
+                    "codice": "olio",
+                    "quantita_g": 15,
+                    "descrizione": "olio"
+                  },
+                  {
+                    "codice": "azimo",
+                    "quantita_g": 47.47,
+                    "descrizione": "azimo, equivalenza teorica 50g pasta"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 413.01,
+                  "carboidrati_g": 35.6,
+                  "proteine_g": 28.64,
+                  "grassi_g": 16.56,
+                  "fibre_g": 2.71,
+                  "sodio_alimenti_mg_stimato": 38.93
+                }
+              },
+              {
+                "pasto": "merenda_pomeriggio",
+                "alimenti": [
+                  {
+                    "codice": "arachidi",
+                    "quantita_g": 5,
+                    "descrizione": "arachidi non salate"
+                  },
+                  {
+                    "codice": "azimo",
+                    "quantita_g": 21.2,
+                    "descrizione": "azimo, equivalenza teorica 30g pane"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 108.75,
+                  "carboidrati_g": 16.7,
+                  "proteine_g": 3.68,
+                  "grassi_g": 2.84,
+                  "fibre_g": 1.63,
+                  "sodio_alimenti_mg_stimato": 2.75
+                }
+              },
+              {
+                "pasto": "cena",
+                "alimenti": [
+                  {
+                    "codice": "pollo",
+                    "quantita_g": 100,
+                    "descrizione": "pollo"
+                  },
+                  {
+                    "codice": "olio",
+                    "quantita_g": 15,
+                    "descrizione": "olio"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 235.0,
+                  "carboidrati_g": 0.0,
+                  "proteine_g": 23.3,
+                  "grassi_g": 15.8,
+                  "fibre_g": 0.0,
+                  "sodio_alimenti_mg_stimato": 33.0
+                }
+              }
+            ],
+            "totali_teorici": {
+              "calorie_kcal": 907.28,
+              "carboidrati_g": 57.76,
+              "proteine_g": 81.48,
+              "grassi_g": 37.51,
+              "fibre_g": 6.4,
+              "sodio_alimenti_mg_stimato": 207.64
+            },
+            "verifica_fibre": {
+              "soglia_genitore_g": 4,
+              "superata": true
+            }
+          },
+          "variante_bio_jelly_invece_azimo_sostitutivo_pane": {
+            "pasti_dimostrativi_non_operativi": [
+              {
+                "pasto": "colazione",
+                "alimenti": [
+                  {
+                    "codice": "egg",
+                    "quantita_g": 30,
+                    "descrizione": "Egg White cacao"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 97.0,
+                  "carboidrati_g": 0.54,
+                  "proteine_g": 22.5,
+                  "grassi_g": 0.27,
+                  "fibre_g": 1.05,
+                  "sodio_alimenti_mg_stimato": 108.0
+                }
+              },
+              {
+                "pasto": "merenda_mattina",
+                "alimenti": [
+                  {
+                    "codice": "frollini",
+                    "quantita_g": 12,
+                    "descrizione": "2 frollini EnerZona"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 53.52,
+                  "carboidrati_g": 4.92,
+                  "proteine_g": 3.36,
+                  "grassi_g": 2.04,
+                  "fibre_g": 1.01,
+                  "sodio_alimenti_mg_stimato": 24.96
+                }
+              },
+              {
+                "pasto": "pranzo",
+                "alimenti": [
+                  {
+                    "codice": "pollo",
+                    "quantita_g": 100,
+                    "descrizione": "pollo"
+                  },
+                  {
+                    "codice": "olio",
+                    "quantita_g": 15,
+                    "descrizione": "olio"
+                  },
+                  {
+                    "codice": "azimo",
+                    "quantita_g": 47.47,
+                    "descrizione": "azimo, equivalenza teorica 50g pasta"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 413.01,
+                  "carboidrati_g": 35.6,
+                  "proteine_g": 28.64,
+                  "grassi_g": 16.56,
+                  "fibre_g": 2.71,
+                  "sodio_alimenti_mg_stimato": 38.93
+                }
+              },
+              {
+                "pasto": "merenda_pomeriggio",
+                "alimenti": [
+                  {
+                    "codice": "arachidi",
+                    "quantita_g": 5,
+                    "descrizione": "arachidi non salate"
+                  },
+                  {
+                    "codice": "jelly_bio_verificata",
+                    "quantita_g": 25,
+                    "descrizione": "Jelly BIO fragola-mirtillo, 25g (prodotto differente da standard)"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 113.25,
+                  "carboidrati_g": 21.3,
+                  "proteine_g": 1.43,
+                  "grassi_g": 2.5,
+                  "fibre_g": 1.07,
+                  "sodio_alimenti_mg_stimato": 11.1
+                }
+              },
+              {
+                "pasto": "cena",
+                "alimenti": [
+                  {
+                    "codice": "pollo",
+                    "quantita_g": 100,
+                    "descrizione": "pollo"
+                  },
+                  {
+                    "codice": "olio",
+                    "quantita_g": 15,
+                    "descrizione": "olio"
+                  }
+                ],
+                "stima_nutrizionale": {
+                  "calorie_kcal": 235.0,
+                  "carboidrati_g": 0.0,
+                  "proteine_g": 23.3,
+                  "grassi_g": 15.8,
+                  "fibre_g": 0.0,
+                  "sodio_alimenti_mg_stimato": 33.0
+                }
+              }
+            ],
+            "totali_teorici": {
+              "calorie_kcal": 911.78,
+              "carboidrati_g": 62.36,
+              "proteine_g": 79.23,
+              "grassi_g": 37.17,
+              "fibre_g": 5.84,
+              "sodio_alimenti_mg_stimato": 215.99
+            },
+            "nota": "Bio 25g contiene 0,7g fibre dichiarate, ma anche zuccheri; non significa che la jelly standard abbia 0,7g. 25g bio non è identico per composizione ai 30g pane.",
+            "verifica_fibre": {
+              "soglia_genitore_g": 4,
+              "superata": true
+            }
+          },
+          "jelly_standard_fragola_mirtillo": {
+            "fibre_g": null,
+            "stato": "Non quantificabile da etichetta web; non attribuire fibra zero.",
+            "sale_g_per_25g": 0.12,
+            "sodio_mg_per_25g": 48
+          }
+        },
+        "giudizio_indipendente": [
+          "Entrambi gli scenari matematici superano 4g fibre.",
+          "Energia complessiva fortemente insufficiente per atleta tredicenne; non trasformare in piano.",
+          "Sodio totale reale non noto, impossibile certificare 600mg.",
+          "I limiti di fibra e sodio sono riferiti dal genitore, non specificati nel PDF originale.",
+          "Sostituire azimo con Jelly introduce zuccheri contro il divieto testuale del PDF."
+        ],
+        "esecuzione_autorizzata": false
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "title": "pesata e rifornimento post peso (come v10)",
+      "lines": [
+        "Colazione Pre Peso Facoltativa: egg 15 g + azimo 20 g",
+        "Merenda Mattina Pre Peso Facoltativa: azimo 15 g + egg 15 g",
+        "Pranzo: pasta 58 g + pollo 100 g + olio 15 g",
+        "Spuntino Post Peso 1: patate 140 g",
+        "Spuntino Post Peso 2: azimo 28 g",
+        "Cena: pasta 55 g + manzo 100 g + olio 15 g",
+        "STIMA NON CERTIFICATA: calorie_kcal: 1115.08, carboidrati_g: 126.16, proteine_g: 65.38, grassi_g: 37.58, fibre_g: 7.51, sodio_alimenti_mg_stimato: 101.42",
+        "Stato: trascritto dalla bozza v10; non validato né esecutivo"
+      ],
+      "macro_stimati_menu_base": {
+        "calorie_kcal": 1115.08,
+        "carboidrati_g": 126.16,
+        "proteine_g": 65.38,
+        "grassi_g": 37.58,
+        "fibre_g": 7.51,
+        "sodio_alimenti_mg_stimato": 101.42
+      },
+      "stato": "trascritto dalla bozza v10; non validato né esecutivo",
+      "menu_base_dettaglio_ricalcolo": [
+        {
+          "pasto": "colazione_pre_peso_facoltativa",
+          "alimenti": [
+            {
+              "alimento": "egg",
+              "grammi": 15,
+              "descrizione": "egg"
+            },
+            {
+              "alimento": "azimo",
+              "grammi": 20,
+              "descrizione": "azimo"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 123.5,
+            "carboidrati_g": 15.27,
+            "proteine_g": 13.5,
+            "grassi_g": 0.46,
+            "fibre_g": 1.67,
+            "sodio_alimenti_mg_stimato": 56.5
+          },
+          "facoltativo": true
+        },
+        {
+          "pasto": "merenda_mattina_pre_peso_facoltativa",
+          "alimenti": [
+            {
+              "alimento": "azimo",
+              "grammi": 15,
+              "descrizione": "azimo"
+            },
+            {
+              "alimento": "egg",
+              "grammi": 15,
+              "descrizione": "egg"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 104.75,
+            "carboidrati_g": 11.52,
+            "proteine_g": 12.94,
+            "grassi_g": 0.38,
+            "fibre_g": 1.38,
+            "sodio_alimenti_mg_stimato": 55.88
+          },
+          "facoltativo": true
+        },
+        {
+          "pasto": "pranzo",
+          "alimenti": [
+            {
+              "alimento": "pasta",
+              "grammi": 58,
+              "descrizione": "pasta"
+            },
+            {
+              "alimento": "pollo",
+              "grammi": 100,
+              "descrizione": "pollo"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 441.48,
+            "carboidrati_g": 41.76,
+            "proteine_g": 30.55,
+            "grassi_g": 16.67,
+            "fibre_g": 1.74,
+            "sodio_alimenti_mg_stimato": 35.32
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "spuntino_post_peso_1",
+          "alimenti": [
+            {
+              "alimento": "patate",
+              "grammi": 140,
+              "descrizione": "patate"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 107.8,
+            "carboidrati_g": 23.8,
+            "proteine_g": 2.8,
+            "grassi_g": 0.14,
+            "fibre_g": 2.52,
+            "sodio_alimenti_mg_stimato": 8.4
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "spuntino_post_peso_2",
+          "alimenti": [
+            {
+              "alimento": "azimo",
+              "grammi": 28,
+              "descrizione": "azimo"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 105.0,
+            "carboidrati_g": 21.0,
+            "proteine_g": 3.15,
+            "grassi_g": 0.45,
+            "fibre_g": 1.6,
+            "sodio_alimenti_mg_stimato": 3.5
+          },
+          "facoltativo": false
+        },
+        {
+          "pasto": "cena",
+          "alimenti": [
+            {
+              "alimento": "pasta",
+              "grammi": 55,
+              "descrizione": "pasta"
+            },
+            {
+              "alimento": "manzo",
+              "grammi": 100,
+              "descrizione": "manzo"
+            },
+            {
+              "alimento": "olio",
+              "grammi": 15,
+              "descrizione": "olio"
+            }
+          ],
+          "totali_pasto": {
+            "calorie_kcal": 460.8,
+            "carboidrati_g": 39.6,
+            "proteine_g": 28.88,
+            "grassi_g": 20.32,
+            "fibre_g": 1.65,
+            "sodio_alimenti_mg_stimato": 54.2
+          },
+          "facoltativo": false
+        }
+      ],
+      "dati_aggiuntivi_v11_2": {
+        "totali_stimati_con_facoltativi": {
+          "calorie_kcal": 1343.33,
+          "carboidrati_g": 152.95,
+          "proteine_g": 91.82,
+          "grassi_g": 38.42,
+          "fibre_g": 10.56,
+          "sodio_alimenti_mg_stimato": 213.8
+        },
+        "avvertenze": [
+          "Pasti prima e dopo peso da stabilire in base all’orario reale; non usare digiuno o disidratazione per ridurre il peso.",
+          "Nei conteggi non è incluso sale di rifornimento, acqua, integratori o eventuale gara il giorno successivo.",
+          "Il menu base senza facoltativi è stimato in circa 1115 kcal, non 1200kcal.",
+          "PDF raccomanda ripristino di liquidi e carboidrati dopo il peso: pianificazione individuale medica."
+        ]
+      }
     }
   ],
-  "uso": "Documento per analisi e confronto con nutrizionista e medico sportivo. Non autorizza l’esecuzione di riduzioni di liquidi, sodio, carboidrati o calorie e non costituisce una prescrizione.",
   "regole_riferite_dal_genitore": {
     "inizio_nuova_dieta": "2026-11-20",
     "limite_fibre_g_dal_21_come_riferito": 4,
@@ -36,284 +1751,6 @@
     "verdure_fino_al_20": "100 g a pranzo e 100 g a cena nei giorni 18, 19, 20 novembre inclusi; non richieste dal 21 in poi.",
     "sostituzione_21_22": "A pranzo e cena 50g petto pollo fresco a crudo + 50g tonno AsdoMar al naturale sgocciolato in sostituzione di 100g pollo; 100g tonno/die, 10g residui dalla confezione da 110g sgocciolati."
   },
-  "etichette_e_stime": {
-    "valori_nutrizionali_per_100g": {
-      "macine": {
-        "kcal": 454,
-        "carboidrati_g": 66,
-        "proteine_g": 7.2,
-        "grassi_g": 17.5,
-        "fibre_g": 2.8,
-        "sodio_mg": 220
-      },
-      "yomo": {
-        "kcal": 84,
-        "carboidrati_g": 14,
-        "proteine_g": 2.8,
-        "grassi_g": 1.6,
-        "fibre_g": 0,
-        "sodio_mg": 45
-      },
-      "crackers": {
-        "kcal": 438,
-        "carboidrati_g": 65.9,
-        "proteine_g": 14.5,
-        "grassi_g": 13,
-        "fibre_g": 5.3,
-        "sodio_mg": 1050
-      },
-      "bresaola": {
-        "kcal": 151,
-        "carboidrati_g": 0,
-        "proteine_g": 32,
-        "grassi_g": 2.5,
-        "fibre_g": 0,
-        "sodio_mg": 1700
-      },
-      "frollini": {
-        "kcal": 446,
-        "carboidrati_g": 41,
-        "proteine_g": 28,
-        "grassi_g": 17,
-        "fibre_g": 8.4,
-        "sodio_mg": 208
-      },
-      "bites": {
-        "kcal": 437,
-        "carboidrati_g": 12,
-        "proteine_g": 35,
-        "grassi_g": 23,
-        "fibre_g": 24,
-        "sodio_mg": 224
-      },
-      "biraghino": {
-        "kcal": 418,
-        "carboidrati_g": 0,
-        "proteine_g": 37,
-        "grassi_g": 30,
-        "fibre_g": 0,
-        "sodio_mg": 720
-      },
-      "pasta": {
-        "kcal": 356,
-        "carboidrati_g": 72,
-        "proteine_g": 12.5,
-        "grassi_g": 1.5,
-        "fibre_g": 3,
-        "sodio_mg": 4
-      },
-      "passata": {
-        "kcal": 29,
-        "carboidrati_g": 4.6,
-        "proteine_g": 1.4,
-        "grassi_g": 0.2,
-        "fibre_g": 1.4,
-        "sodio_mg": 20
-      },
-      "parmigiano": {
-        "kcal": 402,
-        "carboidrati_g": 0,
-        "proteine_g": 32,
-        "grassi_g": 29.7,
-        "fibre_g": 0,
-        "sodio_mg": 640
-      },
-      "pollo": {
-        "kcal": 100,
-        "carboidrati_g": 0,
-        "proteine_g": 23.3,
-        "grassi_g": 0.8,
-        "fibre_g": 0,
-        "sodio_mg": 33
-      },
-      "tacchino": {
-        "kcal": 107,
-        "carboidrati_g": 0,
-        "proteine_g": 24,
-        "grassi_g": 1.2,
-        "fibre_g": 0,
-        "sodio_mg": 52
-      },
-      "manzo": {
-        "kcal": 130,
-        "carboidrati_g": 0,
-        "proteine_g": 22,
-        "grassi_g": 4.5,
-        "fibre_g": 0,
-        "sodio_mg": 52
-      },
-      "vitello": {
-        "kcal": 110,
-        "carboidrati_g": 0,
-        "proteine_g": 20.7,
-        "grassi_g": 2.8,
-        "fibre_g": 0,
-        "sodio_mg": 70
-      },
-      "tonno": {
-        "kcal": 100,
-        "carboidrati_g": 0,
-        "proteine_g": 23,
-        "grassi_g": 0.9,
-        "fibre_g": 0,
-        "sodio_mg": 520
-      },
-      "verdura": {
-        "kcal": 25,
-        "carboidrati_g": 4,
-        "proteine_g": 1.5,
-        "grassi_g": 0.3,
-        "fibre_g": 2,
-        "sodio_mg": 20
-      },
-      "olio": {
-        "kcal": 900,
-        "carboidrati_g": 0,
-        "proteine_g": 0,
-        "grassi_g": 100,
-        "fibre_g": 0,
-        "sodio_mg": 0
-      },
-      "banana": {
-        "kcal": 89,
-        "carboidrati_g": 22.8,
-        "proteine_g": 1.1,
-        "grassi_g": 0.3,
-        "fibre_g": 2.6,
-        "sodio_mg": 1
-      },
-      "patate": {
-        "kcal": 77,
-        "carboidrati_g": 17,
-        "proteine_g": 2,
-        "grassi_g": 0.1,
-        "fibre_g": 1.8,
-        "sodio_mg": 6
-      },
-      "whey": {
-        "kcal": 380,
-        "carboidrati_g": 5.3,
-        "proteine_g": 73.3,
-        "grassi_g": 6.67,
-        "fibre_g": 0.0,
-        "sodio_mg": 306.6666666666667
-      },
-      "egg": {
-        "kcal": 323.33333333333337,
-        "carboidrati_g": 1.8000000000000003,
-        "proteine_g": 75.0,
-        "grassi_g": 0.9000000000000001,
-        "fibre_g": 3.5000000000000004,
-        "sodio_mg": 360.0
-      },
-      "azimo": {
-        "kcal": 375,
-        "carboidrati_g": 75,
-        "proteine_g": 11.25,
-        "grassi_g": 1.6,
-        "fibre_g": 5.7,
-        "sodio_mg": 12.5
-      },
-      "arachidi": {
-        "kcal": 585,
-        "carboidrati_g": 16,
-        "proteine_g": 26,
-        "grassi_g": 50,
-        "fibre_g": 8.5,
-        "sodio_mg": 2
-      },
-      "rigamonti": {
-        "kcal": 242,
-        "carboidrati_g": 1,
-        "proteine_g": 38,
-        "grassi_g": 9.5,
-        "fibre_g": 0,
-        "sodio_mg": 2200
-      },
-      "pane_bianco": {
-        "kcal": 265,
-        "carboidrati_g": 50,
-        "proteine_g": 8.5,
-        "grassi_g": 2.5,
-        "fibre_g": 2.5,
-        "sodio_mg": 450
-      },
-      "fruit_jelly": {
-        "kcal": 336,
-        "carboidrati_g": 84,
-        "proteine_g": 0,
-        "grassi_g": 0,
-        "fibre_g": 0,
-        "sodio_mg": 192
-      },
-      "pane_con_crosta_non_bianco_stima": {
-        "kcal": 265,
-        "carboidrati_g": 48.0,
-        "proteine_g": 9.0,
-        "grassi_g": 2.0,
-        "fibre_g": 4.0,
-        "sodio_mg": 500
-      },
-      "mandorle_stima": {
-        "kcal": 579,
-        "carboidrati_g": 21.6,
-        "proteine_g": 21.2,
-        "grassi_g": 49.9,
-        "fibre_g": 12.5,
-        "sodio_mg": 1
-      },
-      "jelly_bio_verificata": {
-        "kcal": 336,
-        "carboidrati_g": 82,
-        "proteine_g": 0.5,
-        "grassi_g": 0,
-        "fibre_g": 2.6,
-        "sodio_mg": 44
-      },
-      "jelly_normale_fibre_ignote": {
-        "kcal": 336,
-        "carboidrati_g": 84,
-        "proteine_g": 0,
-        "grassi_g": 0,
-        "fibre_g": null,
-        "sodio_mg": 48
-      }
-    },
-    "provenienza": "Valori v10 per la maggior parte degli alimenti; frollini controllati contro EnerZona cacao intenso; pane non bianco e mandorle sono valori indicativi da sostituire con etichette / tipo di pane esatto.",
-    "limiti": {
-      "pane_con_crosta_non_bianco_stima": "Il pane non è quello bianco del precedente JSON: profilo provvisorio per consentire il confronto, non valore misurato. Fibre e sodio possono differire molto.",
-      "jelly_normale_fibre_ignote": "Decathlon non pubblica fibra nella tabella consultata della versione standard (non equivale a zero).",
-      "jelly_bio_verificata": "Versione BIO diversa: 0,7 g fibre per confezione 25g; sodio 44mg circa da sale 0,11g; verificare confezione esatta.",
-      "egg": "Il produttore Ultimate Italia riporta controindicazione sotto i 14 anni. Valori nutrizionali ripresi dalla bozza e da confermare con etichetta della confezione.",
-      "stima_sodio": "Senza acqua, Polase, BCAA, prodotti reali, sale cucina o preparazione mensa, non è sodio totale."
-    }
-  },
-  "fonti_web_verificate": [
-    {
-      "url": "https://www.ultimate-italia.com/prodotto/egg-white/",
-      "nota": "Controindicato sotto 14 anni; dose dichiarata dal produttore non equivale a prescrizione pediatrica"
-    },
-    {
-      "url": "https://www.enervit.com/it/catalog/product/view/id/4626/s/frollini-balance-cacao-intenso/",
-      "nota": "Frollini cacao intenso: contiene zucchero di canna e fruttosio"
-    },
-    {
-      "url": "https://www.decathlon.it/p/jelly-di-frutta-energetica-fragola-e-mirtillo-rosso-5-pz/311064/g42m8561923",
-      "nota": "Jelly standard 25g 84 kcal, sale 0,12g, fibra non dichiarata nella tabella online"
-    },
-    {
-      "url": "https://www.decathlon.ch/it/p/jelly-di-frutta-energetica-bio-fragola-e-mirtillo-rosso-5-pz/338204/m8734960",
-      "nota": "Jelly BIO 25g 84kcal, fibre 0,7g, sale 0,11g"
-    },
-    {
-      "url": "https://publications.aap.org/pediatrics/article/140/3/e20171871/38384/Promotion-of-Healthy-Weight-Control-Practices-in",
-      "nota": "AAP: non raccomandato peso rapido attraverso disidratazione in adolescenti, attenzione a fabbisogno crescita"
-    },
-    {
-      "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish",
-      "nota": "Tonno yellowfin in Good Choices (maggiore mercurio rispetto al tonno light/skipjack Best Choices); particolare prudenza nei minori."
-    }
-  ],
   "prescrizioni_pdf_esposte_come_documentazione_non_esecutiva": {
     "stato": "TRASCRIZIONE RIASSUNTIVA, DA NON APPLICARE AUTOMATICAMENTE",
     "pagina_1_2": [
@@ -343,1656 +1780,6 @@
       "prescrizione_pediatrica_individuale_verificata": false
     },
     "avviso": "Acqua e sale sono riportati qui come contenuto del PDF, non come calendario di assunzione da seguire. Modifiche rapide dell’idratazione possono essere pericolose."
-  },
-  "giorni": [
-    {
-      "data": "2026-11-18",
-      "fase": "storico v10 senza modifiche dal genitore",
-      "stato": "trascritto per continuità; non dichiarato eseguito né autorizzato",
-      "pasti": [
-        {
-          "pasto": "colazione",
-          "alimenti": [
-            {
-              "codice": "frollini",
-              "quantita_g": 24,
-              "descrizione": "frollini"
-            },
-            {
-              "codice": "yomo",
-              "quantita_g": 90,
-              "descrizione": "yomo"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 182.64,
-            "carboidrati_g": 22.44,
-            "proteine_g": 9.24,
-            "grassi_g": 5.52,
-            "fibre_g": 2.02,
-            "sodio_alimenti_mg_stimato": 90.42
-          }
-        },
-        {
-          "pasto": "merenda_mattina",
-          "alimenti": [
-            {
-              "codice": "crackers",
-              "quantita_g": 31.25,
-              "descrizione": "crackers"
-            },
-            {
-              "codice": "biraghino",
-              "quantita_g": 16.67,
-              "descrizione": "biraghino"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 206.56,
-            "carboidrati_g": 20.59,
-            "proteine_g": 10.7,
-            "grassi_g": 9.06,
-            "fibre_g": 1.66,
-            "sodio_alimenti_mg_stimato": 448.15
-          }
-        },
-        {
-          "pasto": "pranzo",
-          "alimenti": [
-            {
-              "codice": "pasta",
-              "quantita_g": 26.6,
-              "descrizione": "pasta"
-            },
-            {
-              "codice": "passata",
-              "quantita_g": 100,
-              "descrizione": "passata"
-            },
-            {
-              "codice": "parmigiano",
-              "quantita_g": 5,
-              "descrizione": "parmigiano"
-            },
-            {
-              "codice": "tacchino",
-              "quantita_g": 100,
-              "descrizione": "tacchino"
-            },
-            {
-              "codice": "verdura",
-              "quantita_g": 100,
-              "descrizione": "verdura"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 410.8,
-            "carboidrati_g": 27.75,
-            "proteine_g": 31.82,
-            "grassi_g": 18.58,
-            "fibre_g": 4.2,
-            "sodio_alimenti_mg_stimato": 125.06
-          }
-        },
-        {
-          "pasto": "merenda_pomeriggio",
-          "alimenti": [
-            {
-              "codice": "banana",
-              "quantita_g": 66.6,
-              "descrizione": "banana"
-            },
-            {
-              "codice": "whey",
-              "quantita_g": 10,
-              "descrizione": "whey"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 97.27,
-            "carboidrati_g": 15.71,
-            "proteine_g": 8.06,
-            "grassi_g": 0.87,
-            "fibre_g": 1.73,
-            "sodio_alimenti_mg_stimato": 31.33
-          }
-        },
-        {
-          "pasto": "cena",
-          "alimenti": [
-            {
-              "codice": "pollo",
-              "quantita_g": 100,
-              "descrizione": "pollo"
-            },
-            {
-              "codice": "patate",
-              "quantita_g": 55.5,
-              "descrizione": "patate"
-            },
-            {
-              "codice": "verdura",
-              "quantita_g": 100,
-              "descrizione": "verdura"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 302.74,
-            "carboidrati_g": 13.44,
-            "proteine_g": 25.91,
-            "grassi_g": 16.16,
-            "fibre_g": 3.0,
-            "sodio_alimenti_mg_stimato": 56.33
-          }
-        }
-      ],
-      "totali_stimati": {
-        "calorie_kcal": 1200.01,
-        "carboidrati_g": 99.93,
-        "proteine_g": 85.73,
-        "grassi_g": 50.19,
-        "fibre_g": 12.61,
-        "sodio_alimenti_mg_stimato": 751.29
-      },
-      "note": [
-        "Mantenuto dalla bozza precedente per il 18-19.",
-        "Il 19 compare integratore Egg White, controindicato secondo produttore sotto i 14 anni.",
-        "Non sommare alternative della vecchia v10, ora decadute."
-      ]
-    },
-    {
-      "data": "2026-11-19",
-      "fase": "storico v10 senza modifiche dal genitore",
-      "stato": "trascritto per continuità; non dichiarato eseguito né autorizzato",
-      "pasti": [
-        {
-          "pasto": "colazione",
-          "alimenti": [
-            {
-              "codice": "egg",
-              "quantita_g": 30.0,
-              "descrizione": "egg"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 97.0,
-            "carboidrati_g": 0.54,
-            "proteine_g": 22.5,
-            "grassi_g": 0.27,
-            "fibre_g": 1.05,
-            "sodio_alimenti_mg_stimato": 108.0
-          }
-        },
-        {
-          "pasto": "merenda_mattina",
-          "alimenti": [
-            {
-              "codice": "egg",
-              "quantita_g": 15.0,
-              "descrizione": "egg"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 48.5,
-            "carboidrati_g": 0.27,
-            "proteine_g": 11.25,
-            "grassi_g": 0.14,
-            "fibre_g": 0.53,
-            "sodio_alimenti_mg_stimato": 54.0
-          }
-        },
-        {
-          "pasto": "pranzo",
-          "alimenti": [
-            {
-              "codice": "pasta",
-              "quantita_g": 33.68,
-              "descrizione": "pasta"
-            },
-            {
-              "codice": "pollo",
-              "quantita_g": 100.0,
-              "descrizione": "pollo"
-            },
-            {
-              "codice": "verdura",
-              "quantita_g": 100.0,
-              "descrizione": "verdura"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15.0,
-              "descrizione": "olio"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 379.9,
-            "carboidrati_g": 28.25,
-            "proteine_g": 29.01,
-            "grassi_g": 16.61,
-            "fibre_g": 3.01,
-            "sodio_alimenti_mg_stimato": 54.35
-          }
-        },
-        {
-          "pasto": "merenda_pomeriggio",
-          "alimenti": [
-            {
-              "codice": "banana",
-              "quantita_g": 64.1,
-              "descrizione": "banana"
-            },
-            {
-              "codice": "azimo",
-              "quantita_g": 55.3,
-              "descrizione": "azimo"
-            },
-            {
-              "codice": "arachidi",
-              "quantita_g": 10.0,
-              "descrizione": "arachidi"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 322.92,
-            "carboidrati_g": 57.69,
-            "proteine_g": 9.53,
-            "grassi_g": 6.08,
-            "fibre_g": 5.67,
-            "sodio_alimenti_mg_stimato": 7.75
-          }
-        },
-        {
-          "pasto": "cena",
-          "alimenti": [
-            {
-              "codice": "manzo",
-              "quantita_g": 100.0,
-              "descrizione": "manzo"
-            },
-            {
-              "codice": "patate",
-              "quantita_g": 80.1,
-              "descrizione": "patate"
-            },
-            {
-              "codice": "verdura",
-              "quantita_g": 100.0,
-              "descrizione": "verdura"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15.0,
-              "descrizione": "olio"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 351.68,
-            "carboidrati_g": 17.62,
-            "proteine_g": 25.1,
-            "grassi_g": 19.88,
-            "fibre_g": 3.44,
-            "sodio_alimenti_mg_stimato": 76.81
-          }
-        }
-      ],
-      "totali_stimati": {
-        "calorie_kcal": 1200.0,
-        "carboidrati_g": 104.37,
-        "proteine_g": 97.39,
-        "grassi_g": 42.98,
-        "fibre_g": 13.7,
-        "sodio_alimenti_mg_stimato": 300.91
-      },
-      "note": [
-        "Mantenuto dalla bozza precedente per il 18-19.",
-        "Il 19 compare integratore Egg White, controindicato secondo produttore sotto i 14 anni.",
-        "Non sommare alternative della vecchia v10, ora decadute."
-      ]
-    },
-    {
-      "data": "2026-11-20",
-      "fase": "nuovo menu comunicato dal genitore; dal 21 basso residuo documentale",
-      "stato": "menu riferito, analizzato ma non approvato come piano calorico pediatrico",
-      "pasti": [
-        {
-          "pasto": "colazione",
-          "alimenti": [
-            {
-              "codice": "egg",
-              "quantita_g": 30,
-              "descrizione": "Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età)"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 97.0,
-            "carboidrati_g": 0.54,
-            "proteine_g": 22.5,
-            "grassi_g": 0.27,
-            "fibre_g": 1.05,
-            "sodio_alimenti_mg_stimato": 108.0
-          }
-        },
-        {
-          "pasto": "merenda_mattina",
-          "alimenti": [
-            {
-              "codice": "frollini",
-              "quantita_g": 12,
-              "descrizione": "EnerZona Frollini cacao intenso, 2 pezzi circa 12g"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 53.52,
-            "carboidrati_g": 4.92,
-            "proteine_g": 3.36,
-            "grassi_g": 2.04,
-            "fibre_g": 1.01,
-            "sodio_alimenti_mg_stimato": 24.96
-          }
-        },
-        {
-          "pasto": "pranzo",
-          "alimenti": [
-            {
-              "codice": "pasta",
-              "quantita_g": 50,
-              "descrizione": "pasta secca a crudo"
-            },
-            {
-              "codice": "pollo",
-              "quantita_g": 100,
-              "descrizione": "petto pollo fresco peso a crudo"
-            },
-            {
-              "codice": "verdura",
-              "quantita_g": 100,
-              "descrizione": "verdure non specificate, 100 g (valori nutrizionali generici stimati; cottura e tipologia da specificare)"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio EVO"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 438.0,
-            "carboidrati_g": 40.0,
-            "proteine_g": 31.05,
-            "grassi_g": 16.85,
-            "fibre_g": 3.5,
-            "sodio_alimenti_mg_stimato": 55.0
-          }
-        },
-        {
-          "pasto": "merenda_pomeriggio",
-          "alimenti": [
-            {
-              "codice": "arachidi",
-              "quantita_g": 5,
-              "descrizione": "arachidi NON salate: variante base"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 29.25,
-            "carboidrati_g": 0.8,
-            "proteine_g": 1.3,
-            "grassi_g": 2.5,
-            "fibre_g": 0.42,
-            "sodio_alimenti_mg_stimato": 0.1
-          }
-        },
-        {
-          "pasto": "cena",
-          "alimenti": [
-            {
-              "codice": "pollo",
-              "quantita_g": 100,
-              "descrizione": "petto pollo fresco peso a crudo"
-            },
-            {
-              "codice": "pane_con_crosta_non_bianco_stima",
-              "quantita_g": 30,
-              "descrizione": "pane comune CON crosta NON bianco; profilo stimato"
-            },
-            {
-              "codice": "verdura",
-              "quantita_g": 100,
-              "descrizione": "verdure non specificate, 100 g (valori nutrizionali generici stimati; cottura e tipologia da specificare)"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio EVO"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 339.5,
-            "carboidrati_g": 18.4,
-            "proteine_g": 27.5,
-            "grassi_g": 16.7,
-            "fibre_g": 3.2,
-            "sodio_alimenti_mg_stimato": 203.0
-          }
-        }
-      ],
-      "totali_stimati_con_arachidi": {
-        "calorie_kcal": 957.27,
-        "carboidrati_g": 64.66,
-        "proteine_g": 85.71,
-        "grassi_g": 38.36,
-        "fibre_g": 9.18,
-        "sodio_alimenti_mg_stimato": 391.06
-      },
-      "variante_5g_mandorle": {
-        "pasto": {
-          "pasto": "merenda_pomeriggio",
-          "alimenti": [
-            {
-              "codice": "mandorle_stima",
-              "quantita_g": 5,
-              "descrizione": "mandorle non salate, variante alternativa"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 28.95,
-            "carboidrati_g": 1.08,
-            "proteine_g": 1.06,
-            "grassi_g": 2.5,
-            "fibre_g": 0.62,
-            "sodio_alimenti_mg_stimato": 0.05
-          }
-        },
-        "differenza_nutrienti_sul_totale_giornaliero": {
-          "calorie_kcal": -0.3,
-          "carboidrati_g": 0.28,
-          "proteine_g": -0.24,
-          "grassi_g": 0.0,
-          "fibre_g": 0.2,
-          "sodio_alimenti_mg_stimato": -0.05
-        }
-      },
-      "avvertenze": [
-        "~957 kcal giornaliere stimate includendo 200 g di verdure: apporto ancora estremamente basso per atleta di 13 anni; non validato.",
-        "Pane comune con crosta: etichetta/tipo non noto, sodio e fibre complessivi solo indicativi.",
-        "Le proteine Egg White sono controindicate sotto i 14 anni secondo produttore.",
-        "La merenda con due frollini contiene zuccheri; il PDF pre-gara dice no zucchero.",
-        "Incoerenza con PDF che indica piccoli pasti completi ed energia adeguata all’allenamento.",
-        "Verdure aggiunte per 100 g a pranzo e 100 g a cena, con stima generica di 25 kcal, 2 g fibre e 20 mg sodio per 100 g; valori reali dipendono dal tipo e dalla preparazione."
-      ],
-      "calcolo_sodio_incompleto_per": [
-        "sodio acqua potabile",
-        "sale aggiunto",
-        "sodio integratori e altri ingredienti",
-        "variabilità carne/pane"
-      ],
-      "nota_aggiornamento_verdure": "20 novembre: aggiunti 100 g verdure a pranzo e 100 g a cena, senza rimuovere altri alimenti. 18 e 19 avevano già entrambe le porzioni. Il 21-25 non è modificato."
-    },
-    {
-      "data": "2026-11-21",
-      "fase": "nuovo menu comunicato dal genitore; dal 21 basso residuo documentale",
-      "stato": "Sostituzione richiesta 50g pollo + 50g tonno per pasto: calcoli aggiornati, NON validata come dieta pediatrica/pre-pesata.",
-      "pasti": [
-        {
-          "pasto": "colazione",
-          "alimenti": [
-            {
-              "codice": "egg",
-              "quantita_g": 30,
-              "descrizione": "Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età)"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 97.0,
-            "carboidrati_g": 0.54,
-            "proteine_g": 22.5,
-            "grassi_g": 0.27,
-            "fibre_g": 1.05,
-            "sodio_alimenti_mg_stimato": 108.0
-          }
-        },
-        {
-          "pasto": "merenda_mattina",
-          "alimenti": [
-            {
-              "codice": "frollini",
-              "quantita_g": 12,
-              "descrizione": "EnerZona Frollini cacao intenso, 2 pezzi circa 12g"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 53.52,
-            "carboidrati_g": 4.92,
-            "proteine_g": 3.36,
-            "grassi_g": 2.04,
-            "fibre_g": 1.01,
-            "sodio_alimenti_mg_stimato": 24.96
-          }
-        },
-        {
-          "pasto": "pranzo",
-          "alimenti": [
-            {
-              "codice": "pasta",
-              "quantita_g": 50,
-              "descrizione": "pasta secca a crudo"
-            },
-            {
-              "codice": "pollo",
-              "quantita_g": 50,
-              "descrizione": "petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g"
-            },
-            {
-              "codice": "tonno",
-              "quantita_g": 50,
-              "descrizione": "tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio EVO"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 413.0,
-            "carboidrati_g": 36.0,
-            "proteine_g": 29.4,
-            "grassi_g": 16.6,
-            "fibre_g": 1.5,
-            "sodio_alimenti_mg_stimato": 278.5
-          },
-          "nota_aggiornamento": "Sostituzione 100g pollo con 50g pollo + 50g tonno al naturale: 55g di tonno per pasto NON richiesti; il sodio aggiuntivo deriva soprattutto dal tonno."
-        },
-        {
-          "pasto": "merenda_pomeriggio",
-          "alimenti": [
-            {
-              "codice": "arachidi",
-              "quantita_g": 5,
-              "descrizione": "arachidi NON salate: variante base"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 29.25,
-            "carboidrati_g": 0.8,
-            "proteine_g": 1.3,
-            "grassi_g": 2.5,
-            "fibre_g": 0.42,
-            "sodio_alimenti_mg_stimato": 0.1
-          }
-        },
-        {
-          "pasto": "cena",
-          "alimenti": [
-            {
-              "codice": "pollo",
-              "quantita_g": 50,
-              "descrizione": "petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g"
-            },
-            {
-              "codice": "tonno",
-              "quantita_g": 50,
-              "descrizione": "tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta"
-            },
-            {
-              "codice": "pane_con_crosta_non_bianco_stima",
-              "quantita_g": 30,
-              "descrizione": "pane comune CON crosta NON bianco; profilo stimato"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio EVO"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 314.5,
-            "carboidrati_g": 14.4,
-            "proteine_g": 25.85,
-            "grassi_g": 16.45,
-            "fibre_g": 1.2,
-            "sodio_alimenti_mg_stimato": 426.5
-          },
-          "nota_aggiornamento": "Sostituzione 100g pollo con 50g pollo + 50g tonno al naturale: 55g di tonno per pasto NON richiesti; il sodio aggiuntivo deriva soprattutto dal tonno."
-        }
-      ],
-      "totali_stimati_con_arachidi": {
-        "calorie_kcal": 907.27,
-        "carboidrati_g": 56.66,
-        "proteine_g": 82.41,
-        "grassi_g": 37.86,
-        "fibre_g": 5.18,
-        "sodio_alimenti_mg_stimato": 838.06
-      },
-      "variante_5g_mandorle": {
-        "pasto": {
-          "pasto": "merenda_pomeriggio",
-          "alimenti": [
-            {
-              "codice": "mandorle_stima",
-              "quantita_g": 5,
-              "descrizione": "mandorle non salate, variante alternativa"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 28.95,
-            "carboidrati_g": 1.08,
-            "proteine_g": 1.06,
-            "grassi_g": 2.5,
-            "fibre_g": 0.62,
-            "sodio_alimenti_mg_stimato": 0.05
-          }
-        },
-        "differenza_nutrienti_sul_totale_giornaliero": {
-          "calorie_kcal": -0.3,
-          "carboidrati_g": 0.28,
-          "proteine_g": -0.24,
-          "grassi_g": 0.0,
-          "fibre_g": 0.2,
-          "sodio_alimenti_mg_stimato": -0.05
-        }
-      },
-      "avvertenze": [
-        "~900 kcal giornaliere stimate: valore estremamente basso per atleta di 13 anni; non validato.",
-        "Pane comune con crosta: etichetta/tipo non noto, sodio e fibre complessivi solo indicativi.",
-        "Le proteine Egg White sono controindicate sotto i 14 anni secondo produttore.",
-        "La merenda con due frollini contiene zuccheri; il PDF pre-gara dice no zucchero.",
-        "Incoerenza con PDF che indica piccoli pasti completi ed energia adeguata all’allenamento.",
-        "Tonno AsdoMar al naturale: consumo 100g/giorno per due giorni; il tonno a pinne gialle è classificato FDA come Good Choice (mercurio). Verificare consumo con il medico e preferire varietà più basse in mercurio quando opportuno.",
-        "L’aumento del sodio non autorizza carico o successiva deplezione sodica né modifiche idriche automatiche."
-      ],
-      "calcolo_sodio_incompleto_per": [
-        "sodio acqua potabile",
-        "sale aggiunto",
-        "sodio integratori e altri ingredienti",
-        "variabilità carne/pane"
-      ],
-      "verifica_basso_residuo": {
-        "soglia_genitore_g": 4,
-        "stima_fibre_con_arachidi_g": 5.18,
-        "esito": "NON CONFORME al limite richiesto di 4g: 5,18g fibre anche con sostituzione pollo-tonno."
-      },
-      "nota_scatoletta_tonno_110g": {
-        "peso_sgocciolato_confezione_g": 110,
-        "usati_pranzo_g": 50,
-        "usati_cena_g": 50,
-        "totale_consumato_g": 100,
-        "residuo_g": 10,
-        "sodio_intrinseco_stimato_da_tonno_mg": 520
-      },
-      "differenze_da_versione_11_1": {
-        "calorie_kcal": 0.0,
-        "carboidrati_g": 0.0,
-        "proteine_g": -0.3,
-        "grassi_g": 0.1,
-        "fibre_g": 0.0,
-        "sodio_alimenti_mg_stimato": 487.0
-      }
-    },
-    {
-      "data": "2026-11-22",
-      "fase": "nuovo menu comunicato dal genitore; dal 21 basso residuo documentale",
-      "stato": "Sostituzione richiesta 50g pollo + 50g tonno per pasto: calcoli aggiornati, NON validata come dieta pediatrica/pre-pesata.",
-      "pasti": [
-        {
-          "pasto": "colazione",
-          "alimenti": [
-            {
-              "codice": "egg",
-              "quantita_g": 30,
-              "descrizione": "Ultimate Italia Egg White cacao in acqua (richiesta del genitore; attenzione età)"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 97.0,
-            "carboidrati_g": 0.54,
-            "proteine_g": 22.5,
-            "grassi_g": 0.27,
-            "fibre_g": 1.05,
-            "sodio_alimenti_mg_stimato": 108.0
-          }
-        },
-        {
-          "pasto": "merenda_mattina",
-          "alimenti": [
-            {
-              "codice": "frollini",
-              "quantita_g": 12,
-              "descrizione": "EnerZona Frollini cacao intenso, 2 pezzi circa 12g"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 53.52,
-            "carboidrati_g": 4.92,
-            "proteine_g": 3.36,
-            "grassi_g": 2.04,
-            "fibre_g": 1.01,
-            "sodio_alimenti_mg_stimato": 24.96
-          }
-        },
-        {
-          "pasto": "pranzo",
-          "alimenti": [
-            {
-              "codice": "pasta",
-              "quantita_g": 50,
-              "descrizione": "pasta secca a crudo"
-            },
-            {
-              "codice": "pollo",
-              "quantita_g": 50,
-              "descrizione": "petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g"
-            },
-            {
-              "codice": "tonno",
-              "quantita_g": 50,
-              "descrizione": "tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio EVO"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 413.0,
-            "carboidrati_g": 36.0,
-            "proteine_g": 29.4,
-            "grassi_g": 16.6,
-            "fibre_g": 1.5,
-            "sodio_alimenti_mg_stimato": 278.5
-          },
-          "nota_aggiornamento": "Sostituzione 100g pollo con 50g pollo + 50g tonno al naturale: 55g di tonno per pasto NON richiesti; il sodio aggiuntivo deriva soprattutto dal tonno."
-        },
-        {
-          "pasto": "merenda_pomeriggio",
-          "alimenti": [
-            {
-              "codice": "arachidi",
-              "quantita_g": 5,
-              "descrizione": "arachidi NON salate: variante base"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 29.25,
-            "carboidrati_g": 0.8,
-            "proteine_g": 1.3,
-            "grassi_g": 2.5,
-            "fibre_g": 0.42,
-            "sodio_alimenti_mg_stimato": 0.1
-          }
-        },
-        {
-          "pasto": "cena",
-          "alimenti": [
-            {
-              "codice": "pollo",
-              "quantita_g": 50,
-              "descrizione": "petto pollo fresco peso a crudo: 50g, in sostituzione parziale del precedente 100g"
-            },
-            {
-              "codice": "tonno",
-              "quantita_g": 50,
-              "descrizione": "tonno AsdoMar al naturale, 50g PESO SGOCIOLATO, da scatoletta 110g; confermare etichetta"
-            },
-            {
-              "codice": "pane_con_crosta_non_bianco_stima",
-              "quantita_g": 30,
-              "descrizione": "pane comune CON crosta NON bianco; profilo stimato"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio EVO"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 314.5,
-            "carboidrati_g": 14.4,
-            "proteine_g": 25.85,
-            "grassi_g": 16.45,
-            "fibre_g": 1.2,
-            "sodio_alimenti_mg_stimato": 426.5
-          },
-          "nota_aggiornamento": "Sostituzione 100g pollo con 50g pollo + 50g tonno al naturale: 55g di tonno per pasto NON richiesti; il sodio aggiuntivo deriva soprattutto dal tonno."
-        }
-      ],
-      "totali_stimati_con_arachidi": {
-        "calorie_kcal": 907.27,
-        "carboidrati_g": 56.66,
-        "proteine_g": 82.41,
-        "grassi_g": 37.86,
-        "fibre_g": 5.18,
-        "sodio_alimenti_mg_stimato": 838.06
-      },
-      "variante_5g_mandorle": {
-        "pasto": {
-          "pasto": "merenda_pomeriggio",
-          "alimenti": [
-            {
-              "codice": "mandorle_stima",
-              "quantita_g": 5,
-              "descrizione": "mandorle non salate, variante alternativa"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 28.95,
-            "carboidrati_g": 1.08,
-            "proteine_g": 1.06,
-            "grassi_g": 2.5,
-            "fibre_g": 0.62,
-            "sodio_alimenti_mg_stimato": 0.05
-          }
-        },
-        "differenza_nutrienti_sul_totale_giornaliero": {
-          "calorie_kcal": -0.3,
-          "carboidrati_g": 0.28,
-          "proteine_g": -0.24,
-          "grassi_g": 0.0,
-          "fibre_g": 0.2,
-          "sodio_alimenti_mg_stimato": -0.05
-        }
-      },
-      "avvertenze": [
-        "~900 kcal giornaliere stimate: valore estremamente basso per atleta di 13 anni; non validato.",
-        "Pane comune con crosta: etichetta/tipo non noto, sodio e fibre complessivi solo indicativi.",
-        "Le proteine Egg White sono controindicate sotto i 14 anni secondo produttore.",
-        "La merenda con due frollini contiene zuccheri; il PDF pre-gara dice no zucchero.",
-        "Incoerenza con PDF che indica piccoli pasti completi ed energia adeguata all’allenamento.",
-        "Tonno AsdoMar al naturale: consumo 100g/giorno per due giorni; il tonno a pinne gialle è classificato FDA come Good Choice (mercurio). Verificare consumo con il medico e preferire varietà più basse in mercurio quando opportuno.",
-        "L’aumento del sodio non autorizza carico o successiva deplezione sodica né modifiche idriche automatiche."
-      ],
-      "calcolo_sodio_incompleto_per": [
-        "sodio acqua potabile",
-        "sale aggiunto",
-        "sodio integratori e altri ingredienti",
-        "variabilità carne/pane"
-      ],
-      "verifica_basso_residuo": {
-        "soglia_genitore_g": 4,
-        "stima_fibre_con_arachidi_g": 5.18,
-        "esito": "NON CONFORME al limite richiesto di 4g: 5,18g fibre anche con sostituzione pollo-tonno."
-      },
-      "nota_scatoletta_tonno_110g": {
-        "peso_sgocciolato_confezione_g": 110,
-        "usati_pranzo_g": 50,
-        "usati_cena_g": 50,
-        "totale_consumato_g": 100,
-        "residuo_g": 10,
-        "sodio_intrinseco_stimato_da_tonno_mg": 520
-      },
-      "differenze_da_versione_11_1": {
-        "calorie_kcal": 0.0,
-        "carboidrati_g": 0.0,
-        "proteine_g": -0.3,
-        "grassi_g": 0.1,
-        "fibre_g": 0.0,
-        "sodio_alimenti_mg_stimato": 487.0
-      }
-    },
-    {
-      "data": "2026-11-23",
-      "fase": "pre-peso: restrizioni combinate richieste",
-      "stato": "SCENARI DI CALCOLO NON ESECUTIVI; non sono porzioni validate né una dieta da seguire",
-      "requisiti_riferiti": {
-        "colazione": "Egg White 30g (integratore controindicato sotto i 14 anni)",
-        "merenda_mattutina": "2 frollini",
-        "pranzo": "100g pollo fresco, olio EVO 15g; richiesta fonte carboidrati pane azimo invece della pasta",
-        "merenda_pomeriggio": "5g arachidi o mandorle; eventuale quota carboidrati del pane spostata qui",
-        "cena": "100g pollo fresco, olio EVO 15g; nessuna fonte principale di carboidrati"
-      },
-      "scenari_non_esecutivi": {
-        "sostituzione_energetica_con_azimo": {
-          "pasti_dimostrativi_non_operativi": [
-            {
-              "pasto": "colazione",
-              "alimenti": [
-                {
-                  "codice": "egg",
-                  "quantita_g": 30,
-                  "descrizione": "Egg White cacao"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 97.0,
-                "carboidrati_g": 0.54,
-                "proteine_g": 22.5,
-                "grassi_g": 0.27,
-                "fibre_g": 1.05,
-                "sodio_alimenti_mg_stimato": 108.0
-              }
-            },
-            {
-              "pasto": "merenda_mattina",
-              "alimenti": [
-                {
-                  "codice": "frollini",
-                  "quantita_g": 12,
-                  "descrizione": "2 frollini EnerZona"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 53.52,
-                "carboidrati_g": 4.92,
-                "proteine_g": 3.36,
-                "grassi_g": 2.04,
-                "fibre_g": 1.01,
-                "sodio_alimenti_mg_stimato": 24.96
-              }
-            },
-            {
-              "pasto": "pranzo",
-              "alimenti": [
-                {
-                  "codice": "pollo",
-                  "quantita_g": 100,
-                  "descrizione": "pollo"
-                },
-                {
-                  "codice": "olio",
-                  "quantita_g": 15,
-                  "descrizione": "olio"
-                },
-                {
-                  "codice": "azimo",
-                  "quantita_g": 47.47,
-                  "descrizione": "azimo, equivalenza teorica 50g pasta"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 413.01,
-                "carboidrati_g": 35.6,
-                "proteine_g": 28.64,
-                "grassi_g": 16.56,
-                "fibre_g": 2.71,
-                "sodio_alimenti_mg_stimato": 38.93
-              }
-            },
-            {
-              "pasto": "merenda_pomeriggio",
-              "alimenti": [
-                {
-                  "codice": "arachidi",
-                  "quantita_g": 5,
-                  "descrizione": "arachidi non salate"
-                },
-                {
-                  "codice": "azimo",
-                  "quantita_g": 21.2,
-                  "descrizione": "azimo, equivalenza teorica 30g pane"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 108.75,
-                "carboidrati_g": 16.7,
-                "proteine_g": 3.68,
-                "grassi_g": 2.84,
-                "fibre_g": 1.63,
-                "sodio_alimenti_mg_stimato": 2.75
-              }
-            },
-            {
-              "pasto": "cena",
-              "alimenti": [
-                {
-                  "codice": "pollo",
-                  "quantita_g": 100,
-                  "descrizione": "pollo"
-                },
-                {
-                  "codice": "olio",
-                  "quantita_g": 15,
-                  "descrizione": "olio"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 235.0,
-                "carboidrati_g": 0.0,
-                "proteine_g": 23.3,
-                "grassi_g": 15.8,
-                "fibre_g": 0.0,
-                "sodio_alimenti_mg_stimato": 33.0
-              }
-            }
-          ],
-          "totali_teorici": {
-            "calorie_kcal": 907.28,
-            "carboidrati_g": 57.76,
-            "proteine_g": 81.48,
-            "grassi_g": 37.51,
-            "fibre_g": 6.4,
-            "sodio_alimenti_mg_stimato": 207.64
-          },
-          "verifica_fibre": {
-            "soglia_genitore_g": 4,
-            "superata": true
-          }
-        },
-        "variante_bio_jelly_invece_azimo_sostitutivo_pane": {
-          "pasti_dimostrativi_non_operativi": [
-            {
-              "pasto": "colazione",
-              "alimenti": [
-                {
-                  "codice": "egg",
-                  "quantita_g": 30,
-                  "descrizione": "Egg White cacao"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 97.0,
-                "carboidrati_g": 0.54,
-                "proteine_g": 22.5,
-                "grassi_g": 0.27,
-                "fibre_g": 1.05,
-                "sodio_alimenti_mg_stimato": 108.0
-              }
-            },
-            {
-              "pasto": "merenda_mattina",
-              "alimenti": [
-                {
-                  "codice": "frollini",
-                  "quantita_g": 12,
-                  "descrizione": "2 frollini EnerZona"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 53.52,
-                "carboidrati_g": 4.92,
-                "proteine_g": 3.36,
-                "grassi_g": 2.04,
-                "fibre_g": 1.01,
-                "sodio_alimenti_mg_stimato": 24.96
-              }
-            },
-            {
-              "pasto": "pranzo",
-              "alimenti": [
-                {
-                  "codice": "pollo",
-                  "quantita_g": 100,
-                  "descrizione": "pollo"
-                },
-                {
-                  "codice": "olio",
-                  "quantita_g": 15,
-                  "descrizione": "olio"
-                },
-                {
-                  "codice": "azimo",
-                  "quantita_g": 47.47,
-                  "descrizione": "azimo, equivalenza teorica 50g pasta"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 413.01,
-                "carboidrati_g": 35.6,
-                "proteine_g": 28.64,
-                "grassi_g": 16.56,
-                "fibre_g": 2.71,
-                "sodio_alimenti_mg_stimato": 38.93
-              }
-            },
-            {
-              "pasto": "merenda_pomeriggio",
-              "alimenti": [
-                {
-                  "codice": "arachidi",
-                  "quantita_g": 5,
-                  "descrizione": "arachidi non salate"
-                },
-                {
-                  "codice": "jelly_bio_verificata",
-                  "quantita_g": 25,
-                  "descrizione": "Jelly BIO fragola-mirtillo, 25g (prodotto differente da standard)"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 113.25,
-                "carboidrati_g": 21.3,
-                "proteine_g": 1.43,
-                "grassi_g": 2.5,
-                "fibre_g": 1.07,
-                "sodio_alimenti_mg_stimato": 11.1
-              }
-            },
-            {
-              "pasto": "cena",
-              "alimenti": [
-                {
-                  "codice": "pollo",
-                  "quantita_g": 100,
-                  "descrizione": "pollo"
-                },
-                {
-                  "codice": "olio",
-                  "quantita_g": 15,
-                  "descrizione": "olio"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 235.0,
-                "carboidrati_g": 0.0,
-                "proteine_g": 23.3,
-                "grassi_g": 15.8,
-                "fibre_g": 0.0,
-                "sodio_alimenti_mg_stimato": 33.0
-              }
-            }
-          ],
-          "totali_teorici": {
-            "calorie_kcal": 911.78,
-            "carboidrati_g": 62.36,
-            "proteine_g": 79.23,
-            "grassi_g": 37.17,
-            "fibre_g": 5.84,
-            "sodio_alimenti_mg_stimato": 215.99
-          },
-          "nota": "Bio 25g contiene 0,7g fibre dichiarate, ma anche zuccheri; non significa che la jelly standard abbia 0,7g. 25g bio non è identico per composizione ai 30g pane.",
-          "verifica_fibre": {
-            "soglia_genitore_g": 4,
-            "superata": true
-          }
-        },
-        "jelly_standard_fragola_mirtillo": {
-          "fibre_g": null,
-          "stato": "Non quantificabile da etichetta web; non attribuire fibra zero.",
-          "sale_g_per_25g": 0.12,
-          "sodio_mg_per_25g": 48
-        }
-      },
-      "giudizio_indipendente": [
-        "Entrambi gli scenari matematici superano 4g fibre.",
-        "Energia complessiva fortemente insufficiente per atleta tredicenne; non trasformare in piano.",
-        "Sodio totale reale non noto, impossibile certificare 600mg.",
-        "I limiti di fibra e sodio sono riferiti dal genitore, non specificati nel PDF originale.",
-        "Sostituire azimo con Jelly introduce zuccheri contro il divieto testuale del PDF."
-      ],
-      "esecuzione_autorizzata": false
-    },
-    {
-      "data": "2026-11-24",
-      "fase": "pre-peso: restrizioni combinate richieste",
-      "stato": "SCENARI DI CALCOLO NON ESECUTIVI; non sono porzioni validate né una dieta da seguire",
-      "requisiti_riferiti": {
-        "colazione": "Egg White 30g (integratore controindicato sotto i 14 anni)",
-        "merenda_mattutina": "2 frollini",
-        "pranzo": "100g pollo fresco, olio EVO 15g; richiesta fonte carboidrati pane azimo invece della pasta",
-        "merenda_pomeriggio": "5g arachidi o mandorle; eventuale quota carboidrati del pane spostata qui",
-        "cena": "100g pollo fresco, olio EVO 15g; nessuna fonte principale di carboidrati"
-      },
-      "scenari_non_esecutivi": {
-        "sostituzione_energetica_con_azimo": {
-          "pasti_dimostrativi_non_operativi": [
-            {
-              "pasto": "colazione",
-              "alimenti": [
-                {
-                  "codice": "egg",
-                  "quantita_g": 30,
-                  "descrizione": "Egg White cacao"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 97.0,
-                "carboidrati_g": 0.54,
-                "proteine_g": 22.5,
-                "grassi_g": 0.27,
-                "fibre_g": 1.05,
-                "sodio_alimenti_mg_stimato": 108.0
-              }
-            },
-            {
-              "pasto": "merenda_mattina",
-              "alimenti": [
-                {
-                  "codice": "frollini",
-                  "quantita_g": 12,
-                  "descrizione": "2 frollini EnerZona"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 53.52,
-                "carboidrati_g": 4.92,
-                "proteine_g": 3.36,
-                "grassi_g": 2.04,
-                "fibre_g": 1.01,
-                "sodio_alimenti_mg_stimato": 24.96
-              }
-            },
-            {
-              "pasto": "pranzo",
-              "alimenti": [
-                {
-                  "codice": "pollo",
-                  "quantita_g": 100,
-                  "descrizione": "pollo"
-                },
-                {
-                  "codice": "olio",
-                  "quantita_g": 15,
-                  "descrizione": "olio"
-                },
-                {
-                  "codice": "azimo",
-                  "quantita_g": 47.47,
-                  "descrizione": "azimo, equivalenza teorica 50g pasta"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 413.01,
-                "carboidrati_g": 35.6,
-                "proteine_g": 28.64,
-                "grassi_g": 16.56,
-                "fibre_g": 2.71,
-                "sodio_alimenti_mg_stimato": 38.93
-              }
-            },
-            {
-              "pasto": "merenda_pomeriggio",
-              "alimenti": [
-                {
-                  "codice": "arachidi",
-                  "quantita_g": 5,
-                  "descrizione": "arachidi non salate"
-                },
-                {
-                  "codice": "azimo",
-                  "quantita_g": 21.2,
-                  "descrizione": "azimo, equivalenza teorica 30g pane"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 108.75,
-                "carboidrati_g": 16.7,
-                "proteine_g": 3.68,
-                "grassi_g": 2.84,
-                "fibre_g": 1.63,
-                "sodio_alimenti_mg_stimato": 2.75
-              }
-            },
-            {
-              "pasto": "cena",
-              "alimenti": [
-                {
-                  "codice": "pollo",
-                  "quantita_g": 100,
-                  "descrizione": "pollo"
-                },
-                {
-                  "codice": "olio",
-                  "quantita_g": 15,
-                  "descrizione": "olio"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 235.0,
-                "carboidrati_g": 0.0,
-                "proteine_g": 23.3,
-                "grassi_g": 15.8,
-                "fibre_g": 0.0,
-                "sodio_alimenti_mg_stimato": 33.0
-              }
-            }
-          ],
-          "totali_teorici": {
-            "calorie_kcal": 907.28,
-            "carboidrati_g": 57.76,
-            "proteine_g": 81.48,
-            "grassi_g": 37.51,
-            "fibre_g": 6.4,
-            "sodio_alimenti_mg_stimato": 207.64
-          },
-          "verifica_fibre": {
-            "soglia_genitore_g": 4,
-            "superata": true
-          }
-        },
-        "variante_bio_jelly_invece_azimo_sostitutivo_pane": {
-          "pasti_dimostrativi_non_operativi": [
-            {
-              "pasto": "colazione",
-              "alimenti": [
-                {
-                  "codice": "egg",
-                  "quantita_g": 30,
-                  "descrizione": "Egg White cacao"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 97.0,
-                "carboidrati_g": 0.54,
-                "proteine_g": 22.5,
-                "grassi_g": 0.27,
-                "fibre_g": 1.05,
-                "sodio_alimenti_mg_stimato": 108.0
-              }
-            },
-            {
-              "pasto": "merenda_mattina",
-              "alimenti": [
-                {
-                  "codice": "frollini",
-                  "quantita_g": 12,
-                  "descrizione": "2 frollini EnerZona"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 53.52,
-                "carboidrati_g": 4.92,
-                "proteine_g": 3.36,
-                "grassi_g": 2.04,
-                "fibre_g": 1.01,
-                "sodio_alimenti_mg_stimato": 24.96
-              }
-            },
-            {
-              "pasto": "pranzo",
-              "alimenti": [
-                {
-                  "codice": "pollo",
-                  "quantita_g": 100,
-                  "descrizione": "pollo"
-                },
-                {
-                  "codice": "olio",
-                  "quantita_g": 15,
-                  "descrizione": "olio"
-                },
-                {
-                  "codice": "azimo",
-                  "quantita_g": 47.47,
-                  "descrizione": "azimo, equivalenza teorica 50g pasta"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 413.01,
-                "carboidrati_g": 35.6,
-                "proteine_g": 28.64,
-                "grassi_g": 16.56,
-                "fibre_g": 2.71,
-                "sodio_alimenti_mg_stimato": 38.93
-              }
-            },
-            {
-              "pasto": "merenda_pomeriggio",
-              "alimenti": [
-                {
-                  "codice": "arachidi",
-                  "quantita_g": 5,
-                  "descrizione": "arachidi non salate"
-                },
-                {
-                  "codice": "jelly_bio_verificata",
-                  "quantita_g": 25,
-                  "descrizione": "Jelly BIO fragola-mirtillo, 25g (prodotto differente da standard)"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 113.25,
-                "carboidrati_g": 21.3,
-                "proteine_g": 1.43,
-                "grassi_g": 2.5,
-                "fibre_g": 1.07,
-                "sodio_alimenti_mg_stimato": 11.1
-              }
-            },
-            {
-              "pasto": "cena",
-              "alimenti": [
-                {
-                  "codice": "pollo",
-                  "quantita_g": 100,
-                  "descrizione": "pollo"
-                },
-                {
-                  "codice": "olio",
-                  "quantita_g": 15,
-                  "descrizione": "olio"
-                }
-              ],
-              "stima_nutrizionale": {
-                "calorie_kcal": 235.0,
-                "carboidrati_g": 0.0,
-                "proteine_g": 23.3,
-                "grassi_g": 15.8,
-                "fibre_g": 0.0,
-                "sodio_alimenti_mg_stimato": 33.0
-              }
-            }
-          ],
-          "totali_teorici": {
-            "calorie_kcal": 911.78,
-            "carboidrati_g": 62.36,
-            "proteine_g": 79.23,
-            "grassi_g": 37.17,
-            "fibre_g": 5.84,
-            "sodio_alimenti_mg_stimato": 215.99
-          },
-          "nota": "Bio 25g contiene 0,7g fibre dichiarate, ma anche zuccheri; non significa che la jelly standard abbia 0,7g. 25g bio non è identico per composizione ai 30g pane.",
-          "verifica_fibre": {
-            "soglia_genitore_g": 4,
-            "superata": true
-          }
-        },
-        "jelly_standard_fragola_mirtillo": {
-          "fibre_g": null,
-          "stato": "Non quantificabile da etichetta web; non attribuire fibra zero.",
-          "sale_g_per_25g": 0.12,
-          "sodio_mg_per_25g": 48
-        }
-      },
-      "giudizio_indipendente": [
-        "Entrambi gli scenari matematici superano 4g fibre.",
-        "Energia complessiva fortemente insufficiente per atleta tredicenne; non trasformare in piano.",
-        "Sodio totale reale non noto, impossibile certificare 600mg.",
-        "I limiti di fibra e sodio sono riferiti dal genitore, non specificati nel PDF originale.",
-        "Sostituire azimo con Jelly introduce zuccheri contro il divieto testuale del PDF."
-      ],
-      "esecuzione_autorizzata": false
-    },
-    {
-      "data": "2026-11-25",
-      "fase": "pesata e rifornimento post peso (come v10)",
-      "stato": "trascritto dalla bozza v10; non validato né esecutivo",
-      "pasti_documentali": [
-        {
-          "pasto": "colazione_pre_peso_facoltativa",
-          "alimenti": [
-            {
-              "codice": "egg",
-              "quantita_g": 15,
-              "descrizione": "egg"
-            },
-            {
-              "codice": "azimo",
-              "quantita_g": 20,
-              "descrizione": "azimo"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 123.5,
-            "carboidrati_g": 15.27,
-            "proteine_g": 13.5,
-            "grassi_g": 0.46,
-            "fibre_g": 1.67,
-            "sodio_alimenti_mg_stimato": 56.5
-          },
-          "nota": "facoltativa prima del peso",
-          "facoltativo": true
-        },
-        {
-          "pasto": "merenda_mattina_pre_peso_facoltativa",
-          "alimenti": [
-            {
-              "codice": "azimo",
-              "quantita_g": 15,
-              "descrizione": "azimo"
-            },
-            {
-              "codice": "egg",
-              "quantita_g": 15,
-              "descrizione": "egg"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 104.75,
-            "carboidrati_g": 11.52,
-            "proteine_g": 12.94,
-            "grassi_g": 0.38,
-            "fibre_g": 1.38,
-            "sodio_alimenti_mg_stimato": 55.88
-          },
-          "nota": "facoltativa prima del peso",
-          "facoltativo": true
-        },
-        {
-          "pasto": "pranzo",
-          "alimenti": [
-            {
-              "codice": "pasta",
-              "quantita_g": 58,
-              "descrizione": "pasta"
-            },
-            {
-              "codice": "pollo",
-              "quantita_g": 100,
-              "descrizione": "pollo"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 441.48,
-            "carboidrati_g": 41.76,
-            "proteine_g": 30.55,
-            "grassi_g": 16.67,
-            "fibre_g": 1.74,
-            "sodio_alimenti_mg_stimato": 35.32
-          },
-          "facoltativo": false
-        },
-        {
-          "pasto": "spuntino_post_peso_1",
-          "alimenti": [
-            {
-              "codice": "patate",
-              "quantita_g": 140,
-              "descrizione": "patate"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 107.8,
-            "carboidrati_g": 23.8,
-            "proteine_g": 2.8,
-            "grassi_g": 0.14,
-            "fibre_g": 2.52,
-            "sodio_alimenti_mg_stimato": 8.4
-          },
-          "facoltativo": false
-        },
-        {
-          "pasto": "spuntino_post_peso_2",
-          "alimenti": [
-            {
-              "codice": "azimo",
-              "quantita_g": 28,
-              "descrizione": "azimo"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 105.0,
-            "carboidrati_g": 21.0,
-            "proteine_g": 3.15,
-            "grassi_g": 0.45,
-            "fibre_g": 1.6,
-            "sodio_alimenti_mg_stimato": 3.5
-          },
-          "facoltativo": false
-        },
-        {
-          "pasto": "cena",
-          "alimenti": [
-            {
-              "codice": "pasta",
-              "quantita_g": 55,
-              "descrizione": "pasta"
-            },
-            {
-              "codice": "manzo",
-              "quantita_g": 100,
-              "descrizione": "manzo"
-            },
-            {
-              "codice": "olio",
-              "quantita_g": 15,
-              "descrizione": "olio"
-            }
-          ],
-          "stima_nutrizionale": {
-            "calorie_kcal": 460.8,
-            "carboidrati_g": 39.6,
-            "proteine_g": 28.88,
-            "grassi_g": 20.32,
-            "fibre_g": 1.65,
-            "sodio_alimenti_mg_stimato": 54.2
-          },
-          "facoltativo": false
-        }
-      ],
-      "totali_stimati_senza_facoltativi": {
-        "calorie_kcal": 1115.08,
-        "carboidrati_g": 126.16,
-        "proteine_g": 65.38,
-        "grassi_g": 37.58,
-        "fibre_g": 7.51,
-        "sodio_alimenti_mg_stimato": 101.42
-      },
-      "totali_stimati_con_facoltativi": {
-        "calorie_kcal": 1343.33,
-        "carboidrati_g": 152.95,
-        "proteine_g": 91.82,
-        "grassi_g": 38.42,
-        "fibre_g": 10.56,
-        "sodio_alimenti_mg_stimato": 213.8
-      },
-      "avvertenze": [
-        "Pasti prima e dopo peso da stabilire in base all’orario reale; non usare digiuno o disidratazione per ridurre il peso.",
-        "Nei conteggi non è incluso sale di rifornimento, acqua, integratori o eventuale gara il giorno successivo.",
-        "Il menu base senza facoltativi è stimato in circa 1115 kcal, non 1200kcal.",
-        "PDF raccomanda ripristino di liquidi e carboidrati dopo il peso: pianificazione individuale medica."
-      ]
-    }
-  ],
-  "equivalenze_teoriche_non_esecutive": {
-    "nota": "Sola equivalenza energetica, non approvata come sostituzione nutrizionale. L’azimo ha più fibre della pasta in rapporto alle calorie.",
-    "pasta_50g_cruda": {
-      "kcal": 178.0,
-      "fibre_g": 1.5,
-      "azimo_kcal_equivalente_g": 47.47,
-      "fibre_azimo_equivalente_g": 2.71
-    },
-    "pane_con_crosta_30g": {
-      "kcal_stimate": 79.5,
-      "azimo_kcal_equivalente_g": 21.2,
-      "fibre_azimo_equivalente_g": 1.21,
-      "nota": "Il pane reale non è identificato, equivalenza incerta."
-    },
-    "destinazione_richiesta_carboidrati_23_24": "Solo pranzo e merenda pomeridiana; niente principale fonte carboidrati a cena; scelta clinica da validare."
   },
   "cronoprogramma_pdf_giorno_per_giorno_solo_documentale": [
     {
@@ -2110,15 +1897,6 @@
     "nota_verdure_18_20": "Le verdure sono già presenti 18-19 (100g per pasto), aggiunte il 20 (100g per pasto). Stima 20: 957.27 kcal, 9.18g fibre, 391.06mg sodio alimentare. Valori con verdura media e pane con crosta non precisamente identificato; non sono prescrizioni.",
     "nota_aggiornamento_tonno": "21 e 22 novembre: circa 907 kcal, 82,41g proteine, 5,18g fibre, 838,06mg sodio alimentare stimato. Rispetto a v11.1 +487mg sodio e -0,30g proteine giornalieri. Non corregge carenza energetica e fibre oltre 4g."
   },
-  "cose_da_chiarire_per_validare": [
-    "Etichetta reale del pane non bianco con crosta: tipo, peso e valori su sale/fibre.",
-    "Eventuali aggiunte in mensa o sale di cottura.",
-    "Confezione esatta Fruit Jelly standard o BIO, dati fibre e zuccheri.",
-    "Fonte e valori aggiornati Egg White, e alternativa consentita sotto 14 anni.",
-    "Indicazioni scritte del medico sportivo su dieta, allenamenti, integrazione e acqua; non ricavare dose di Polase dalle sole parole del PDF.",
-    "Il 25: ora della pesata e programma di recupero con priorità alla reidratazione normale.",
-    "Verificare che la scatoletta di tonno AsdoMar dichiarata da 110g sgocciolati abbia esattamente il profilo al naturale 1,3g sale/100g usato qui; per 50g a porzione le stime vanno confermate."
-  ],
   "aggiornamento_v11_1": {
     "richiesta": "Aggiungere 100 g di verdure a pranzo e 100 g a cena dal 18 al 20 novembre inclusi",
     "criterio": "18 e 19 già avevano 100 g verdure a pranzo e cena: mantenuti senza duplicare. 20 aggiornato con due porzioni nuove.",
